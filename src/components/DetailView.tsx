@@ -1,6 +1,29 @@
 import { h } from 'preact';
-import { useState, useEffect } from 'preact/hooks';
-import { PokemonDetail, PatchType } from '../types';
+import { useState, useEffect, useMemo } from 'preact/hooks';
+import { PokemonDetail, PatchType, LocationEntry } from '../types';
+
+function getMethodIcon(method: string): string {
+  const m = method.toLowerCase();
+  if (m.includes('walk')) return '🚶';
+  if (m.includes('surf')) return '🏄';
+  if (m.includes('rod') || m.includes('fish')) return '🎣';
+  if (m.includes('radar')) return '📡';
+  if (m.includes('swarm')) return '🌟';
+  if (m.includes('honey')) return '🍯';
+  if (m.includes('dual')) return '💎';
+  if (m.includes('static') || m.includes('event')) return '🏛';
+  if (m.includes('marsh')) return '🌾';
+  if (m.includes('garden')) return '🌺';
+  if (m.includes('gift') || m.includes('egg')) return '🎁';
+  return '📍';
+}
+
+function getTimeIcon(time: string): string {
+  if (time === 'Morning') return '🌅';
+  if (time === 'Day') return '☀️';
+  if (time === 'Night') return '🌙';
+  return '⏱';
+}
 
 interface DetailViewProps {
   pokemonId: number;
@@ -95,6 +118,16 @@ export function DetailView({
   };
 
   const maxStat = 180;
+
+  const groupedLocations = useMemo(() => {
+    if (!detail?.locations) return [];
+    const map = new Map<string, LocationEntry[]>();
+    for (const loc of detail.locations) {
+      if (!map.has(loc.area)) map.set(loc.area, []);
+      map.get(loc.area)!.push(loc);
+    }
+    return Array.from(map.entries());
+  }, [detail?.locations]);
 
   return (
     <div className="detail-view">
@@ -195,6 +228,68 @@ export function DetailView({
             ⚪ {isCaught ? 'Caught ✓' : 'Mark Caught'}
           </button>
         </div>
+
+        {/* WHERE TO FIND IN SINNOH (Prominent near top of detail page) */}
+        <div className="where-to-find-card">
+          <div className="where-to-find-header">
+            <span className="where-to-find-title">📍 WHERE TO FIND IN SINNOH</span>
+            {detail.locations && detail.locations.length > 0 ? (
+              <span className="location-badge-count">
+                {detail.locations.length} encounter{detail.locations.length === 1 ? '' : 's'}
+              </span>
+            ) : null}
+          </div>
+
+          {detail.locations && detail.locations.length > 0 ? (
+            <div className="locations-grouped-list">
+              {groupedLocations.map(([area, locs]) => (
+                <div key={area} className="area-location-group">
+                  <div className="area-name-header">
+                    <span>📌</span>
+                    <span>{area}</span>
+                  </div>
+                  <div className="area-encounters-rows">
+                    {locs.map((loc, idx) => (
+                      <div key={idx} className="encounter-row-item">
+                        <span className="encounter-method-tag">
+                          {getMethodIcon(loc.method)} {loc.method}
+                        </span>
+                        <span className="encounter-level-tag">
+                          Lv. {loc.levels}
+                        </span>
+                        <span className="encounter-rate-tag">
+                          {loc.rate}%
+                        </span>
+                        {loc.time && loc.time !== 'Any' && (
+                          <span className="encounter-time-tag">
+                            {getTimeIcon(loc.time)} {loc.time}
+                          </span>
+                        )}
+                        {loc.source === 'refined' && (
+                          <span className="rp-badge" title="Refined Platinum addition">
+                            RP
+                          </span>
+                        )}
+                        {loc.conditions && (
+                          <div className="encounter-condition-sub">
+                            ℹ️ {loc.conditions}
+                          </div>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div className="how-to-obtain-box">
+              <div className="obtain-tag">HOW TO OBTAIN:</div>
+              <div className="obtain-text">
+                {detail.howToObtain || 'Not found in the wild. Obtainable via evolution, in-game trade, or event.'}
+              </div>
+            </div>
+          )}
+        </div>
       </div>
 
       {/* Detail Section Tabs */}
@@ -221,7 +316,7 @@ export function DetailView({
           className={`detail-tab ${activeTab === 'locations' ? 'active' : ''}`}
           onClick={() => setActiveTab('locations')}
         >
-          Find ({detail.whereToFind.encounters.length + (detail.whereToFind.legendary ? 1 : 0)})
+          Find ({detail.locations ? detail.locations.length : 0})
         </button>
         <button
           className={`detail-tab ${activeTab === 'moves' ? 'active' : ''}`}
@@ -491,36 +586,52 @@ export function DetailView({
               </div>
             )}
 
-            {/* Wild Encounters */}
-            {detail.whereToFind.encounters.length === 0 && !detail.whereToFind.legendary ? (
-              <div style={{ padding: '20px', background: 'var(--screen-panel)', borderRadius: '12px', textAlign: 'center', fontSize: '12px', color: 'var(--screen-text-muted)' }}>
-                Not found wild in Refined Platinum. Obtainable via evolution, in-game trade, or fossil restoration in Canalave City.
+            {/* Wild Locations */}
+            {groupedLocations.length === 0 ? (
+              <div className="how-to-obtain-box" style={{ marginTop: '10px' }}>
+                <div className="obtain-tag">HOW TO OBTAIN:</div>
+                <div className="obtain-text">
+                  {detail.howToObtain || 'Not found in the wild. Obtainable via evolution, in-game trade, or event.'}
+                </div>
               </div>
             ) : (
-              <div>
-                {detail.whereToFind.encounters.map((enc, idx) => (
-                  <div key={idx} className="encounter-group-card">
-                    <div className="location-title">
-                      {enc.location}
-                      {enc.source === 'refined' && (
-                        <span className="refined-badge">★ Refined Platinum</span>
-                      )}
+              <div className="locations-grouped-list">
+                {groupedLocations.map(([area, locs]) => (
+                  <div key={area} className="area-location-group">
+                    <div className="area-name-header">
+                      <span>📌</span>
+                      <span>{area}</span>
                     </div>
-                    <div className="encounter-row">
-                      <span className="encounter-method-badge">{enc.method}</span>
-                      <span style={{ color: 'var(--screen-text-muted)' }}>
-                        {enc.timeOfDay ? `Time: ${enc.timeOfDay} • ` : ''}
-                        {enc.minLevel ? `Lvl ${enc.minLevel}${enc.maxLevel && enc.maxLevel !== enc.minLevel ? `-${enc.maxLevel}` : ''}` : ''}
-                      </span>
-                      <span style={{ fontWeight: '700', color: 'var(--screen-highlight)' }}>
-                        {enc.rate}%
-                      </span>
+                    <div className="area-encounters-rows">
+                      {locs.map((loc, idx) => (
+                        <div key={idx} className="encounter-row-item">
+                          <span className="encounter-method-tag">
+                            {getMethodIcon(loc.method)} {loc.method}
+                          </span>
+                          <span className="encounter-level-tag">
+                            Lv. {loc.levels}
+                          </span>
+                          <span className="encounter-rate-tag">
+                            {loc.rate}%
+                          </span>
+                          {loc.time && loc.time !== 'Any' && (
+                            <span className="encounter-time-tag">
+                              {getTimeIcon(loc.time)} {loc.time}
+                            </span>
+                          )}
+                          {loc.source === 'refined' && (
+                            <span className="rp-badge" title="Refined Platinum addition">
+                              RP
+                            </span>
+                          )}
+                          {loc.conditions && (
+                            <div className="encounter-condition-sub">
+                              ℹ️ {loc.conditions}
+                            </div>
+                          )}
+                        </div>
+                      ))}
                     </div>
-                    {enc.notes && (
-                      <div style={{ fontSize: '11px', color: 'var(--screen-text-muted)', marginTop: '4px', fontStyle: 'italic' }}>
-                        Note: {enc.notes}
-                      </div>
-                    )}
                   </div>
                 ))}
               </div>

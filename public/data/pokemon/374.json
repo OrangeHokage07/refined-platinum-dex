@@ -56,27 +56,32 @@
   },
   "evolutions": [
     {
-      "method": "level",
+      "method": "Level 20",
       "level": 20,
       "target": "Metang"
     }
   ],
+  "locations": [
+    {
+      "area": "Route 228",
+      "method": "Swarm",
+      "levels": "51-52",
+      "rate": 40,
+      "time": "Any",
+      "conditions": "Swarm active",
+      "source": "vanilla"
+    }
+  ],
+  "howToObtain": "Gift Poké Ball from Steven Stone in his home in the Survival Area (postgame)",
   "whereToFind": {
     "encounters": [
       {
         "location": "Route 228",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 51,
-        "maxLevel": 51,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 228",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 52,
-        "maxLevel": 52,
+        "method": "Swarm",
+        "rate": 40,
+        "levels": "51-52",
+        "time": "Any",
+        "notes": "Swarm active",
         "source": "vanilla"
       }
     ],

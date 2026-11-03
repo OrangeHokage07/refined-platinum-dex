@@ -1,37 +1,5 @@
 [
   {
-    "location": "Time (Morning, Day, Night) is in parenthesis. Absence of parenthesis means it is present all day. Because it's Platinum, all time",
-    "method": "walk",
-    "pokemon": "based changes are a flat",
-    "rate": 10,
-    "timeOfDay": "Any",
-    "source": "refined"
-  },
-  {
-    "location": "Time (Morning, Day, Night) is in parenthesis. Absence of parenthesis means it is present all day. Because it's Platinum, all time",
-    "method": "walk",
-    "pokemon": "Oreburgh Gate B1F has",
-    "rate": 4,
-    "timeOfDay": "Any",
-    "source": "refined"
-  },
-  {
-    "location": "Time (Morning, Day, Night) is in parenthesis. Absence of parenthesis means it is present all day. Because it's Platinum, all time",
-    "method": "walk",
-    "pokemon": "but in the Day Shieldon goes up to",
-    "rate": 14,
-    "timeOfDay": "Any",
-    "source": "refined"
-  },
-  {
-    "location": "Time (Morning, Day, Night) is in parenthesis. Absence of parenthesis means it is present all day. Because it's Platinum, all time",
-    "method": "walk",
-    "pokemon": "and in the Night Cranidos goes up to",
-    "rate": 14,
-    "timeOfDay": "Any",
-    "source": "refined"
-  },
-  {
     "location": "Eterna Forest",
     "method": "walk",
     "pokemon": "Burmy",

@@ -937,6 +937,7 @@ const encounterOverrides: WildEncounterOverride[] = [];
 // Helper to parse line: "Location - Mon 20%, Mon 10%" or "Location (Day) - Mon 10%"
 function parseEncounterLine(line: string, defaultMethod: string, defaultNotes?: string) {
   if (!line || !line.includes('-') || line.startsWith('*') || line.startsWith('3') || line.startsWith('#')) return;
+  if (line.toLowerCase().includes('parenthesis') || line.toLowerCase().includes('flat 10%') || line.toLowerCase().includes('absence of')) return;
   const dashIdx = line.indexOf('-');
   const left = line.slice(0, dashIdx).trim();
   const right = line.slice(dashIdx + 1).trim();

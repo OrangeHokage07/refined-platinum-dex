@@ -57,401 +57,499 @@
   "evolutions": [
     {
       "method": "level_female",
-      "level": 21,
       "target": "Vespiquen"
     }
   ],
+  "locations": [
+    {
+      "area": "Floaroma Meadow",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 North",
+      "method": "Walking",
+      "levels": "levels estimated",
+      "rate": 10,
+      "time": "Any",
+      "conditions": "Pre-E4",
+      "source": "refined"
+    },
+    {
+      "area": "Route 204 South",
+      "method": "Walking",
+      "levels": "levels estimated",
+      "rate": 5,
+      "time": "Any",
+      "conditions": "Pre-E4",
+      "source": "refined"
+    },
+    {
+      "area": "Route 205 (south, towards Floaroma Town)",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Valley Windworks",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Valley Windworks",
+      "method": "Walking",
+      "levels": "levels estimated",
+      "rate": 5,
+      "time": "Any",
+      "conditions": "Pre-E4",
+      "source": "refined"
+    },
+    {
+      "area": "Eterna Forest",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Fuego Ironworks",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 205 (east, towards Eterna City)",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 205 North",
+      "method": "Walking",
+      "levels": "levels estimated",
+      "rate": 4,
+      "time": "Any",
+      "conditions": "Pre-E4",
+      "source": "refined"
+    },
+    {
+      "area": "Route 205 North",
+      "method": "Walking",
+      "levels": "levels estimated",
+      "rate": 10,
+      "time": "Day",
+      "conditions": "Pre-E4",
+      "source": "refined"
+    },
+    {
+      "area": "Route 205 South",
+      "method": "Walking",
+      "levels": "levels estimated",
+      "rate": 20,
+      "time": "Any",
+      "conditions": "Pre-E4",
+      "source": "refined"
+    },
+    {
+      "area": "Route 206",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 207",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 208",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 209",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 210 South",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 215",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 214",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 212 (east, towards Pastoria City)",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 213",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 212 North",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 210 (west, towards Celestic Town)",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 218",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 211 East",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 222",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 221",
+      "method": "Honey Tree",
+      "levels": "5-15",
+      "rate": 60,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    }
+  ],
+  "howToObtain": "Found in the wild (see locations below)",
   "whereToFind": {
     "encounters": [
       {
-        "location": "Route 205",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 206",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 207",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 209",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 211",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 213",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 214",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 215",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 218",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 221",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 222",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna Forest",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Fuego Ironworks",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
         "location": "Floaroma Meadow",
-        "method": "honey tree",
-        "rate": 40,
-        "minLevel": 5,
-        "maxLevel": 15,
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Route 205",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 206",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 207",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 209",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 211",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 213",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 214",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 215",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 218",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 221",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 222",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna Forest",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Fuego Ironworks",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Floaroma Meadow",
-        "method": "honey tree",
-        "rate": 20,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "walk",
-        "pokemon": "Combee",
-        "rate": 5,
-        "timeOfDay": "Any",
+        "location": "Route 204 North",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "levels estimated",
+        "time": "Any",
         "notes": "Pre-E4",
         "source": "refined"
       },
       {
         "location": "Route 204 South",
-        "method": "walk",
-        "pokemon": "Combee",
+        "method": "Walking",
         "rate": 5,
-        "timeOfDay": "Any",
+        "levels": "levels estimated",
+        "time": "Any",
         "notes": "Pre-E4",
         "source": "refined"
       },
       {
-        "location": "Route 204 North",
-        "method": "walk",
-        "pokemon": "Combee",
+        "location": "Route 205 (south, towards Floaroma Town)",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "Walking",
+        "rate": 5,
+        "levels": "levels estimated",
+        "time": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Fuego Ironworks",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205 (east, towards Eterna City)",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205 North",
+        "method": "Walking",
+        "rate": 4,
+        "levels": "levels estimated",
+        "time": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 205 North",
+        "method": "Walking",
         "rate": 10,
-        "timeOfDay": "Any",
+        "levels": "levels estimated",
+        "time": "Day",
         "notes": "Pre-E4",
         "source": "refined"
       },
       {
         "location": "Route 205 South",
-        "method": "walk",
-        "pokemon": "Combee",
+        "method": "Walking",
         "rate": 20,
-        "timeOfDay": "Any",
+        "levels": "levels estimated",
+        "time": "Any",
         "notes": "Pre-E4",
         "source": "refined"
       },
       {
-        "location": "Route 205 North",
-        "method": "walk",
-        "pokemon": "Combee",
-        "rate": 4,
-        "timeOfDay": "Any",
-        "notes": "Pre-E4",
-        "source": "refined"
+        "location": "Route 206",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
       },
       {
-        "location": "Route 205 North",
-        "method": "walk",
-        "pokemon": "Combee",
-        "rate": 10,
-        "timeOfDay": "Day",
-        "notes": "Pre-E4",
-        "source": "refined"
+        "location": "Route 207",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210 South",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 215",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212 (east, towards Pastoria City)",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212 North",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210 (west, towards Celestic Town)",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 211 East",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "Honey Tree",
+        "rate": 60,
+        "levels": "5-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
       }
     ],
     "legendary": null
@@ -499,13 +597,13 @@
       "tmHm": [],
       "tutor": [
         {
-          "name": "MUD SLAP",
-          "type": "Normal",
-          "category": "Physical",
-          "power": null,
-          "accuracy": null,
-          "pp": 0,
-          "description": ""
+          "name": "Mud-Slap",
+          "type": "Ground",
+          "category": "Special",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user hurls mud in the foe’s face to inflict damage and lower its accuracy."
         },
         {
           "name": "Ominous Wind",
@@ -590,13 +688,13 @@
       "tmHm": [],
       "tutor": [
         {
-          "name": "MUD SLAP",
-          "type": "Normal",
-          "category": "Physical",
-          "power": null,
-          "accuracy": null,
-          "pp": 0,
-          "description": ""
+          "name": "Mud-Slap",
+          "type": "Ground",
+          "category": "Special",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user hurls mud in the foe’s face to inflict damage and lower its accuracy."
         },
         {
           "name": "Ominous Wind",

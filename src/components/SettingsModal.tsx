@@ -205,6 +205,13 @@ export function SettingsModal({ progress, onClose, onUpdateProgress }: SettingsM
                 </div>
               </div>
             )}
+
+            {/* App Version & Info */}
+            <div style={{ marginTop: '16px', paddingTop: '12px', borderTop: '1px solid var(--screen-card-border)', textAlign: 'center', fontSize: '11px', color: 'var(--screen-text-muted)' }}>
+              <div><strong>Refined Platinum Dex v1.1.0</strong></div>
+              <div style={{ fontSize: '10px', marginTop: '2px' }}>For Pokémon Refined Platinum v4.3.1</div>
+              <div style={{ fontSize: '9px', marginTop: '4px', opacity: 0.8 }}>Offline PWA • Gen 4 Sinnoh Rules • 493 Pokémon</div>
+            </div>
           </div>
         </div>
       </div>

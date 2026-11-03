@@ -55,183 +55,36 @@
     "Dark": 1
   },
   "evolutions": [],
+  "locations": [
+    {
+      "area": "Route 208",
+      "method": "Walking",
+      "levels": "18-20",
+      "rate": 20,
+      "time": "Any",
+      "conditions": "Pre-E4",
+      "source": "refined"
+    }
+  ],
+  "howToObtain": "Found in the wild (see locations below)",
   "whereToFind": {
     "encounters": [
       {
         "location": "Route 208",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 19,
-        "maxLevel": 19,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 18,
-        "maxLevel": 18,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "walk",
-        "pokemon": "Smeargle",
+        "method": "Walking",
         "rate": 20,
-        "timeOfDay": "Any",
+        "levels": "18-20",
+        "time": "Any",
         "notes": "Pre-E4",
         "source": "refined"
       }
     ],
     "legendary": null
   },
-  "heldItems": [
-    {
-      "item": "Starf Berry",
-      "chance": 5
-    }
-  ],
+  "heldItems": [],
   "moves": {
     "trainer": {
       "levelUp": [
-        {
-          "name": "Sketch",
-          "type": "Normal",
-          "category": "Status",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
-          "level": 1
-        },
-        {
-          "name": "Sketch",
-          "type": "Normal",
-          "category": "Status",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
-          "level": 11
-        },
-        {
-          "name": "Sketch",
-          "type": "Normal",
-          "category": "Status",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
-          "level": 21
-        },
-        {
-          "name": "Sketch",
-          "type": "Normal",
-          "category": "Status",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
-          "level": 31
-        },
-        {
-          "name": "Sketch",
-          "type": "Normal",
-          "category": "Status",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
-          "level": 41
-        },
-        {
-          "name": "Sketch",
-          "type": "Normal",
-          "category": "Status",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
-          "level": 51
-        },
-        {
-          "name": "Sketch",
-          "type": "Normal",
-          "category": "Status",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
-          "level": 61
-        },
-        {
-          "name": "Sketch",
-          "type": "Normal",
-          "category": "Status",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
-          "level": 71
-        },
-        {
-          "name": "Sketch",
-          "type": "Normal",
-          "category": "Status",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
-          "level": 81
-        },
         {
           "name": "Sketch",
           "type": "Normal",

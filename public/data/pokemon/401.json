@@ -55,158 +55,329 @@
   },
   "evolutions": [
     {
-      "method": "level",
+      "method": "Level 10",
       "level": 10,
       "target": "Kricketune"
     }
   ],
+  "locations": [
+    {
+      "area": "Lake Verity",
+      "method": "Walking",
+      "levels": "35-40 (levels estimated)",
+      "rate": 10,
+      "time": "Any",
+      "conditions": "Pre-E4 Morning & Night",
+      "source": "refined"
+    },
+    {
+      "area": "Route 201",
+      "method": "Walking",
+      "levels": "3",
+      "rate": 10,
+      "time": "Night",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 201",
+      "method": "Walking",
+      "levels": "3",
+      "rate": 10,
+      "time": "Morning",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 202",
+      "method": "Walking",
+      "levels": "4",
+      "rate": 10,
+      "time": "Night",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 202",
+      "method": "Walking",
+      "levels": "3",
+      "rate": 10,
+      "time": "Morning",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 203",
+      "method": "Walking",
+      "levels": "5",
+      "rate": 10,
+      "time": "Night",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 203",
+      "method": "Walking",
+      "levels": "4",
+      "rate": 10,
+      "time": "Morning",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 North",
+      "method": "Walking",
+      "levels": "9",
+      "rate": 10,
+      "time": "Night",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 North",
+      "method": "Walking",
+      "levels": "8",
+      "rate": 10,
+      "time": "Morning",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 South",
+      "method": "Walking",
+      "levels": "4",
+      "rate": 10,
+      "time": "Night",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 South",
+      "method": "Walking",
+      "levels": "3",
+      "rate": 10,
+      "time": "Morning",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Eterna Forest",
+      "method": "Walking",
+      "levels": "10",
+      "rate": 10,
+      "time": "Night",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Eterna Forest",
+      "method": "Walking",
+      "levels": "12",
+      "rate": 10,
+      "time": "Morning",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 205 (east, towards Eterna City)",
+      "method": "Walking",
+      "levels": "13",
+      "rate": 10,
+      "time": "Night",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 205 (east, towards Eterna City)",
+      "method": "Walking",
+      "levels": "12",
+      "rate": 10,
+      "time": "Morning",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 207",
+      "method": "Walking",
+      "levels": "6",
+      "rate": 10,
+      "time": "Night",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 207",
+      "method": "Walking",
+      "levels": "5",
+      "rate": 10,
+      "time": "Morning",
+      "conditions": "",
+      "source": "vanilla"
+    }
+  ],
+  "howToObtain": "Found in the wild (see locations below)",
   "whereToFind": {
     "encounters": [
       {
-        "location": "Eterna Forest",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 10,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna Forest",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 12,
-        "maxLevel": 12,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 201",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 3,
-        "maxLevel": 3,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 201",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 3,
-        "maxLevel": 3,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 202",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 4,
-        "maxLevel": 4,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 202",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 3,
-        "maxLevel": 3,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 203",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 5,
-        "maxLevel": 5,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 203",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 4,
-        "maxLevel": 4,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 4,
-        "maxLevel": 4,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 3,
-        "maxLevel": 3,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 9,
-        "maxLevel": 9,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 8,
-        "maxLevel": 8,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 13,
-        "maxLevel": 13,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 12,
-        "maxLevel": 12,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 207",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 6,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 207",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 5,
-        "maxLevel": 5,
-        "source": "vanilla"
-      },
-      {
         "location": "Lake Verity",
-        "method": "walk",
-        "pokemon": "Kricketot",
+        "method": "Walking",
         "rate": 10,
-        "timeOfDay": "Any",
+        "levels": "35-40 (levels estimated)",
+        "time": "Any",
         "notes": "Pre-E4 Morning & Night",
         "source": "refined"
+      },
+      {
+        "location": "Route 201",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "3",
+        "time": "Night",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 201",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "3",
+        "time": "Morning",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 202",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "4",
+        "time": "Night",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 202",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "3",
+        "time": "Morning",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "5",
+        "time": "Night",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "4",
+        "time": "Morning",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204 North",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "9",
+        "time": "Night",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204 North",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "8",
+        "time": "Morning",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204 South",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "4",
+        "time": "Night",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204 South",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "3",
+        "time": "Morning",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "10",
+        "time": "Night",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "12",
+        "time": "Morning",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205 (east, towards Eterna City)",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "13",
+        "time": "Night",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205 (east, towards Eterna City)",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "12",
+        "time": "Morning",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 207",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "6",
+        "time": "Night",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 207",
+        "method": "Walking",
+        "rate": 10,
+        "levels": "5",
+        "time": "Morning",
+        "notes": "",
+        "source": "vanilla"
       }
     ],
     "legendary": null
   },
   "heldItems": [
     {
-      "item": "Custap Berry",
-      "chance": 5,
-      "notes": "(no Metronome)"
+      "item": "Metronome",
+      "chance": 5
     }
   ],
   "moves": {
@@ -246,13 +417,13 @@
       "tmHm": [],
       "tutor": [
         {
-          "name": "MUD SLAP",
-          "type": "Normal",
-          "category": "Physical",
-          "power": null,
-          "accuracy": null,
-          "pp": 0,
-          "description": ""
+          "name": "Mud-Slap",
+          "type": "Ground",
+          "category": "Special",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user hurls mud in the foe’s face to inflict damage and lower its accuracy."
         },
         {
           "name": "Snore",
@@ -319,13 +490,13 @@
       "tmHm": [],
       "tutor": [
         {
-          "name": "MUD SLAP",
-          "type": "Normal",
-          "category": "Physical",
-          "power": null,
-          "accuracy": null,
-          "pp": 0,
-          "description": ""
+          "name": "Mud-Slap",
+          "type": "Ground",
+          "category": "Special",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user hurls mud in the foe’s face to inflict damage and lower its accuracy."
         },
         {
           "name": "Snore",

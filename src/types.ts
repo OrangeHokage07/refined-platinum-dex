@@ -75,6 +75,16 @@ export interface WildHeldItem {
   notes?: string;
 }
 
+export interface LocationEntry {
+  area: string;
+  method: string;
+  levels: string;
+  rate: number;
+  time: string;
+  conditions: string;
+  source: 'vanilla' | 'refined';
+}
+
 export interface PokemonDetail {
   id: number;
   sinnohId: number | null;
@@ -92,6 +102,8 @@ export interface PokemonDetail {
   baseStats: BaseStats;
   typeMatchups: { [type: string]: number };
   evolutions: EvolutionStep[];
+  locations: LocationEntry[];
+  howToObtain: string;
   whereToFind: {
     encounters: WildEncounter[];
     legendary: LegendaryInfo | null;

@@ -17,6 +17,7 @@ const GEN4_TYPES = [
 
 export function App() {
   const [pokemonList, setPokemonList] = useState<IndexPokemon[]>([]);
+  const [areasData, setAreasData] = useState<{ [area: string]: any[] }>({});
   const [progress, setProgress] = useState<UserProgress>(DEFAULT_PROGRESS);
   const [loading, setLoading] = useState(true);
 
@@ -59,6 +60,12 @@ export function App() {
         console.error('Failed to load index.json:', err);
         setLoading(false);
       });
+
+    // 4. Load reverse index areas.json
+    fetch('data/areas.json')
+      .then(r => r.json())
+      .then(data => setAreasData(data))
+      .catch(err => console.warn('Failed to load areas.json:', err));
   }, []);
 
   // Update progress helper (saves immediately without blocking UI)
@@ -158,14 +165,26 @@ export function App() {
       result.sort((a, b) => a.id - b.id);
     }
 
-    // Search query
+    // Search query: match Pokemon name, Dex IDs, or Area Name in areasData
     if (filters.query.trim()) {
       const q = filters.query.toLowerCase().trim();
+
+      // Collect Pokemon IDs found in any matching area
+      const matchingAreaMonIds = new Set<number>();
+      for (const [area, mons] of Object.entries(areasData)) {
+        if (area.toLowerCase().includes(q)) {
+          for (const m of mons) {
+            matchingAreaMonIds.add(m.id);
+          }
+        }
+      }
+
       result = result.filter(m => {
         const nameMatch = m.name.toLowerCase().includes(q);
         const idMatch = String(m.id).includes(q) || `#${String(m.id).padStart(3, '0')}`.includes(q);
         const sinnohMatch = m.sinnohId ? String(m.sinnohId).includes(q) : false;
-        return nameMatch || idMatch || sinnohMatch;
+        const areaMatch = matchingAreaMonIds.has(m.id);
+        return nameMatch || idMatch || sinnohMatch || areaMatch;
       });
     }
 
@@ -211,7 +230,17 @@ export function App() {
     }
 
     return result;
-  }, [pokemonList, filters, progress.caught, progress.seen, progress.gameStage]);
+  }, [pokemonList, filters, progress.caught, progress.seen, progress.gameStage, areasData]);
+
+  // Check if current search query matches a known area name
+  const matchedArea = useMemo(() => {
+    if (!filters.query.trim()) return null;
+    const q = filters.query.toLowerCase().trim();
+    for (const area of Object.keys(areasData)) {
+      if (area.toLowerCase().includes(q)) return area;
+    }
+    return null;
+  }, [filters.query, areasData]);
 
   const backupWarning = getBackupAgeDays(progress.lastBackupDate) > 14;
 
@@ -297,7 +326,7 @@ export function App() {
                 <input
                   type="text"
                   className="search-input"
-                  placeholder="Search Pokémon or #..."
+                  placeholder="Search Pokémon or Area (e.g. Route 210)..."
                   value={filters.query}
                   onInput={e => setFilters(f => ({ ...f, query: (e.target as HTMLInputElement).value }))}
                 />
@@ -310,6 +339,13 @@ export function App() {
                   </button>
                 )}
               </div>
+
+              {matchedArea && (
+                <div className="area-search-pill">
+                  <span>📍 Pokémon found in <strong>{matchedArea}</strong></span>
+                  <span style={{ fontSize: '10px', opacity: 0.85 }}>({filteredList.length} species)</span>
+                </div>
+              )}
 
               {/* Filter Pills scroll */}
               <div className="filters-scroll">

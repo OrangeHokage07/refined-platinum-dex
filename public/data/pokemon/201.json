@@ -54,1745 +54,339 @@
     "Dark": 2
   },
   "evolutions": [],
+  "locations": [
+    {
+      "area": "Solaceon Ruins (1F)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (2F)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B1F A)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B1F B)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B1F C)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B2F A)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B2F B)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B2F C)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B3F A)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B3F B)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B3F C)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B3F D)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B3F E)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B4F A)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B4F B)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B4F C)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B4F D)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Solaceon Ruins (B5F)",
+      "method": "Walking",
+      "levels": "20-30",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    }
+  ],
+  "howToObtain": "Found in the wild (see locations below)",
   "whereToFind": {
     "encounters": [
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
+        "location": "Solaceon Ruins (1F)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
+        "location": "Solaceon Ruins (2F)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
+        "location": "Solaceon Ruins (B1F A)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
+        "location": "Solaceon Ruins (B1F B)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
+        "location": "Solaceon Ruins (B1F C)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
+        "location": "Solaceon Ruins (B2F A)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
+        "location": "Solaceon Ruins (B2F B)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
+        "location": "Solaceon Ruins (B2F C)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
+        "location": "Solaceon Ruins (B3F A)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
+        "location": "Solaceon Ruins (B3F B)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
+        "location": "Solaceon Ruins (B3F C)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
+        "location": "Solaceon Ruins (B3F D)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
+        "location": "Solaceon Ruins (B3F E)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
+        "location": "Solaceon Ruins (B4F A)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
+        "location": "Solaceon Ruins (B4F B)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
+        "location": "Solaceon Ruins (B4F C)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
+        "location": "Solaceon Ruins (B4F D)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 20,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 20,
-        "minLevel": 21,
-        "maxLevel": 21,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 23,
-        "maxLevel": 23,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 24,
-        "maxLevel": 24,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 25,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 26,
-        "maxLevel": 26,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 27,
-        "maxLevel": 27,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 28,
-        "maxLevel": 28,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 29,
-        "maxLevel": 29,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
-        "source": "vanilla"
-      },
-      {
-        "location": "Solaceon Ruins",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 30,
-        "maxLevel": 30,
+        "location": "Solaceon Ruins (B5F)",
+        "method": "Walking",
+        "rate": 100,
+        "levels": "20-30",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       }
     ],
     "legendary": null
   },
-  "heldItems": [
-    {
-      "item": "Yellow Shard",
-      "chance": 100
-    }
-  ],
+  "heldItems": [],
   "moves": {
     "trainer": {
       "levelUp": [
@@ -1804,7 +398,8 @@
           "accuracy": 100,
           "pp": 15,
           "description": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
-          "level": 1
+          "level": 1,
+          "machine": "TM10"
         }
       ],
       "tmHm": [],
@@ -1820,7 +415,8 @@
           "accuracy": 100,
           "pp": 15,
           "description": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
-          "level": 1
+          "level": 1,
+          "machine": "TM10"
         }
       ],
       "tmHm": [],

@@ -54,122 +54,33 @@
     "Dark": 2
   },
   "evolutions": [],
+  "locations": [
+    {
+      "area": "Lake Valor",
+      "method": "Poké Radar",
+      "levels": "35-40 (levels estimated)",
+      "rate": 22,
+      "time": "Any",
+      "conditions": "Poké Radar",
+      "source": "refined"
+    }
+  ],
+  "howToObtain": "Evolve from Wynaut (Level 15)",
   "whereToFind": {
     "encounters": [
       {
-        "location": "Lake Verity",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 3,
-        "maxLevel": 3,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 3,
-        "maxLevel": 3,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 4,
-        "maxLevel": 4,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 4,
-        "maxLevel": 4,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 3,
-        "maxLevel": 3,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 3,
-        "maxLevel": 3,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 4,
-        "maxLevel": 4,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 4,
-        "maxLevel": 4,
-        "source": "vanilla"
-      },
-      {
         "location": "Lake Valor",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 40,
-        "maxLevel": 40,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "walk",
-        "rate": 10,
-        "minLevel": 38,
-        "maxLevel": 38,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 40,
-        "maxLevel": 40,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "walk",
-        "rate": 1,
-        "minLevel": 41,
-        "maxLevel": 41,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "radar",
-        "pokemon": "Wobbuffet",
+        "method": "Poké Radar",
         "rate": 22,
-        "timeOfDay": "Any",
+        "levels": "35-40 (levels estimated)",
+        "time": "Any",
         "notes": "Poké Radar",
         "source": "refined"
       }
     ],
     "legendary": null
   },
-  "heldItems": [
-    {
-      "item": "Enigma Berry",
-      "chance": 50
-    }
-  ],
+  "heldItems": [],
   "moves": {
     "trainer": {
       "levelUp": [
@@ -201,7 +112,8 @@
           "accuracy": null,
           "pp": 25,
           "description": "The user creates a protective field that prevents status problems for five turns.",
-          "level": 1
+          "level": 1,
+          "machine": "TM20"
         },
         {
           "name": "Destiny Bond",
@@ -247,7 +159,8 @@
           "accuracy": null,
           "pp": 25,
           "description": "The user creates a protective field that prevents status problems for five turns.",
-          "level": 1
+          "level": 1,
+          "machine": "TM20"
         },
         {
           "name": "Destiny Bond",

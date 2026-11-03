@@ -56,30 +56,38 @@
   },
   "evolutions": [
     {
-      "method": "level",
+      "method": "Level 10",
       "level": 10,
       "target": "Beedrill"
     }
   ],
+  "locations": [
+    {
+      "area": "Eterna Forest",
+      "method": "Dual-slot (Leafgreen)",
+      "levels": "13",
+      "rate": 4,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    }
+  ],
+  "howToObtain": "Evolve from Weedle (Level 7)",
   "whereToFind": {
     "encounters": [
       {
         "location": "Eterna Forest",
-        "method": "walk",
+        "method": "Dual-slot (Leafgreen)",
         "rate": 4,
-        "minLevel": 13,
-        "maxLevel": 13,
+        "levels": "13",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       }
     ],
     "legendary": null
   },
-  "heldItems": [
-    {
-      "item": "Salac Berry",
-      "chance": 5
-    }
-  ],
+  "heldItems": [],
   "moves": {
     "trainer": {
       "levelUp": [

@@ -55,3184 +55,2000 @@
   },
   "evolutions": [
     {
-      "method": "level",
+      "method": "Level 20",
       "level": 20,
       "target": "Gyarados"
     }
   ],
+  "locations": [
+    {
+      "area": "Lake Verity",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 200,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Lake Verity",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 110,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Oreburgh Gate (B1F)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Oreburgh Gate (B1F)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 203",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 203",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Ravaged Path",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Ravaged Path",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 North",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 North",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 South",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 South",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 205 (south, towards Floaroma Town)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 205 (south, towards Floaroma Town)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Valley Windworks",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Valley Windworks",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Fuego Ironworks",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Fuego Ironworks",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 205 (east, towards Eterna City)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 205 (east, towards Eterna City)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Eterna City",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Eterna City",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Mt. Coronet (1F Road 207)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Mt. Coronet (1F Road 207)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 208",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 208",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 209",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 209",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Lake Valor",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Lake Valor",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 214",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 214",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 1",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 1",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 2",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 2",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 3",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 3",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 4",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 4",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 5",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 5",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 6",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Great Marsh Area 6",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Pastoria City",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Pastoria City",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 212 (east, towards Pastoria City)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 212 (east, towards Pastoria City)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 213",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 213",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 212 North",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 212 North",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Celestic Town",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Celestic Town",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 210 (west, towards Celestic Town)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 210 (west, towards Celestic Town)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Canalave City",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Canalave City",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Iron Island area",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Iron Island area",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 218",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 218",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Lake Acuity",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Lake Acuity",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Mt. Coronet (4F)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Mt. Coronet (4F)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Mt. Coronet (B1F)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Mt. Coronet (B1F)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Mt. Coronet 4F",
+      "method": "Good Rod",
+      "levels": "levels estimated",
+      "rate": 40,
+      "time": "Any",
+      "conditions": "Fishing",
+      "source": "refined"
+    },
+    {
+      "area": "Mt. Coronet B1F",
+      "method": "Good Rod",
+      "levels": "levels estimated",
+      "rate": 45,
+      "time": "Any",
+      "conditions": "Fishing",
+      "source": "refined"
+    },
+    {
+      "area": "Sendoff Spring",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Sendoff Spring",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 222",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 222",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Sunyshore City",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Sunyshore City",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 223",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 223",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Sinnoh League",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Sinnoh League",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Victory Road (B1F)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Victory Road (B1F)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Victory Road (inside B1F)",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Victory Road (inside B1F)",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 225",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 225",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 226",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 226",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 226 (Island House)",
+      "method": "npc-trade",
+      "levels": "1-100",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 227",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 227",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 228",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 228",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 229",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 229",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Resort Area",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Resort Area",
+      "method": "Good Rod",
+      "levels": "10-35",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Resort Area",
+      "method": "Super Rod",
+      "levels": "1-100",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 230",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 230",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 224",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 224",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 219",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 219",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 220",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 220",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 221",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 221",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Twinleaf Town",
+      "method": "Old Rod",
+      "levels": "3-15",
+      "rate": 100,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Twinleaf Town",
+      "method": "Good Rod",
+      "levels": "10-25",
+      "rate": 55,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    }
+  ],
+  "howToObtain": "Found in the wild (see locations below)",
   "whereToFind": {
     "encounters": [
       {
-        "location": "Canalave City",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Canalave City",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Canalave City",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Canalave City",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Canalave City",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Canalave City",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Canalave City",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna City",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna City",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna City",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna City",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna City",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna City",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Eterna City",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pastoria City",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pastoria City",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pastoria City",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pastoria City",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pastoria City",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pastoria City",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pastoria City",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sunyshore City",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sunyshore City",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sunyshore City",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sunyshore City",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sunyshore City",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sunyshore City",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sunyshore City",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pokémon League",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pokémon League",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pokémon League",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pokémon League",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pokémon League",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pokémon League",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Pokémon League",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Valley Windworks",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Fuego Ironworks",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Fuego Ironworks",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Fuego Ironworks",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Fuego Ironworks",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Fuego Ironworks",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Fuego Ironworks",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Fuego Ironworks",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 3,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 4,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Mt. Coronet",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 3,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 4,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 3,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 4,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 3,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 4,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 3,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 4,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 3,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 4,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 3,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 4,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Great Marsh",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 4,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 1,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 4,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Victory Road",
-        "method": "good rod",
-        "rate": 1,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Ravaged Path",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Ravaged Path",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Ravaged Path",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Ravaged Path",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Ravaged Path",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Ravaged Path",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Ravaged Path",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Oreburgh Gate",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Oreburgh Gate",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Oreburgh Gate",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Oreburgh Gate",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Oreburgh Gate",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Oreburgh Gate",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Oreburgh Gate",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sendoff Spring",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sendoff Spring",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sendoff Spring",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sendoff Spring",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sendoff Spring",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sendoff Spring",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sendoff Spring",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Iron Island",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Iron Island",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Iron Island",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Iron Island",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Iron Island",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Iron Island",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Iron Island",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
+        "location": "Lake Verity",
+        "method": "Old Rod",
+        "rate": 200,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
         "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
+        "method": "Good Rod",
+        "rate": 110,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Verity",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Valor",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Acuity",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Acuity",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Acuity",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Acuity",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Acuity",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Acuity",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Lake Acuity",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 203",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 203",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 203",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 203",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 203",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 203",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 203",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 205",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 208",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 209",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 209",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 209",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 209",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 209",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 209",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 209",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 210",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 212",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 213",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 213",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 213",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 213",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 213",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 213",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 213",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 214",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 214",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 214",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 214",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 214",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 214",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 214",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 218",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 218",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 218",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 218",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 218",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 218",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 218",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 219",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 219",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 219",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 219",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 219",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 219",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 219",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 221",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 221",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 221",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 221",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 221",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 221",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 221",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 222",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 222",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 222",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 222",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 222",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 222",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 222",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 224",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 224",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 224",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 224",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 224",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 224",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 224",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 225",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 225",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 225",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 225",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 225",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 225",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 225",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 227",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 227",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 227",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 227",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 227",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 227",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 227",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 228",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 228",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 228",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 228",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 228",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 228",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 228",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 229",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 229",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 229",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 229",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 229",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 229",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 229",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Twinleaf Town",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Twinleaf Town",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Twinleaf Town",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Twinleaf Town",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Twinleaf Town",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Twinleaf Town",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Twinleaf Town",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Celestic Town",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Celestic Town",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Celestic Town",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Celestic Town",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Celestic Town",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Celestic Town",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Celestic Town",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "good rod",
-        "rate": 4,
-        "minLevel": 25,
-        "maxLevel": 35,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "good rod",
-        "rate": 1,
-        "minLevel": 25,
-        "maxLevel": 35,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "super rod",
-        "rate": 40,
-        "minLevel": 40,
-        "maxLevel": 60,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "super rod",
-        "rate": 40,
-        "minLevel": 30,
-        "maxLevel": 70,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "super rod",
-        "rate": 15,
-        "minLevel": 20,
-        "maxLevel": 80,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "super rod",
-        "rate": 4,
-        "minLevel": 10,
-        "maxLevel": 90,
-        "source": "vanilla"
-      },
-      {
-        "location": "Resort Area",
-        "method": "super rod",
-        "rate": 1,
-        "minLevel": 1,
-        "maxLevel": 100,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 220",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 220",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 220",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 220",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 220",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 220",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 220",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 223",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 223",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 223",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 223",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 223",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 223",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 223",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 226",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 226",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 226",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 226",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 226",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 226",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 226",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 230",
-        "method": "old rod",
-        "rate": 60,
-        "minLevel": 4,
-        "maxLevel": 6,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 230",
-        "method": "old rod",
-        "rate": 30,
-        "minLevel": 3,
-        "maxLevel": 7,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 230",
-        "method": "old rod",
-        "rate": 5,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 230",
-        "method": "old rod",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 230",
-        "method": "old rod",
-        "rate": 1,
-        "minLevel": 5,
-        "maxLevel": 15,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 230",
-        "method": "good rod",
-        "rate": 40,
-        "minLevel": 15,
-        "maxLevel": 20,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 230",
-        "method": "good rod",
-        "rate": 15,
-        "minLevel": 10,
-        "maxLevel": 25,
-        "source": "vanilla"
-      },
-      {
-        "location": "Sea Route 226",
-        "method": "npc trade",
+        "location": "Oreburgh Gate (B1F)",
+        "method": "Old Rod",
         "rate": 100,
-        "minLevel": 1,
-        "maxLevel": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Oreburgh Gate (B1F)",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Ravaged Path",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Ravaged Path",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204 North",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204 North",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204 South",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204 South",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205 (south, towards Floaroma Town)",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205 (south, towards Floaroma Town)",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Fuego Ironworks",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Fuego Ironworks",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205 (east, towards Eterna City)",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205 (east, towards Eterna City)",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna City",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna City",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet (1F Road 207)",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet (1F Road 207)",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 1",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 1",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 2",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 2",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 3",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 3",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 4",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 4",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 5",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 5",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 6",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh Area 6",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Pastoria City",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Pastoria City",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212 (east, towards Pastoria City)",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212 (east, towards Pastoria City)",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212 North",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212 North",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Celestic Town",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Celestic Town",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210 (west, towards Celestic Town)",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210 (west, towards Celestic Town)",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Canalave City",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Canalave City",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island area",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island area",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet (4F)",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet (4F)",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet (B1F)",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet (B1F)",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
         "location": "Mt. Coronet 4F",
-        "method": "good_rod",
-        "pokemon": "Magikarp",
+        "method": "Good Rod",
         "rate": 40,
-        "timeOfDay": "Any",
+        "levels": "levels estimated",
+        "time": "Any",
         "notes": "Fishing",
         "source": "refined"
       },
       {
         "location": "Mt. Coronet B1F",
-        "method": "good_rod",
-        "pokemon": "Magikarp",
+        "method": "Good Rod",
         "rate": 45,
-        "timeOfDay": "Any",
+        "levels": "levels estimated",
+        "time": "Any",
         "notes": "Fishing",
         "source": "refined"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Sunyshore City",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Sunyshore City",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 223",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 223",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Sinnoh League",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Sinnoh League",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road (B1F)",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road (B1F)",
+        "method": "Good Rod",
+        "rate": 100,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road (inside B1F)",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road (inside B1F)",
+        "method": "Good Rod",
+        "rate": 100,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 225",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 225",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 226",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 226",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 226 (Island House)",
+        "method": "npc-trade",
+        "rate": 100,
+        "levels": "1-100",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 227",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 227",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Resort Area",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Resort Area",
+        "method": "Good Rod",
+        "rate": 100,
+        "levels": "10-35",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Resort Area",
+        "method": "Super Rod",
+        "rate": 100,
+        "levels": "1-100",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 230",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 230",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 224",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 224",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 219",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 219",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 220",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 220",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Twinleaf Town",
+        "method": "Old Rod",
+        "rate": 100,
+        "levels": "3-15",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Twinleaf Town",
+        "method": "Good Rod",
+        "rate": 55,
+        "levels": "10-25",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
       }
     ],
     "legendary": null
   },
-  "heldItems": [
-    {
-      "item": "Haban Berry",
-      "chance": 5
-    }
-  ],
+  "heldItems": [],
   "moves": {
     "trainer": {
       "levelUp": [

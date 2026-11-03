@@ -55,21 +55,18 @@
   },
   "evolutions": [
     {
-      "method": "level",
+      "method": "Level 15",
       "level": 15,
       "target": "Wobbuffet"
     }
   ],
+  "locations": [],
+  "howToObtain": "Breed from its evolution at the Solaceon Day Care or transfer via Pal Park",
   "whereToFind": {
     "encounters": [],
     "legendary": null
   },
-  "heldItems": [
-    {
-      "item": "Enigma Berry",
-      "chance": 5
-    }
-  ],
+  "heldItems": [],
   "moves": {
     "trainer": {
       "levelUp": [
@@ -131,7 +128,8 @@
           "accuracy": null,
           "pp": 25,
           "description": "The user creates a protective field that prevents status problems for five turns.",
-          "level": 15
+          "level": 15,
+          "machine": "TM20"
         },
         {
           "name": "Destiny Bond",
@@ -207,7 +205,8 @@
           "accuracy": null,
           "pp": 25,
           "description": "The user creates a protective field that prevents status problems for five turns.",
-          "level": 15
+          "level": 15,
+          "machine": "TM20"
         },
         {
           "name": "Destiny Bond",

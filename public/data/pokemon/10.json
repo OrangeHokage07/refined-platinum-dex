@@ -55,71 +55,92 @@
   },
   "evolutions": [
     {
-      "method": "level",
+      "method": "Level 7",
       "level": 7,
       "target": "Metapod"
     }
   ],
+  "locations": [
+    {
+      "area": "Lake Verity",
+      "method": "Poké Radar",
+      "levels": "35-40 (levels estimated)",
+      "rate": 11,
+      "time": "Any",
+      "conditions": "Poké Radar",
+      "source": "refined"
+    },
+    {
+      "area": "Route 204 North",
+      "method": "Dual-slot (Firered)",
+      "levels": "10",
+      "rate": 8,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 204 South",
+      "method": "Dual-slot (Firered)",
+      "levels": "5",
+      "rate": 8,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Eterna Forest",
+      "method": "Dual-slot (Firered)",
+      "levels": "13",
+      "rate": 4,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    }
+  ],
+  "howToObtain": "Found in the wild (see locations below)",
   "whereToFind": {
     "encounters": [
       {
-        "location": "Eterna Forest",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 13,
-        "maxLevel": 13,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 5,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 5,
-        "maxLevel": 5,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 10,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
-        "location": "Route 204",
-        "method": "walk",
-        "rate": 4,
-        "minLevel": 10,
-        "maxLevel": 10,
-        "source": "vanilla"
-      },
-      {
         "location": "Lake Verity",
-        "method": "radar",
-        "pokemon": "Caterpie",
+        "method": "Poké Radar",
         "rate": 11,
-        "timeOfDay": "Any",
+        "levels": "35-40 (levels estimated)",
+        "time": "Any",
         "notes": "Poké Radar",
         "source": "refined"
+      },
+      {
+        "location": "Route 204 North",
+        "method": "Dual-slot (Firered)",
+        "rate": 8,
+        "levels": "10",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204 South",
+        "method": "Dual-slot (Firered)",
+        "rate": 8,
+        "levels": "5",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "Dual-slot (Firered)",
+        "rate": 4,
+        "levels": "13",
+        "time": "Any",
+        "notes": "",
+        "source": "vanilla"
       }
     ],
     "legendary": null
   },
-  "heldItems": [
-    {
-      "item": "Salac Berry",
-      "chance": 5
-    }
-  ],
+  "heldItems": [],
   "moves": {
     "trainer": {
       "levelUp": [

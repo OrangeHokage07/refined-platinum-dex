@@ -54,30 +54,44 @@
     "Dark": 1
   },
   "evolutions": [],
+  "locations": [
+    {
+      "area": "Trophy Garden",
+      "method": "Trophy Garden",
+      "levels": "22",
+      "rate": 10,
+      "time": "Any",
+      "conditions": "Daily Trophy Garden",
+      "source": "vanilla"
+    },
+    {
+      "area": "Lake Acuity",
+      "method": "Poké Radar",
+      "levels": "35-40 (levels estimated)",
+      "rate": 22,
+      "time": "Any",
+      "conditions": "Poké Radar",
+      "source": "refined"
+    }
+  ],
+  "howToObtain": "Found in the wild (see locations below)",
   "whereToFind": {
     "encounters": [
       {
         "location": "Trophy Garden",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 22,
-        "maxLevel": 22,
-        "source": "vanilla"
-      },
-      {
-        "location": "Trophy Garden",
-        "method": "walk",
-        "rate": 5,
-        "minLevel": 22,
-        "maxLevel": 22,
+        "method": "Trophy Garden",
+        "rate": 10,
+        "levels": "22",
+        "time": "Any",
+        "notes": "Daily Trophy Garden",
         "source": "vanilla"
       },
       {
         "location": "Lake Acuity",
-        "method": "radar",
-        "pokemon": "Ditto",
+        "method": "Poké Radar",
         "rate": 22,
-        "timeOfDay": "Any",
+        "levels": "35-40 (levels estimated)",
+        "time": "Any",
         "notes": "Poké Radar",
         "source": "refined"
       }

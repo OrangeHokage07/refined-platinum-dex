@@ -55,38 +55,56 @@
   },
   "evolutions": [
     {
-      "method": "level",
+      "method": "Level 10",
       "level": 10,
       "target": "Dustox"
     }
   ],
+  "locations": [
+    {
+      "area": "Eterna Forest",
+      "method": "Walking",
+      "levels": "12",
+      "rate": 5,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    },
+    {
+      "area": "Route 205 (east, towards Eterna City)",
+      "method": "Walking",
+      "levels": "14",
+      "rate": 10,
+      "time": "Any",
+      "conditions": "",
+      "source": "vanilla"
+    }
+  ],
+  "howToObtain": "Evolve from Wurmple",
   "whereToFind": {
     "encounters": [
       {
         "location": "Eterna Forest",
-        "method": "walk",
+        "method": "Walking",
         "rate": 5,
-        "minLevel": 12,
-        "maxLevel": 12,
+        "levels": "12",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       },
       {
-        "location": "Route 205",
-        "method": "walk",
+        "location": "Route 205 (east, towards Eterna City)",
+        "method": "Walking",
         "rate": 10,
-        "minLevel": 14,
-        "maxLevel": 14,
+        "levels": "14",
+        "time": "Any",
+        "notes": "",
         "source": "vanilla"
       }
     ],
     "legendary": null
   },
-  "heldItems": [
-    {
-      "item": "Salac Berry",
-      "chance": 5
-    }
-  ],
+  "heldItems": [],
   "moves": {
     "trainer": {
       "levelUp": [
