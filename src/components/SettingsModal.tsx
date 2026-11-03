@@ -211,3 +211,4 @@ export function SettingsModal({ progress, onClose, onUpdateProgress }: SettingsM
     </div>
   );
 }
+

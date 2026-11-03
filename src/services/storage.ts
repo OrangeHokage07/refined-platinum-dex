@@ -145,3 +145,4 @@ export function getBackupAgeDays(lastBackupDateStr: string): number {
   const diffMs = now - last;
   return Math.max(0, Math.floor(diffMs / (1000 * 60 * 60 * 24)));
 }
+

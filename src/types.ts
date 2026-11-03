@@ -161,3 +161,4 @@ export interface BossTrainer {
   stage: string;
   team: BossPokemon[];
 }
+

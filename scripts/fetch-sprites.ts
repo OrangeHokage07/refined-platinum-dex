@@ -130,3 +130,4 @@ main().catch(err => {
   console.error('Sprite fetching error:', err);
   process.exit(1);
 });
+

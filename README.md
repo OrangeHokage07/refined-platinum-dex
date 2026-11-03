@@ -71,3 +71,4 @@ npm run preview
 ## Redeploying After Changes
 
 Pushing changes to `main` or `master` automatically triggers the GitHub Actions workflow (`.github/workflows/deploy.yml`), which validates data, builds the production PWA, and deploys to GitHub Pages.
+

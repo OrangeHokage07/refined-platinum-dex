@@ -138,3 +138,4 @@ export function BossesModal({ onClose }: BossesModalProps) {
     </div>
   );
 }
+

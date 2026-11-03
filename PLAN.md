@@ -120,3 +120,4 @@ Offline-capable, Sinnoh-styled Progressive Web App (PWA) tailored for iPhone 15 
 - [ ] Generate QR code (`qrcode.png`)
 - [ ] Write `README.md` with simple 3-step iPhone instructions
 - [ ] Provide comprehensive summary of build, verification, and decisions
+
