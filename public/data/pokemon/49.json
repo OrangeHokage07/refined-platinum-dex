@@ -1,0 +1,1243 @@
+{
+  "id": 49,
+  "sinnohId": null,
+  "name": "Venomoth",
+  "genus": "Poison Moth Pokémon",
+  "flavorText": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": {
+    "meters": 1.5,
+    "inches": 59
+  },
+  "weight": {
+    "kg": 12.5,
+    "lbs": 27.6
+  },
+  "abilities": [
+    "Shield Dust",
+    "Tinted Lens"
+  ],
+  "trainerAbilityNote": "Tinted Lens",
+  "catchRate": 75,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "specialAttack": 90,
+    "specialDefense": 75,
+    "speed": 90,
+    "bst": 450
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.25,
+    "Ice": 1,
+    "Fighting": 0.25,
+    "Poison": 0.5,
+    "Ground": 1,
+    "Flying": 2,
+    "Psychic": 2,
+    "Bug": 0.5,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 229",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "radar",
+        "pokemon": "Venomoth",
+        "rate": 20,
+        "timeOfDay": "Any",
+        "notes": "Poké Radar",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Shed Shell",
+      "chance": 5
+    },
+    {
+      "item": "Hondew Berry",
+      "chance": 100
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Silver Wind",
+          "type": "Bug",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The foe is attacked with powdery scales blown by wind. It may also raise all the user’s stats.",
+          "level": 1
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Disable",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 80,
+          "pp": 20,
+          "description": "For several turns, this move prevents the foe from using the move it last used.",
+          "level": 1
+        },
+        {
+          "name": "Foresight",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.",
+          "level": 1
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 5
+        },
+        {
+          "name": "Confusion",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is hit by a weak telekinetic force. It may also leave the foe confused.",
+          "level": 11
+        },
+        {
+          "name": "POISON POWDER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 13
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "A blood-draining attack. The user’s HP is restored by half the damage taken by the target.",
+          "level": 17
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass",
+          "category": "Status",
+          "power": null,
+          "accuracy": 75,
+          "pp": 30,
+          "description": "The user scatters a cloud of paralyzing powder. It may paralyze the target.",
+          "level": 23
+        },
+        {
+          "name": "Psybeam",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is attacked with a peculiar ray. It may also leave the target confused.",
+          "level": 25
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+          "level": 27
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "category": "Status",
+          "power": null,
+          "accuracy": 75,
+          "pp": 15,
+          "description": "The user scatters a big cloud of sleep- inducing dust around the foe.",
+          "level": 29
+        },
+        {
+          "name": "Gust",
+          "type": "Flying",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "A gust of wind is whipped up by wings and launched at the foe to inflict damage.",
+          "level": 31
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target.",
+          "level": 37
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch.",
+          "level": 41
+        },
+        {
+          "name": "Poison Fang",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user bites the foe with toxic fangs. It may also leave the foe badly poisoned.",
+          "level": 47
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.",
+          "level": 55
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.",
+          "level": 59
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM48",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM48"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM53",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM53"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM62",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM62"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM89",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM89"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Silver Wind",
+          "type": "Bug",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The foe is attacked with powdery scales blown by wind. It may also raise all the user’s stats.",
+          "level": 1
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Disable",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 80,
+          "pp": 20,
+          "description": "For several turns, this move prevents the foe from using the move it last used.",
+          "level": 1
+        },
+        {
+          "name": "Foresight",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.",
+          "level": 1
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 1
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 5
+        },
+        {
+          "name": "Confusion",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is hit by a weak telekinetic force. It may also leave the foe confused.",
+          "level": 11
+        },
+        {
+          "name": "POISON POWDER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 13
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "A blood-draining attack. The user’s HP is restored by half the damage taken by the target.",
+          "level": 17
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass",
+          "category": "Status",
+          "power": null,
+          "accuracy": 75,
+          "pp": 30,
+          "description": "The user scatters a cloud of paralyzing powder. It may paralyze the target.",
+          "level": 23
+        },
+        {
+          "name": "Psybeam",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is attacked with a peculiar ray. It may also leave the target confused.",
+          "level": 25
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "category": "Status",
+          "power": null,
+          "accuracy": 75,
+          "pp": 15,
+          "description": "The user scatters a big cloud of sleep- inducing dust around the foe.",
+          "level": 29
+        },
+        {
+          "name": "Gust",
+          "type": "Flying",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "A gust of wind is whipped up by wings and launched at the foe to inflict damage.",
+          "level": 31
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target.",
+          "level": 37
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch.",
+          "level": 41
+        },
+        {
+          "name": "Poison Fang",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user bites the foe with toxic fangs. It may also leave the foe badly poisoned.",
+          "level": 47
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.",
+          "level": 55
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.",
+          "level": 59
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM48",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM48"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM53",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM53"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM62",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM62"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM89",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM89"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    }
+  }
+}

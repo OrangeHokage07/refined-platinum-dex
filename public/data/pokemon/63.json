@@ -1,0 +1,1169 @@
+{
+  "id": 63,
+  "sinnohId": 20,
+  "name": "Abra",
+  "genus": "Psi Pokémon",
+  "flavorText": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
+  "types": [
+    "Psychic"
+  ],
+  "height": {
+    "meters": 0.89,
+    "inches": 35
+  },
+  "weight": {
+    "kg": 19.5,
+    "lbs": 43
+  },
+  "abilities": [
+    "Synchronize",
+    "Inner Focus"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 200,
+  "genderRatio": "female_25",
+  "eggGroups": [
+    "human like",
+    "human like"
+  ],
+  "baseStats": {
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "specialAttack": 105,
+    "specialDefense": 55,
+    "speed": 90,
+    "bst": 310
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 1,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 1,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 0.5,
+    "Bug": 2,
+    "Rock": 1,
+    "Ghost": 2,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 2
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 16,
+      "target": "Kadabra"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 203",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 4,
+        "maxLevel": 4,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 5,
+        "maxLevel": 5,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 215",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 19,
+        "maxLevel": 19,
+        "source": "vanilla"
+      },
+      {
+        "location": "Oreburgh City",
+        "method": "npc trade",
+        "rate": 100,
+        "minLevel": 1,
+        "maxLevel": 100,
+        "source": "vanilla"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Twisted Spoon",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Teleport",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Use it to flee from any wild Pokémon. It may also be used to warp to the last Poké Center visited.",
+          "level": 1
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM04"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM12",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM12"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM20",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM20"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM33",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM33"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM41",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM41"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM48",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM48"
+        },
+        {
+          "name": "TM49",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM49"
+        },
+        {
+          "name": "TM53",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM53"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM57",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM57"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM60",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM60"
+        },
+        {
+          "name": "TM63",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM63"
+        },
+        {
+          "name": "TM67",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM67"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM73",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM73"
+        },
+        {
+          "name": "TM77",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM77"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM85",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM85"
+        },
+        {
+          "name": "TM86",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM86"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "TM92",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM92"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn."
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user catches the foe off guard and swaps the foe’s held item with its own."
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user slaps down the foe’s held item, preventing the item from being used during the battle."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Teleport",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Use it to flee from any wild Pokémon. It may also be used to warp to the last Poké Center visited.",
+          "level": 1
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM04"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM12",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM12"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM20",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM20"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM33",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM33"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM41",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM41"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM48",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM48"
+        },
+        {
+          "name": "TM49",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM49"
+        },
+        {
+          "name": "TM53",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM53"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM57",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM57"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM60",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM60"
+        },
+        {
+          "name": "TM63",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM63"
+        },
+        {
+          "name": "TM67",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM67"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM73",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM73"
+        },
+        {
+          "name": "TM77",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM77"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM85",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM85"
+        },
+        {
+          "name": "TM86",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM86"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "TM92",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM92"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn."
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user catches the foe off guard and swaps the foe’s held item with its own."
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user slaps down the foe’s held item, preventing the item from being used during the battle."
+        }
+      ]
+    }
+  }
+}

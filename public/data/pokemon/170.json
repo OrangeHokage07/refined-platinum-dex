@@ -1,0 +1,1094 @@
+{
+  "id": 170,
+  "sinnohId": null,
+  "name": "Chinchou",
+  "genus": "Angler Pokémon",
+  "flavorText": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+  "types": [
+    "Water",
+    "Electric"
+  ],
+  "height": {
+    "meters": 0.51,
+    "inches": 20
+  },
+  "weight": {
+    "kg": 12,
+    "lbs": 26.5
+  },
+  "abilities": [
+    "Volt Absorb",
+    "Illuminate"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 190,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "water 2",
+    "water 2"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "specialAttack": 56,
+    "specialDefense": 56,
+    "speed": 67,
+    "bst": 330
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 0.5,
+    "Water": 0.5,
+    "Electric": 1,
+    "Grass": 2,
+    "Ice": 0.5,
+    "Fighting": 1,
+    "Poison": 1,
+    "Ground": 2,
+    "Flying": 0.5,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 1,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 0.25,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 27,
+      "target": "Lanturn"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Sea Route 220",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 20,
+        "maxLevel": 50,
+        "source": "vanilla"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Deep Sea Scale",
+      "chance": 5
+    },
+    {
+      "item": "Deep Sea Scale",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Bubble",
+          "type": "Water",
+          "category": "Special",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 1
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A weak electric charge is launched at the foe. It causes paralysis if it hits.",
+          "level": 6
+        },
+        {
+          "name": "Flail",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.",
+          "level": 9
+        },
+        {
+          "name": "Water Gun",
+          "type": "Water",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is blasted with a forceful shot of water.",
+          "level": 12
+        },
+        {
+          "name": "Confuse Ray",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is exposed to a sinister ray that triggers confusion.",
+          "level": 17
+        },
+        {
+          "name": "Spark",
+          "type": "Electric",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user throws an electrically charged tackle at the foe. It may also leave the target paralyzed.",
+          "level": 20
+        },
+        {
+          "name": "Take Down",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.",
+          "level": 23
+        },
+        {
+          "name": "BUBBLE BEAM",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 28
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target.",
+          "level": 31
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "A flare of electricity is loosed to strike all Pokémon in battle. It may also cause paralysis.",
+          "level": 34
+        },
+        {
+          "name": "Aqua Ring",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user envelops itself in a veil made of water. It regains some HP on every turn.",
+          "level": 39
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "category": "Special",
+          "power": 120,
+          "accuracy": 80,
+          "pp": 5,
+          "description": "The foe is blasted by a huge volume of water launched under great pressure.",
+          "level": 42
+        },
+        {
+          "name": "Charge",
+          "type": "Electric",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user boosts the power of the Electric move it uses next. It also raises the user’s Sp. Def stat.",
+          "level": 45
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM55",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM55"
+        },
+        {
+          "name": "TM57",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM57"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM73",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM73"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Bubble",
+          "type": "Water",
+          "category": "Special",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 1
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A weak electric charge is launched at the foe. It causes paralysis if it hits.",
+          "level": 6
+        },
+        {
+          "name": "Flail",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.",
+          "level": 9
+        },
+        {
+          "name": "Water Gun",
+          "type": "Water",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is blasted with a forceful shot of water.",
+          "level": 12
+        },
+        {
+          "name": "Confuse Ray",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is exposed to a sinister ray that triggers confusion.",
+          "level": 17
+        },
+        {
+          "name": "Spark",
+          "type": "Electric",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user throws an electrically charged tackle at the foe. It may also leave the target paralyzed.",
+          "level": 20
+        },
+        {
+          "name": "Take Down",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.",
+          "level": 23
+        },
+        {
+          "name": "BUBBLE BEAM",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 28
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target.",
+          "level": 31
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "A flare of electricity is loosed to strike all Pokémon in battle. It may also cause paralysis.",
+          "level": 34
+        },
+        {
+          "name": "Aqua Ring",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user envelops itself in a veil made of water. It regains some HP on every turn.",
+          "level": 39
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "category": "Special",
+          "power": 120,
+          "accuracy": 80,
+          "pp": 5,
+          "description": "The foe is blasted by a huge volume of water launched under great pressure.",
+          "level": 42
+        },
+        {
+          "name": "Charge",
+          "type": "Electric",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user boosts the power of the Electric move it uses next. It also raises the user’s Sp. Def stat.",
+          "level": 45
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM55",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM55"
+        },
+        {
+          "name": "TM57",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM57"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM73",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM73"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    }
+  }
+}

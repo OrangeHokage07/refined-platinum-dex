@@ -1,0 +1,1559 @@
+{
+  "id": 340,
+  "sinnohId": 81,
+  "name": "Whiscash",
+  "genus": "Whiskers Pokémon",
+  "flavorText": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": {
+    "meters": 0.89,
+    "inches": 35
+  },
+  "weight": {
+    "kg": 23.6,
+    "lbs": 52
+  },
+  "abilities": [
+    "Oblivious",
+    "Anticipation"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 75,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "water 2",
+    "water 2"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 78,
+    "defense": 73,
+    "specialAttack": 76,
+    "specialDefense": 71,
+    "speed": 60,
+    "bst": 468
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 0.5,
+    "Water": 1,
+    "Electric": 0,
+    "Grass": 4,
+    "Ice": 1,
+    "Fighting": 1,
+    "Poison": 0.5,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 0.5,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 0.5,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Eterna City",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna City",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna City",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 20,
+        "maxLevel": 50,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 20,
+        "maxLevel": 50,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 20,
+        "maxLevel": 50,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 20,
+        "maxLevel": 50,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 20,
+        "maxLevel": 50,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 20,
+        "maxLevel": 50,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 20,
+        "maxLevel": 50,
+        "source": "vanilla"
+      },
+      {
+        "location": "Ravaged Path",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Ravaged Path",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Ravaged Path",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Oreburgh Gate",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Oreburgh Gate",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Oreburgh Gate",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "good rod",
+        "rate": 4,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "good rod",
+        "rate": 1,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 225",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 225",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 225",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 227",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 227",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 227",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "good rod",
+        "rate": 4,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "good rod",
+        "rate": 1,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet B1F",
+        "method": "super_rod",
+        "pokemon": "Whiscash",
+        "rate": 44,
+        "timeOfDay": "Any",
+        "notes": "Fishing",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Ganlon Berry",
+      "chance": 50
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch.",
+          "level": 1
+        },
+        {
+          "name": "Tickle",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user tickles the foe into laughing, reducing its Attack and Defense stats.",
+          "level": 1
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 1
+        },
+        {
+          "name": "Mud Sport",
+          "type": "Ground",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user covers itself with mud. It weakens Electric- type moves while the user is in the battle.",
+          "level": 6
+        },
+        {
+          "name": "Water Sport",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.",
+          "level": 6
+        },
+        {
+          "name": "Water Gun",
+          "type": "Water",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is blasted with a forceful shot of water.",
+          "level": 10
+        },
+        {
+          "name": "Mud Bomb",
+          "type": "Ground",
+          "category": "Special",
+          "power": 65,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "The user launches a hard-packed mud ball to attack. It may also lower the target’s accuracy.",
+          "level": 14
+        },
+        {
+          "name": "Amnesia",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user’s Sp. Def stat.",
+          "level": 18
+        },
+        {
+          "name": "Water Pulse",
+          "type": "Water",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user attacks the foe with a pulsing blast of water. It may also confuse the foe.",
+          "level": 22
+        },
+        {
+          "name": "Magnitude",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+          "level": 26
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+          "level": 33
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.",
+          "level": 33
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm.",
+          "level": 39
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+          "level": 45
+        },
+        {
+          "name": "Future Sight",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "Two turns after this move is used, the foe is attacked with a hunk of psychic energy.",
+          "level": 51
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.",
+          "level": 56
+        },
+        {
+          "name": "Fissure",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.",
+          "level": 57
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM71",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM71"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch.",
+          "level": 1
+        },
+        {
+          "name": "Tickle",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user tickles the foe into laughing, reducing its Attack and Defense stats.",
+          "level": 1
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 1
+        },
+        {
+          "name": "Mud Sport",
+          "type": "Ground",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user covers itself with mud. It weakens Electric- type moves while the user is in the battle.",
+          "level": 1
+        },
+        {
+          "name": "Water Sport",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.",
+          "level": 1
+        },
+        {
+          "name": "Mud Sport",
+          "type": "Ground",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user covers itself with mud. It weakens Electric- type moves while the user is in the battle.",
+          "level": 6
+        },
+        {
+          "name": "Water Sport",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.",
+          "level": 6
+        },
+        {
+          "name": "Water Gun",
+          "type": "Water",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is blasted with a forceful shot of water.",
+          "level": 10
+        },
+        {
+          "name": "Mud Bomb",
+          "type": "Ground",
+          "category": "Special",
+          "power": 65,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "The user launches a hard-packed mud ball to attack. It may also lower the target’s accuracy.",
+          "level": 14
+        },
+        {
+          "name": "Amnesia",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user’s Sp. Def stat.",
+          "level": 18
+        },
+        {
+          "name": "Water Pulse",
+          "type": "Water",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user attacks the foe with a pulsing blast of water. It may also confuse the foe.",
+          "level": 22
+        },
+        {
+          "name": "Magnitude",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+          "level": 26
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+          "level": 33
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.",
+          "level": 33
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm.",
+          "level": 39
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+          "level": 45
+        },
+        {
+          "name": "Future Sight",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "Two turns after this move is used, the foe is attacked with a hunk of psychic energy.",
+          "level": 51
+        },
+        {
+          "name": "Fissure",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.",
+          "level": 57
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM71",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM71"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        }
+      ]
+    }
+  }
+}

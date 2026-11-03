@@ -1,0 +1,1760 @@
+{
+  "id": 249,
+  "sinnohId": null,
+  "name": "Lugia",
+  "genus": "Diving Pokémon",
+  "flavorText": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": {
+    "meters": 5.21,
+    "inches": 205
+  },
+  "weight": {
+    "kg": 216,
+    "lbs": 476.2
+  },
+  "abilities": [
+    "Pressure"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 3,
+  "genderRatio": "no_gender",
+  "eggGroups": [
+    "undiscovered",
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 106,
+    "attack": 90,
+    "defense": 130,
+    "specialAttack": 90,
+    "specialDefense": 154,
+    "speed": 110,
+    "bst": 680
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 2,
+    "Grass": 0.5,
+    "Ice": 2,
+    "Fighting": 0.25,
+    "Poison": 1,
+    "Ground": 0,
+    "Flying": 1,
+    "Psychic": 0.5,
+    "Bug": 1,
+    "Rock": 2,
+    "Ghost": 2,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 2
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [],
+    "legendary": {
+      "pokemon": "Lugia",
+      "level": 80,
+      "location": "Iron Island",
+      "npc": "Socialite in Iron Island",
+      "requirement": "Post-Stark: capture all three Roaming Birds and inform Prof. Oak in Eterna",
+      "stage": "post_stark",
+      "heldItem": "Sacred Ash",
+      "moves": [
+        "Aeroblast",
+        "Roost",
+        "Psychic",
+        "Calm Mind"
+      ]
+    }
+  },
+  "heldItems": [
+    {
+      "item": "Sacred Ash",
+      "chance": 100
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+          "level": 1
+        },
+        {
+          "name": "Safeguard",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 25,
+          "description": "The user creates a protective field that prevents status problems for five turns.",
+          "level": 9
+        },
+        {
+          "name": "Gust",
+          "type": "Flying",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "A gust of wind is whipped up by wings and launched at the foe to inflict damage.",
+          "level": 15
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "A self-healing move. The user restores its own HP by up to half of its max HP.",
+          "level": 23
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "category": "Special",
+          "power": 120,
+          "accuracy": 80,
+          "pp": 5,
+          "description": "The foe is blasted by a huge volume of water launched under great pressure.",
+          "level": 29
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user summons a heavy rain that falls for five turns, powering up Water- type moves.",
+          "level": 37
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses.",
+          "level": 43
+        },
+        {
+          "name": "Natural Gift",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power.",
+          "level": 51
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 57
+        },
+        {
+          "name": "Extrasensory",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user attacks with an odd, unseeable power. It may also make the foe flinch.",
+          "level": 65
+        },
+        {
+          "name": "Punishment",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This attack’s power increases the more the foe has powered up with stat changes.",
+          "level": 71
+        },
+        {
+          "name": "Future Sight",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "Two turns after this move is used, the foe is attacked with a hunk of psychic energy.",
+          "level": 79
+        },
+        {
+          "name": "Aeroblast, Roost, Psychic, Calm Mind",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 80
+        },
+        {
+          "name": "Aeroblast",
+          "type": "Flying",
+          "category": "Special",
+          "power": 100,
+          "accuracy": 95,
+          "pp": 5,
+          "description": "A vortex of air is shot at the foe to inflict damage. It has a high critical-hit ratio.",
+          "level": 85
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.",
+          "level": 93
+        },
+        {
+          "name": "Sky Attack",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 140,
+          "accuracy": 90,
+          "pp": 5,
+          "description": "A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.",
+          "level": 99
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM04"
+        },
+        {
+          "name": "TM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM05"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM20",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM20"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM33",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM33"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM47",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM47"
+        },
+        {
+          "name": "TM48",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM48"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM55",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM55"
+        },
+        {
+          "name": "TM57",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM57"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM59",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM59"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM72",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM72"
+        },
+        {
+          "name": "TM73",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM73"
+        },
+        {
+          "name": "TM77",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM77"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM85",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM85"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM02",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM02"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe slams the target with its steel-hard head. It may also make the target flinch."
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+        },
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch."
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user catches the foe off guard and swaps the foe’s held item with its own."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+          "level": 1
+        },
+        {
+          "name": "Safeguard",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 25,
+          "description": "The user creates a protective field that prevents status problems for five turns.",
+          "level": 9
+        },
+        {
+          "name": "Gust",
+          "type": "Flying",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "A gust of wind is whipped up by wings and launched at the foe to inflict damage.",
+          "level": 15
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "A self-healing move. The user restores its own HP by up to half of its max HP.",
+          "level": 23
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "category": "Special",
+          "power": 120,
+          "accuracy": 80,
+          "pp": 5,
+          "description": "The foe is blasted by a huge volume of water launched under great pressure.",
+          "level": 29
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user summons a heavy rain that falls for five turns, powering up Water- type moves.",
+          "level": 37
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses.",
+          "level": 43
+        },
+        {
+          "name": "Natural Gift",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power.",
+          "level": 51
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 57
+        },
+        {
+          "name": "Extrasensory",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user attacks with an odd, unseeable power. It may also make the foe flinch.",
+          "level": 65
+        },
+        {
+          "name": "Punishment",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This attack’s power increases the more the foe has powered up with stat changes.",
+          "level": 71
+        },
+        {
+          "name": "Future Sight",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "Two turns after this move is used, the foe is attacked with a hunk of psychic energy.",
+          "level": 79
+        },
+        {
+          "name": "Aeroblast",
+          "type": "Flying",
+          "category": "Special",
+          "power": 100,
+          "accuracy": 95,
+          "pp": 5,
+          "description": "A vortex of air is shot at the foe to inflict damage. It has a high critical-hit ratio.",
+          "level": 85
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.",
+          "level": 93
+        },
+        {
+          "name": "Sky Attack",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 140,
+          "accuracy": 90,
+          "pp": 5,
+          "description": "A second-turn attack move with a high critical-hit ratio. It may also make the target flinch.",
+          "level": 99
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM04"
+        },
+        {
+          "name": "TM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM05"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM20",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM20"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM33",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM33"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM47",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM47"
+        },
+        {
+          "name": "TM48",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM48"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM55",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM55"
+        },
+        {
+          "name": "TM57",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM57"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM59",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM59"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM72",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM72"
+        },
+        {
+          "name": "TM73",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM73"
+        },
+        {
+          "name": "TM77",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM77"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM85",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM85"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM02",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM02"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe slams the target with its steel-hard head. It may also make the target flinch."
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+        },
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch."
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user catches the foe off guard and swaps the foe’s held item with its own."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    }
+  }
+}

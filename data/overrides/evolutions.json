@@ -1,0 +1,164 @@
+{
+  "Haunter": [
+    {
+      "target": "Gengar",
+      "method": "level_up_move",
+      "move": "Shadow Ball",
+      "level": 36,
+      "notes": "Level up knowing Shadow Ball (Level 36)"
+    }
+  ],
+  "Graveler": [
+    {
+      "target": "Golem",
+      "method": "level_up_move",
+      "move": "Earthquake",
+      "level": 36,
+      "notes": "Level up knowing Earthquake (Level 36)"
+    }
+  ],
+  "Poliwhirl": [
+    {
+      "target": "Poliwrath",
+      "method": "use_item",
+      "item": "Water Stone",
+      "notes": "Use Water Stone"
+    },
+    {
+      "target": "Politoed",
+      "method": "level_up_move",
+      "move": "Rain Dance",
+      "level": 36,
+      "notes": "Level up knowing Rain Dance (Level 36)"
+    }
+  ],
+  "Machoke": [
+    {
+      "target": "Machamp",
+      "method": "level_up",
+      "level": 38,
+      "notes": "Level up at Level 38"
+    }
+  ],
+  "Kadabra": [
+    {
+      "target": "Alakazam",
+      "method": "level_up",
+      "level": 38,
+      "notes": "Level up at Level 38"
+    }
+  ],
+  "Slowpoke": [
+    {
+      "target": "Slowbro",
+      "method": "level_up",
+      "level": 37,
+      "notes": "Level up at Level 37"
+    },
+    {
+      "target": "Slowking",
+      "method": "level_up_held_item",
+      "item": "King's Rock",
+      "notes": "Level up holding King's Rock (Water Stone evo removed in v5.0)"
+    }
+  ],
+  "Magmar": [
+    {
+      "target": "Magmortar",
+      "method": "level_up_held_item",
+      "item": "Magmarizer",
+      "notes": "Level up holding Magmarizer"
+    }
+  ],
+  "Electabuzz": [
+    {
+      "target": "Electivire",
+      "method": "level_up_held_item",
+      "item": "Electirizer",
+      "notes": "Level up holding Electirizer"
+    }
+  ],
+  "Rhydon": [
+    {
+      "target": "Rhyperior",
+      "method": "level_up_held_item",
+      "item": "Protector",
+      "notes": "Level up holding Protector"
+    }
+  ],
+  "Scyther": [
+    {
+      "target": "Scizor",
+      "method": "level_up_held_item",
+      "item": "Metal Coat",
+      "notes": "Level up holding Metal Coat"
+    }
+  ],
+  "Onix": [
+    {
+      "target": "Steelix",
+      "method": "level_up_held_item",
+      "item": "Metal Coat",
+      "notes": "Level up holding Metal Coat"
+    }
+  ],
+  "Seadra": [
+    {
+      "target": "Kingdra",
+      "method": "level_up_held_item",
+      "item": "Dragon Scale",
+      "notes": "Level up holding Dragon Scale"
+    }
+  ],
+  "Porygon": [
+    {
+      "target": "Porygon2",
+      "method": "level_up_held_item",
+      "item": "Up-Grade",
+      "notes": "Level up holding Up-Grade"
+    }
+  ],
+  "Porygon2": [
+    {
+      "target": "Porygon-Z",
+      "method": "level_up_held_item",
+      "item": "Dubious Disc",
+      "notes": "Level up holding Dubious Disc"
+    }
+  ],
+  "Feebas": [
+    {
+      "target": "Milotic",
+      "method": "beauty",
+      "notes": "Level up with max Beauty (vanilla)"
+    },
+    {
+      "target": "Milotic",
+      "method": "level_up_held_item",
+      "item": "Pamtre Berry",
+      "notes": "Level up holding Pamtre Berry"
+    }
+  ],
+  "Dusclops": [
+    {
+      "target": "Dusknoir",
+      "method": "level_up_held_item",
+      "item": "Reaper Cloth",
+      "notes": "Level up holding Reaper Cloth"
+    }
+  ],
+  "Clamperl": [
+    {
+      "target": "Huntail",
+      "method": "level_up_held_item",
+      "item": "Deep Sea Tooth",
+      "notes": "Level up holding Deep Sea Tooth"
+    },
+    {
+      "target": "Gorebyss",
+      "method": "level_up_held_item",
+      "item": "Deep Sea Scale",
+      "notes": "Level up holding Deep Sea Scale"
+    }
+  ]
+}

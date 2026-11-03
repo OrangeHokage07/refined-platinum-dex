@@ -1,0 +1,1181 @@
+{
+  "id": 204,
+  "sinnohId": null,
+  "name": "Pineco",
+  "genus": "Bagworm Pokémon",
+  "flavorText": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+  "types": [
+    "Bug"
+  ],
+  "height": {
+    "meters": 0.61,
+    "inches": 24
+  },
+  "weight": {
+    "kg": 7.2,
+    "lbs": 15.9
+  },
+  "abilities": [
+    "Sturdy"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 190,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 90,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 15,
+    "bst": 290
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.5,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 1,
+    "Ground": 0.5,
+    "Flying": 2,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 31,
+      "target": "Forretress"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Eterna Forest",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 13,
+        "maxLevel": 13,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 13,
+        "maxLevel": 13,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 6,
+        "maxLevel": 6,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 6,
+        "maxLevel": 6,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 5,
+        "maxLevel": 5,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 5,
+        "maxLevel": 5,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 10,
+        "maxLevel": 10,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 10,
+        "maxLevel": 10,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 21,
+        "maxLevel": 21,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 19,
+        "maxLevel": 19,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 48,
+        "maxLevel": 48,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 48,
+        "maxLevel": 48,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 217",
+        "method": "radar",
+        "pokemon": "Pineco",
+        "rate": 20,
+        "timeOfDay": "Any",
+        "notes": "Poké Radar",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Red Shard",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+          "level": 1
+        },
+        {
+          "name": "Selfdestruct",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 200,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 6
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 9
+        },
+        {
+          "name": "Take Down",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.",
+          "level": 12
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 40,
+          "description": "A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.",
+          "level": 17
+        },
+        {
+          "name": "Bide",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+          "level": 20
+        },
+        {
+          "name": "Sand Tomb",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 70,
+          "pp": 15,
+          "description": "The user traps the foe inside a harshly raging sandstorm for two to five turns.",
+          "level": 21
+        },
+        {
+          "name": "Natural Gift",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power.",
+          "level": 23
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user lays a trap of spikes at the foe’s feet. The trap hurts foes that switch into battle.",
+          "level": 28
+        },
+        {
+          "name": "Payback",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "If the user can use this attack after the foe attacks, its power is doubled.",
+          "level": 31
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 250,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 34
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user hardens its body’s surface like iron, sharply raising its Defense stat.",
+          "level": 39
+        },
+        {
+          "name": "Gyro Ball",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.",
+          "level": 42
+        },
+        {
+          "name": "DOUBLE EDGE",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 45
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM33",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM33"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM64",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM64"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM74",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM74"
+        },
+        {
+          "name": "TM76",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM76"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user hardens its body’s surface like iron, sharply raising its Defense stat."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+          "level": 1
+        },
+        {
+          "name": "Selfdestruct",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 200,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 6
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 9
+        },
+        {
+          "name": "Take Down",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.",
+          "level": 12
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 40,
+          "description": "A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.",
+          "level": 17
+        },
+        {
+          "name": "Bide",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+          "level": 20
+        },
+        {
+          "name": "Natural Gift",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power.",
+          "level": 23
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user lays a trap of spikes at the foe’s feet. The trap hurts foes that switch into battle.",
+          "level": 28
+        },
+        {
+          "name": "Payback",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "If the user can use this attack after the foe attacks, its power is doubled.",
+          "level": 31
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 250,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 34
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user hardens its body’s surface like iron, sharply raising its Defense stat.",
+          "level": 39
+        },
+        {
+          "name": "Gyro Ball",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.",
+          "level": 42
+        },
+        {
+          "name": "DOUBLE EDGE",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 45
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM33",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM33"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM64",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM64"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM74",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM74"
+        },
+        {
+          "name": "TM76",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM76"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user hardens its body’s surface like iron, sharply raising its Defense stat."
+        }
+      ]
+    }
+  }
+}

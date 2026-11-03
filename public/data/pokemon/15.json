@@ -1,0 +1,1206 @@
+{
+  "id": 15,
+  "sinnohId": null,
+  "name": "Beedrill",
+  "genus": "Poison Bee Pokémon",
+  "flavorText": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": {
+    "meters": 0.99,
+    "inches": 39
+  },
+  "weight": {
+    "kg": 29.5,
+    "lbs": 65
+  },
+  "abilities": [
+    "Swarm"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 45,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 40,
+    "specialAttack": 45,
+    "specialDefense": 80,
+    "speed": 75,
+    "bst": 385
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.25,
+    "Ice": 1,
+    "Fighting": 0.25,
+    "Poison": 0.5,
+    "Ground": 1,
+    "Flying": 2,
+    "Psychic": 2,
+    "Bug": 0.5,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Poison Barb",
+      "chance": 5
+    },
+    {
+      "item": "Salac Berry",
+      "chance": 50
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Poison Sting",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is stabbed with a poisonous barb of some sort. It may also poison the target.",
+          "level": 1
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "The foe is jabbed repeatedly with a horn or beak two to five times in a row.",
+          "level": 10
+        },
+        {
+          "name": "Focus Energy",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.",
+          "level": 13
+        },
+        {
+          "name": "Twineedle",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 25,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is stabbed twice by a pair of stingers. It may also poison the target.",
+          "level": 16
+        },
+        {
+          "name": "Rage",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "While this move is in use, it gains attack power each time the user is hit in battle.",
+          "level": 19
+        },
+        {
+          "name": "Pin Missile",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 14,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.",
+          "level": 20
+        },
+        {
+          "name": "Pursuit",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "An attack move that inflicts double damage if used on a foe that is switching out of battle.",
+          "level": 22
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user lays a trap of poison spikes at the foe’s feet. They poison foes that switch into battle.",
+          "level": 25
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 28
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.",
+          "level": 31
+        },
+        {
+          "name": "Assurance",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "If the foe has already taken some damage in the same turn, this attack’s power is doubled.",
+          "level": 34
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+          "level": 37
+        },
+        {
+          "name": "Endeavor",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "An attack move that cuts down the foe’s HP to equal the user’s HP.",
+          "level": 40
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM54",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM54"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM62",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM62"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM75",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM75"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM81",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM81"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM84",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM84"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM89",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM89"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM01"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Fury Cutter",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 10,
+          "accuracy": 95,
+          "pp": 20,
+          "description": "The foe is slashed with scythes or claws. Its power increases if it hits in succession."
+        },
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "Endeavor",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "An attack move that cuts down the foe’s HP to equal the user’s HP."
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user slaps down the foe’s held item, preventing the item from being used during the battle."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Fury Attack",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "The foe is jabbed repeatedly with a horn or beak two to five times in a row.",
+          "level": 1
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "The foe is jabbed repeatedly with a horn or beak two to five times in a row.",
+          "level": 10
+        },
+        {
+          "name": "Focus Energy",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.",
+          "level": 13
+        },
+        {
+          "name": "Twineedle",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 25,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is stabbed twice by a pair of stingers. It may also poison the target.",
+          "level": 16
+        },
+        {
+          "name": "Rage",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "While this move is in use, it gains attack power each time the user is hit in battle.",
+          "level": 19
+        },
+        {
+          "name": "Pursuit",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "An attack move that inflicts double damage if used on a foe that is switching out of battle.",
+          "level": 22
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user lays a trap of poison spikes at the foe’s feet. They poison foes that switch into battle.",
+          "level": 25
+        },
+        {
+          "name": "Pin Missile",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 14,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.",
+          "level": 28
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.",
+          "level": 31
+        },
+        {
+          "name": "Assurance",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "If the foe has already taken some damage in the same turn, this attack’s power is doubled.",
+          "level": 34
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+          "level": 37
+        },
+        {
+          "name": "Endeavor",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "An attack move that cuts down the foe’s HP to equal the user’s HP.",
+          "level": 40
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM54",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM54"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM62",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM62"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM75",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM75"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM81",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM81"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM84",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM84"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM89",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM89"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM01"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Fury Cutter",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 10,
+          "accuracy": 95,
+          "pp": 20,
+          "description": "The foe is slashed with scythes or claws. Its power increases if it hits in succession."
+        },
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "Endeavor",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "An attack move that cuts down the foe’s HP to equal the user’s HP."
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user slaps down the foe’s held item, preventing the item from being used during the battle."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    }
+  }
+}

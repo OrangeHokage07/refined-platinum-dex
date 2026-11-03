@@ -1,0 +1,937 @@
+{
+  "id": 167,
+  "sinnohId": null,
+  "name": "Spinarak",
+  "genus": "String Spit Pokémon",
+  "flavorText": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": {
+    "meters": 0.51,
+    "inches": 20
+  },
+  "weight": {
+    "kg": 8.5,
+    "lbs": 18.7
+  },
+  "abilities": [
+    "Swarm",
+    "Insomnia"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 255,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 40,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 30,
+    "bst": 250
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.25,
+    "Ice": 1,
+    "Fighting": 0.25,
+    "Poison": 0.5,
+    "Ground": 1,
+    "Flying": 2,
+    "Psychic": 2,
+    "Bug": 0.5,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 22,
+      "target": "Ariados"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Ganlon Berry",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Poison Sting",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is stabbed with a poisonous barb of some sort. It may also poison the target.",
+          "level": 1
+        },
+        {
+          "name": "String Shot",
+          "type": "Bug",
+          "category": "Status",
+          "power": null,
+          "accuracy": 95,
+          "pp": 40,
+          "description": "The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Scary Face",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user frightens the foe with a scary face to sharply reduce its Speed stat.",
+          "level": 5
+        },
+        {
+          "name": "Constrict",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 10,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed.",
+          "level": 8
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "A blood-draining attack. The user’s HP is restored by half the damage taken by the target.",
+          "level": 10
+        },
+        {
+          "name": "Night Shade",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user makes the foe see a mirage. It inflicts damage matching the user’s level.",
+          "level": 12
+        },
+        {
+          "name": "Pin Missile",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 14,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.",
+          "level": 15
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user extends its shadow and attacks the foe from behind. This move always goes first.",
+          "level": 19
+        },
+        {
+          "name": "Fury Swipes",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 18,
+          "accuracy": 80,
+          "pp": 15,
+          "description": "The foe is raked with sharp claws or scythes for two to five times in quick succession.",
+          "level": 22
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however.",
+          "level": 26
+        },
+        {
+          "name": "Spider Web",
+          "type": "Bug",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user ensnares the foe with a thin, gooey silk so it can’t flee from battle.",
+          "level": 29
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.",
+          "level": 33
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 36
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.",
+          "level": 40
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+          "level": 43
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM84",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM84"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Poison Sting",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is stabbed with a poisonous barb of some sort. It may also poison the target.",
+          "level": 1
+        },
+        {
+          "name": "String Shot",
+          "type": "Bug",
+          "category": "Status",
+          "power": null,
+          "accuracy": 95,
+          "pp": 40,
+          "description": "The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Scary Face",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user frightens the foe with a scary face to sharply reduce its Speed stat.",
+          "level": 5
+        },
+        {
+          "name": "Constrict",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 10,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed.",
+          "level": 8
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "A blood-draining attack. The user’s HP is restored by half the damage taken by the target.",
+          "level": 12
+        },
+        {
+          "name": "Night Shade",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user makes the foe see a mirage. It inflicts damage matching the user’s level.",
+          "level": 15
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user extends its shadow and attacks the foe from behind. This move always goes first.",
+          "level": 19
+        },
+        {
+          "name": "Fury Swipes",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 18,
+          "accuracy": 80,
+          "pp": 15,
+          "description": "The foe is raked with sharp claws or scythes for two to five times in quick succession.",
+          "level": 22
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however.",
+          "level": 26
+        },
+        {
+          "name": "Spider Web",
+          "type": "Bug",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user ensnares the foe with a thin, gooey silk so it can’t flee from battle.",
+          "level": 29
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.",
+          "level": 33
+        },
+        {
+          "name": "Pin Missile",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 14,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "Sharp pins are shot at the foe in rapid succession. They hit two to five times in a row.",
+          "level": 36
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.",
+          "level": 40
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+          "level": 43
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM84",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM84"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    }
+  }
+}

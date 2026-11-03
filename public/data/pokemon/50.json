@@ -1,0 +1,1073 @@
+{
+  "id": 50,
+  "sinnohId": null,
+  "name": "Diglett",
+  "genus": "Mole Pokémon",
+  "flavorText": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+  "types": [
+    "Ground"
+  ],
+  "height": {
+    "meters": 0.2,
+    "inches": 8
+  },
+  "weight": {
+    "kg": 0.8,
+    "lbs": 1.8
+  },
+  "abilities": [
+    "Sand Veil",
+    "Arena Trap"
+  ],
+  "trainerAbilityNote": "Arena Trap",
+  "catchRate": 255,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "field",
+    "field"
+  ],
+  "baseStats": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "specialAttack": 35,
+    "specialDefense": 45,
+    "speed": 95,
+    "bst": 265
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 2,
+    "Electric": 0,
+    "Grass": 2,
+    "Ice": 2,
+    "Fighting": 1,
+    "Poison": 0.5,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 0.5,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 26,
+      "target": "Dugtrio"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "pokemon": "Diglett",
+        "rate": 5,
+        "timeOfDay": "Any",
+        "notes": "Postgame",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Custap Berry",
+      "chance": 5,
+      "notes": "(no Soft Sand)"
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Scratch",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "Hard, pointed, and sharp claws rake the foe to inflict damage.",
+          "level": 1
+        },
+        {
+          "name": "SAND ATTACK",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 1
+        },
+        {
+          "name": "Growl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 40,
+          "description": "The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.",
+          "level": 4
+        },
+        {
+          "name": "Astonish",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.",
+          "level": 7
+        },
+        {
+          "name": "Magnitude",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+          "level": 12
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 15
+        },
+        {
+          "name": "Dig",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+          "level": 18
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however.",
+          "level": 23
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.",
+          "level": 26
+        },
+        {
+          "name": "Mud Bomb",
+          "type": "Ground",
+          "category": "Special",
+          "power": 65,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "The user launches a hard-packed mud ball to attack. It may also lower the target’s accuracy.",
+          "level": 29
+        },
+        {
+          "name": "Slash",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.",
+          "level": 34
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+          "level": 37
+        },
+        {
+          "name": "Reversal",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An all-out attack that becomes more powerful the less HP the user has.",
+          "level": 38
+        },
+        {
+          "name": "Fissure",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.",
+          "level": 40
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM65",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM65"
+        },
+        {
+          "name": "TM76",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM76"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM01"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Scratch",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "Hard, pointed, and sharp claws rake the foe to inflict damage.",
+          "level": 1
+        },
+        {
+          "name": "SAND ATTACK",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 1
+        },
+        {
+          "name": "Growl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 40,
+          "description": "The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.",
+          "level": 4
+        },
+        {
+          "name": "Astonish",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.",
+          "level": 7
+        },
+        {
+          "name": "Magnitude",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+          "level": 12
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 15
+        },
+        {
+          "name": "Dig",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+          "level": 18
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however.",
+          "level": 23
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.",
+          "level": 26
+        },
+        {
+          "name": "Mud Bomb",
+          "type": "Ground",
+          "category": "Special",
+          "power": 65,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "The user launches a hard-packed mud ball to attack. It may also lower the target’s accuracy.",
+          "level": 29
+        },
+        {
+          "name": "Slash",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.",
+          "level": 34
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+          "level": 37
+        },
+        {
+          "name": "Fissure",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.",
+          "level": 40
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM65",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM65"
+        },
+        {
+          "name": "TM76",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM76"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM01"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    }
+  }
+}

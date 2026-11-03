@@ -1,0 +1,1981 @@
+{
+  "id": 356,
+  "sinnohId": 190,
+  "name": "Dusclops",
+  "genus": "Beckon Pokémon",
+  "flavorText": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
+  "types": [
+    "Ghost"
+  ],
+  "height": {
+    "meters": 1.6,
+    "inches": 63
+  },
+  "weight": {
+    "kg": 30.6,
+    "lbs": 67.5
+  },
+  "abilities": [
+    "Pressure"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 90,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "amorphous",
+    "amorphous"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 130,
+    "specialAttack": 60,
+    "specialDefense": 130,
+    "speed": 25,
+    "bst": 455
+  },
+  "typeMatchups": {
+    "Normal": 0,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 1,
+    "Ice": 1,
+    "Fighting": 0,
+    "Poison": 0.5,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 1,
+    "Bug": 0.5,
+    "Rock": 1,
+    "Ghost": 2,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 2
+  },
+  "evolutions": [
+    {
+      "target": "Dusknoir",
+      "method": "level_up_held_item",
+      "item": "Reaper Cloth",
+      "notes": "Level up holding Reaper Cloth"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 39,
+        "maxLevel": 39,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 16,
+        "maxLevel": 16,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 18,
+        "maxLevel": 18,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 18,
+        "maxLevel": 18,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 18,
+        "maxLevel": 18,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 18,
+        "maxLevel": 18,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 37,
+        "maxLevel": 37,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 37,
+        "maxLevel": 37,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 37,
+        "maxLevel": 37,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 37,
+        "maxLevel": 37,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 37,
+        "maxLevel": 37,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 16,
+        "maxLevel": 16,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 18,
+        "maxLevel": 18,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 18,
+        "maxLevel": 18,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 18,
+        "maxLevel": 18,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 18,
+        "maxLevel": 18,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 26,
+        "maxLevel": 26,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 46,
+        "maxLevel": 46,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 47,
+        "maxLevel": 47,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 47,
+        "maxLevel": 47,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 47,
+        "maxLevel": 47,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 47,
+        "maxLevel": 47,
+        "source": "vanilla"
+      },
+      {
+        "location": "Turnback Cave",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 48,
+        "maxLevel": 48,
+        "source": "vanilla"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Kasib Berry",
+      "chance": 5
+    },
+    {
+      "item": "Reaper Cloth",
+      "chance": 5
+    },
+    {
+      "item": "Kasib Berry",
+      "chance": 50
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn.",
+          "level": 1
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen.",
+          "level": 1
+        },
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 1
+        },
+        {
+          "name": "Gravity",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.",
+          "level": 1
+        },
+        {
+          "name": "Bind",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 75,
+          "pp": 20,
+          "description": "A long body or tentacles are used to bind and squeeze the foe for two to five turns.",
+          "level": 1
+        },
+        {
+          "name": "Leer",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is given an intimidating leer with sharp eyes. The target’s Defense stat is reduced.",
+          "level": 1
+        },
+        {
+          "name": "Night Shade",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user makes the foe see a mirage. It inflicts damage matching the user’s level.",
+          "level": 1
+        },
+        {
+          "name": "Disable",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 80,
+          "pp": 20,
+          "description": "For several turns, this move prevents the foe from using the move it last used.",
+          "level": 1
+        },
+        {
+          "name": "Disable",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 80,
+          "pp": 20,
+          "description": "For several turns, this move prevents the foe from using the move it last used.",
+          "level": 6
+        },
+        {
+          "name": "Foresight",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.",
+          "level": 9
+        },
+        {
+          "name": "Astonish",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.",
+          "level": 14
+        },
+        {
+          "name": "Confuse Ray",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is exposed to a sinister ray that triggers confusion.",
+          "level": 17
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user extends its shadow and attacks the foe from behind. This move always goes first.",
+          "level": 22
+        },
+        {
+          "name": "Pursuit",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "An attack move that inflicts double damage if used on a foe that is switching out of battle.",
+          "level": 25
+        },
+        {
+          "name": "Curse",
+          "type": "Mystery",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "A move that works differently for the Ghost type than for all the other types.",
+          "level": 30
+        },
+        {
+          "name": "WILL O WISP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 33
+        },
+        {
+          "name": "Shadow Punch",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user throws a punch at the foe from the shadows. The punch lands without fail.",
+          "level": 37
+        },
+        {
+          "name": "Mean Look",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user affixes the foe with a dark, arresting look. The target becomes unable to flee.",
+          "level": 43
+        },
+        {
+          "name": "Payback",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "If the user can use this attack after the foe attacks, its power is doubled.",
+          "level": 51
+        },
+        {
+          "name": "Future Sight",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "Two turns after this move is used, the foe is attacked with a hunk of psychic energy.",
+          "level": 61
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM04"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM12",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM12"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM41",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM41"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM48",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM48"
+        },
+        {
+          "name": "TM49",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM49"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM57",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM57"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM61",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM61"
+        },
+        {
+          "name": "TM63",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM63"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM77",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM77"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM79",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM79"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM85",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM85"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "TM92",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM92"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn."
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen."
+        },
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Spite",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user looses its grudge on the move last used by the foe by cutting 4 PP from it."
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user catches the foe off guard and swaps the foe’s held item with its own."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn.",
+          "level": 1
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen.",
+          "level": 1
+        },
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 1
+        },
+        {
+          "name": "Gravity",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.",
+          "level": 1
+        },
+        {
+          "name": "Bind",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 75,
+          "pp": 20,
+          "description": "A long body or tentacles are used to bind and squeeze the foe for two to five turns.",
+          "level": 1
+        },
+        {
+          "name": "Leer",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is given an intimidating leer with sharp eyes. The target’s Defense stat is reduced.",
+          "level": 1
+        },
+        {
+          "name": "Night Shade",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user makes the foe see a mirage. It inflicts damage matching the user’s level.",
+          "level": 1
+        },
+        {
+          "name": "Disable",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 80,
+          "pp": 20,
+          "description": "For several turns, this move prevents the foe from using the move it last used.",
+          "level": 1
+        },
+        {
+          "name": "Disable",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 80,
+          "pp": 20,
+          "description": "For several turns, this move prevents the foe from using the move it last used.",
+          "level": 6
+        },
+        {
+          "name": "Foresight",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.",
+          "level": 9
+        },
+        {
+          "name": "Astonish",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.",
+          "level": 14
+        },
+        {
+          "name": "Confuse Ray",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is exposed to a sinister ray that triggers confusion.",
+          "level": 17
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user extends its shadow and attacks the foe from behind. This move always goes first.",
+          "level": 22
+        },
+        {
+          "name": "Pursuit",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "An attack move that inflicts double damage if used on a foe that is switching out of battle.",
+          "level": 25
+        },
+        {
+          "name": "Curse",
+          "type": "Mystery",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "A move that works differently for the Ghost type than for all the other types.",
+          "level": 30
+        },
+        {
+          "name": "WILL O WISP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 33
+        },
+        {
+          "name": "Shadow Punch",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user throws a punch at the foe from the shadows. The punch lands without fail.",
+          "level": 37
+        },
+        {
+          "name": "Mean Look",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user affixes the foe with a dark, arresting look. The target becomes unable to flee.",
+          "level": 43
+        },
+        {
+          "name": "Payback",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "If the user can use this attack after the foe attacks, its power is doubled.",
+          "level": 51
+        },
+        {
+          "name": "Future Sight",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "Two turns after this move is used, the foe is attacked with a hunk of psychic energy.",
+          "level": 61
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM04"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM12",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM12"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM41",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM41"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM48",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM48"
+        },
+        {
+          "name": "TM49",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM49"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM57",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM57"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM61",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM61"
+        },
+        {
+          "name": "TM63",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM63"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM77",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM77"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM79",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM79"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM85",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM85"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "TM92",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM92"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn."
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen."
+        },
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Spite",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user looses its grudge on the move last used by the foe by cutting 4 PP from it."
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user catches the foe off guard and swaps the foe’s held item with its own."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": 360,
+  "sinnohId": null,
+  "name": "Wynaut",
+  "genus": "Bright Pokémon",
+  "flavorText": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+  "types": [
+    "Psychic"
+  ],
+  "height": {
+    "meters": 0.61,
+    "inches": 24
+  },
+  "weight": {
+    "kg": 14,
+    "lbs": 30.9
+  },
+  "abilities": [
+    "Shadow Tag"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 125,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "undiscovered",
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "specialAttack": 23,
+    "specialDefense": 48,
+    "speed": 23,
+    "bst": 260
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 1,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 1,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 0.5,
+    "Bug": 2,
+    "Rock": 1,
+    "Ghost": 2,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 2
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 15,
+      "target": "Wobbuffet"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Enigma Berry",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Splash",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "The user just flops and splashes around to no effect at all...",
+          "level": 1
+        },
+        {
+          "name": "Charm",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user charmingly stares at the foe, making it less wary. The target’s Attack is sharply lowered.",
+          "level": 1
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user compels the foe to keep using only the move it last used for three to seven turns.",
+          "level": 1
+        },
+        {
+          "name": "Counter",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+          "level": 15
+        },
+        {
+          "name": "Mirror Coat",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A retaliation move that counters any special attack, inflicting double the damage taken.",
+          "level": 15
+        },
+        {
+          "name": "Safeguard",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 25,
+          "description": "The user creates a protective field that prevents status problems for five turns.",
+          "level": 15
+        },
+        {
+          "name": "Destiny Bond",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "When this move is used, if the user faints, the foe that landed the knockout hit also faints.",
+          "level": 15
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Splash",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "The user just flops and splashes around to no effect at all...",
+          "level": 1
+        },
+        {
+          "name": "Charm",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user charmingly stares at the foe, making it less wary. The target’s Attack is sharply lowered.",
+          "level": 1
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user compels the foe to keep using only the move it last used for three to seven turns.",
+          "level": 1
+        },
+        {
+          "name": "Counter",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+          "level": 15
+        },
+        {
+          "name": "Mirror Coat",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A retaliation move that counters any special attack, inflicting double the damage taken.",
+          "level": 15
+        },
+        {
+          "name": "Safeguard",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 25,
+          "description": "The user creates a protective field that prevents status problems for five turns.",
+          "level": 15
+        },
+        {
+          "name": "Destiny Bond",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "When this move is used, if the user faints, the foe that landed the knockout hit also faints.",
+          "level": 15
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    }
+  }
+}

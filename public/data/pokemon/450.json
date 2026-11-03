@@ -1,0 +1,1108 @@
+{
+  "id": 450,
+  "sinnohId": 123,
+  "name": "Hippowdon",
+  "genus": "Heavyweight Pokémon",
+  "flavorText": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+  "types": [
+    "Ground"
+  ],
+  "height": {
+    "meters": 2.01,
+    "inches": 79
+  },
+  "weight": {
+    "kg": 300,
+    "lbs": 661.4
+  },
+  "abilities": [
+    "Sand Stream"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 60,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "field",
+    "field"
+  ],
+  "baseStats": {
+    "hp": 108,
+    "attack": 112,
+    "defense": 118,
+    "specialAttack": 68,
+    "specialDefense": 72,
+    "speed": 47,
+    "bst": 525
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 2,
+    "Electric": 0,
+    "Grass": 2,
+    "Ice": 2,
+    "Fighting": 1,
+    "Poison": 0.5,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 0.5,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 50,
+        "maxLevel": 50,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 50,
+        "maxLevel": 50,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 51,
+        "maxLevel": 51,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "pokemon": "Hippowdon",
+        "rate": 10,
+        "timeOfDay": "Any",
+        "notes": "Postgame",
+        "source": "refined"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "pokemon": "Hippowdon",
+        "rate": 10,
+        "timeOfDay": "Day",
+        "notes": "Postgame Morning & Day",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Micle Berry",
+      "chance": 50
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Ice Fang",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user bites with cold-infused fangs. It may also make the foe flinch or freeze.",
+          "level": 1
+        },
+        {
+          "name": "Fire Fang",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.",
+          "level": 1
+        },
+        {
+          "name": "Thunder Fang",
+          "type": "Electric",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.",
+          "level": 1
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "SAND ATTACK",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 1
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is bitten with viciously sharp fangs. It may make the target flinch.",
+          "level": 7
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.",
+          "level": 13
+        },
+        {
+          "name": "Take Down",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.",
+          "level": 19
+        },
+        {
+          "name": "Dig",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+          "level": 19
+        },
+        {
+          "name": "Sand Tomb",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 70,
+          "pp": 15,
+          "description": "The user traps the foe inside a harshly raging sandstorm for two to five turns.",
+          "level": 25
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user crunches up the foe with sharp fangs. It may also lower the target’s Defense stat.",
+          "level": 31
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+          "level": 40
+        },
+        {
+          "name": "DOUBLE EDGE",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 50
+        },
+        {
+          "name": "Fissure",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.",
+          "level": 60
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM05"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM71",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM71"
+        },
+        {
+          "name": "TM76",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM76"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense."
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe slams the target with its steel-hard head. It may also make the target flinch."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Ice Fang",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user bites with cold-infused fangs. It may also make the foe flinch or freeze.",
+          "level": 1
+        },
+        {
+          "name": "Fire Fang",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.",
+          "level": 1
+        },
+        {
+          "name": "Thunder Fang",
+          "type": "Electric",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.",
+          "level": 1
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "SAND ATTACK",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 1
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is bitten with viciously sharp fangs. It may make the target flinch.",
+          "level": 1
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.",
+          "level": 1
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is bitten with viciously sharp fangs. It may make the target flinch.",
+          "level": 7
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user lets loose a huge yawn that lulls the foe into falling asleep on the next turn.",
+          "level": 13
+        },
+        {
+          "name": "Take Down",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.",
+          "level": 19
+        },
+        {
+          "name": "Sand Tomb",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 70,
+          "pp": 15,
+          "description": "The user traps the foe inside a harshly raging sandstorm for two to five turns.",
+          "level": 25
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user crunches up the foe with sharp fangs. It may also lower the target’s Defense stat.",
+          "level": 31
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+          "level": 40
+        },
+        {
+          "name": "DOUBLE EDGE",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 50
+        },
+        {
+          "name": "Fissure",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.",
+          "level": 60
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM05"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM71",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM71"
+        },
+        {
+          "name": "TM76",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM76"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense."
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe slams the target with its steel-hard head. It may also make the target flinch."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        }
+      ]
+    }
+  }
+}

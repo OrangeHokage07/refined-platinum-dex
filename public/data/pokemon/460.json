@@ -1,0 +1,1455 @@
+{
+  "id": 460,
+  "sinnohId": 143,
+  "name": "Abomasnow",
+  "genus": "Frost Tree Pokémon",
+  "flavorText": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
+  "types": [
+    "Grass",
+    "Ice"
+  ],
+  "height": {
+    "meters": 2.21,
+    "inches": 87
+  },
+  "weight": {
+    "kg": 135.5,
+    "lbs": 298.7
+  },
+  "abilities": [
+    "Snow Warning"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 60,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "monster",
+    "grass"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 92,
+    "defense": 75,
+    "specialAttack": 92,
+    "specialDefense": 85,
+    "speed": 60,
+    "bst": 494
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 4,
+    "Water": 0.5,
+    "Electric": 0.5,
+    "Grass": 0.5,
+    "Ice": 1,
+    "Fighting": 2,
+    "Poison": 2,
+    "Ground": 0.5,
+    "Flying": 2,
+    "Psychic": 1,
+    "Bug": 2,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 2,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 39,
+        "maxLevel": 39,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 39,
+        "maxLevel": 39,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 39,
+        "maxLevel": 39,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 39,
+        "maxLevel": 39,
+        "source": "vanilla"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Never-Melt Ice",
+      "chance": 5
+    },
+    {
+      "item": "Coba Berry",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen.",
+          "level": 1
+        },
+        {
+          "name": "Powder Snow",
+          "type": "Ice",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The user attacks with a chilling gust of powdery snow. It may also freeze the target.",
+          "level": 1
+        },
+        {
+          "name": "Leer",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is given an intimidating leer with sharp eyes. The target’s Defense stat is reduced.",
+          "level": 1
+        },
+        {
+          "name": "Razor Leaf",
+          "type": "Grass",
+          "category": "Physical",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.",
+          "level": 5
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat.",
+          "level": 9
+        },
+        {
+          "name": "GRASS WHISTLE",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 13
+        },
+        {
+          "name": "Swagger",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.",
+          "level": 17
+        },
+        {
+          "name": "Mist",
+          "type": "Ice",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.",
+          "level": 21
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user flash freezes chunks of ice and hurls them. This move always goes first.",
+          "level": 26
+        },
+        {
+          "name": "Ingrain",
+          "type": "Grass",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user lays roots that restore HP on every turn. Because it is rooted, it can’t switch out.",
+          "level": 31
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user slams its rugged body into the foe to attack. The user also sustains serious damage.",
+          "level": 36
+        },
+        {
+          "name": "Stomp",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is stomped with a big foot. It may also make the target flinch.",
+          "level": 38
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "category": "Special",
+          "power": 120,
+          "accuracy": 70,
+          "pp": 5,
+          "description": "A howling blizzard is summoned to strike the foe. It may also freeze the target solid.",
+          "level": 47
+        },
+        {
+          "name": "Sheer Cold",
+          "type": "Ice",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The foe is attacked with a blast of absolute-zero cold. The foe instantly faints if it hits.",
+          "level": 58
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM09",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM09"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM20",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM20"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM52",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM52"
+        },
+        {
+          "name": "TM53",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM53"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM72",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM72"
+        },
+        {
+          "name": "TM75",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM75"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM86",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM86"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM08",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM08"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user rampages and attacks for two to three turns. However, it then becomes confused."
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+        },
+        {
+          "name": "Seed Bomb",
+          "type": "Grass",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user slams a barrage of hard- shelled seeds down on the foe from above."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen.",
+          "level": 1
+        },
+        {
+          "name": "Powder Snow",
+          "type": "Ice",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The user attacks with a chilling gust of powdery snow. It may also freeze the target.",
+          "level": 1
+        },
+        {
+          "name": "Leer",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is given an intimidating leer with sharp eyes. The target’s Defense stat is reduced.",
+          "level": 1
+        },
+        {
+          "name": "Razor Leaf",
+          "type": "Grass",
+          "category": "Physical",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.",
+          "level": 1
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Razor Leaf",
+          "type": "Grass",
+          "category": "Physical",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.",
+          "level": 5
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat.",
+          "level": 9
+        },
+        {
+          "name": "GRASS WHISTLE",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 13
+        },
+        {
+          "name": "Swagger",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.",
+          "level": 17
+        },
+        {
+          "name": "Mist",
+          "type": "Ice",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.",
+          "level": 21
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user flash freezes chunks of ice and hurls them. This move always goes first.",
+          "level": 26
+        },
+        {
+          "name": "Ingrain",
+          "type": "Grass",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user lays roots that restore HP on every turn. Because it is rooted, it can’t switch out.",
+          "level": 31
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user slams its rugged body into the foe to attack. The user also sustains serious damage.",
+          "level": 36
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "category": "Special",
+          "power": 120,
+          "accuracy": 70,
+          "pp": 5,
+          "description": "A howling blizzard is summoned to strike the foe. It may also freeze the target solid.",
+          "level": 47
+        },
+        {
+          "name": "Sheer Cold",
+          "type": "Ice",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The foe is attacked with a blast of absolute-zero cold. The foe instantly faints if it hits.",
+          "level": 58
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM09",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM09"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM20",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM20"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM52",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM52"
+        },
+        {
+          "name": "TM53",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM53"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM72",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM72"
+        },
+        {
+          "name": "TM75",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM75"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM86",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM86"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM08",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM08"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user rampages and attacks for two to three turns. However, it then becomes confused."
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user restores its own HP. The amount of HP regained varies with the weather."
+        },
+        {
+          "name": "Seed Bomb",
+          "type": "Grass",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user slams a barrage of hard- shelled seeds down on the foe from above."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1633 @@
+{
+  "id": 446,
+  "sinnohId": 112,
+  "name": "Munchlax",
+  "genus": "Big Eater Pokémon",
+  "flavorText": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
+  "types": [
+    "Normal"
+  ],
+  "height": {
+    "meters": 0.61,
+    "inches": 24
+  },
+  "weight": {
+    "kg": 105,
+    "lbs": 231.5
+  },
+  "abilities": [
+    "Pickup",
+    "Thick Fat"
+  ],
+  "trainerAbilityNote": "Thick Fat",
+  "catchRate": 50,
+  "genderRatio": "female_12_5",
+  "eggGroups": [
+    "undiscovered",
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 135,
+    "attack": 85,
+    "defense": 40,
+    "specialAttack": 40,
+    "specialDefense": 85,
+    "speed": 5,
+    "bst": 390
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 1,
+    "Ice": 1,
+    "Fighting": 2,
+    "Poison": 1,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 1,
+    "Ghost": 0,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level_happiness",
+      "target": "Snorlax"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 206",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 207",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 211",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 215",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Fuego Ironworks",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Floaroma Meadow",
+        "method": "honey tree",
+        "rate": 100,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212 North",
+        "method": "walk",
+        "pokemon": "Munchlax",
+        "rate": 6,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Leftovers",
+      "chance": 100
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Metronome",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user waggles a finger and stimulates the brain into randomly using nearly any move.",
+          "level": 1
+        },
+        {
+          "name": "Odor Sleuth",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.",
+          "level": 1
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Defense Curl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "The user curls up to conceal weak spots and raise its Defense stat.",
+          "level": 4
+        },
+        {
+          "name": "Amnesia",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user’s Sp. Def stat.",
+          "level": 9
+        },
+        {
+          "name": "Lick",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is licked with a long tongue, causing damage. It may also paralyze the target.",
+          "level": 12
+        },
+        {
+          "name": "Recycle",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user recycles a single-use item that has been used in battle so it can be used again.",
+          "level": 17
+        },
+        {
+          "name": "Screech",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 40,
+          "description": "An earsplitting screech is emitted to sharply reduce the foe’s Defense stat.",
+          "level": 20
+        },
+        {
+          "name": "Stockpile",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times.",
+          "level": 25
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.",
+          "level": 26
+        },
+        {
+          "name": "Swallow",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The power stored using the move Stockpile is absorbed by the user to heal its HP.",
+          "level": 28
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user drops onto the foe with its full body weight. It may leave the foe paralyzed.",
+          "level": 33
+        },
+        {
+          "name": "Fling",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user flings its held item at the foe to attack. Its power and effects depend on the item.",
+          "level": 36
+        },
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits.",
+          "level": 41
+        },
+        {
+          "name": "Natural Gift",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power.",
+          "level": 44
+        },
+        {
+          "name": "Last Resort",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 130,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move can be used only after the user has used all the other moves it knows in the battle.",
+          "level": 49
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM35",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM35"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM38",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM38"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM67",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM67"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM08",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM08"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits."
+        },
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn."
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense."
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 70,
+          "pp": 5,
+          "description": "The user shoots filthy garbage at the foe to attack. It may also poison the target."
+        },
+        {
+          "name": "Seed Bomb",
+          "type": "Grass",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user slams a barrage of hard- shelled seeds down on the foe from above."
+        },
+        {
+          "name": "Last Resort",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 130,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move can be used only after the user has used all the other moves it knows in the battle."
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Metronome",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user waggles a finger and stimulates the brain into randomly using nearly any move.",
+          "level": 1
+        },
+        {
+          "name": "Odor Sleuth",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.",
+          "level": 1
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Defense Curl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "The user curls up to conceal weak spots and raise its Defense stat.",
+          "level": 4
+        },
+        {
+          "name": "Amnesia",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user temporarily empties its mind to forget its concerns. It sharply raises the user’s Sp. Def stat.",
+          "level": 9
+        },
+        {
+          "name": "Lick",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is licked with a long tongue, causing damage. It may also paralyze the target.",
+          "level": 12
+        },
+        {
+          "name": "Recycle",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user recycles a single-use item that has been used in battle so it can be used again.",
+          "level": 17
+        },
+        {
+          "name": "Screech",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 40,
+          "description": "An earsplitting screech is emitted to sharply reduce the foe’s Defense stat.",
+          "level": 20
+        },
+        {
+          "name": "Stockpile",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user charges up power, and raises both its Defense and Sp. Def. The move can be used three times.",
+          "level": 25
+        },
+        {
+          "name": "Swallow",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The power stored using the move Stockpile is absorbed by the user to heal its HP.",
+          "level": 28
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user drops onto the foe with its full body weight. It may leave the foe paralyzed.",
+          "level": 33
+        },
+        {
+          "name": "Fling",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user flings its held item at the foe to attack. Its power and effects depend on the item.",
+          "level": 36
+        },
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits.",
+          "level": 41
+        },
+        {
+          "name": "Natural Gift",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user draws power to attack by using its held Berry. The Berry determines its type and power.",
+          "level": 44
+        },
+        {
+          "name": "Last Resort",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 130,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move can be used only after the user has used all the other moves it knows in the battle.",
+          "level": 49
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM35",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM35"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM38",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM38"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM67",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM67"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM08",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM08"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits."
+        },
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn."
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense."
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with an icy fist. It may leave the target frozen."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 70,
+          "pp": 5,
+          "description": "The user shoots filthy garbage at the foe to attack. It may also poison the target."
+        },
+        {
+          "name": "Seed Bomb",
+          "type": "Grass",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user slams a barrage of hard- shelled seeds down on the foe from above."
+        },
+        {
+          "name": "Last Resort",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 130,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move can be used only after the user has used all the other moves it knows in the battle."
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep."
+        }
+      ]
+    }
+  }
+}

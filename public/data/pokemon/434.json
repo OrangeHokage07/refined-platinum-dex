@@ -1,0 +1,1203 @@
+{
+  "id": 434,
+  "sinnohId": 84,
+  "name": "Stunky",
+  "genus": "Skunk Pokémon",
+  "flavorText": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+  "types": [
+    "Poison",
+    "Dark"
+  ],
+  "height": {
+    "meters": 0.41,
+    "inches": 16
+  },
+  "weight": {
+    "kg": 19.2,
+    "lbs": 42.3
+  },
+  "abilities": [
+    "Stench",
+    "Aftermath"
+  ],
+  "trainerAbilityNote": "Aftermath",
+  "catchRate": 225,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "field",
+    "field"
+  ],
+  "baseStats": {
+    "hp": 63,
+    "attack": 63,
+    "defense": 47,
+    "specialAttack": 41,
+    "specialDefense": 41,
+    "speed": 74,
+    "bst": 329
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.5,
+    "Ice": 1,
+    "Fighting": 1,
+    "Poison": 0.5,
+    "Ground": 2,
+    "Flying": 1,
+    "Psychic": 0,
+    "Bug": 1,
+    "Rock": 1,
+    "Ghost": 0.5,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 0.5
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 34,
+      "target": "Skuntank"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 206",
+        "method": "walk",
+        "pokemon": "Stunky",
+        "rate": 15,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 214",
+        "method": "walk",
+        "pokemon": "Stunky",
+        "rate": 15,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Lansat Berry",
+      "chance": 5,
+      "notes": "(no Pecha Berry)"
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Scratch",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "Hard, pointed, and sharp claws rake the foe to inflict damage.",
+          "level": 1
+        },
+        {
+          "name": "Focus Energy",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.",
+          "level": 1
+        },
+        {
+          "name": "Poison Gas",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 40,
+          "description": "A cloud of poison gas is sprayed in the foe’s face. It may poison the target.",
+          "level": 4
+        },
+        {
+          "name": "Smog",
+          "type": "Poison",
+          "category": "Special",
+          "power": 20,
+          "accuracy": 70,
+          "pp": 20,
+          "description": "The foe is attacked with a discharge of filthy gases. It may also poison the target.",
+          "level": 5
+        },
+        {
+          "name": "Screech",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 40,
+          "description": "An earsplitting screech is emitted to sharply reduce the foe’s Defense stat.",
+          "level": 7
+        },
+        {
+          "name": "Astonish",
+          "type": "Ghost",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks the foe while shouting in a startling fashion. It may also make the target flinch.",
+          "level": 9
+        },
+        {
+          "name": "Fury Swipes",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 18,
+          "accuracy": 80,
+          "pp": 15,
+          "description": "The foe is raked with sharp claws or scythes for two to five times in quick succession.",
+          "level": 10
+        },
+        {
+          "name": "SMOKE SCREEN",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 14
+        },
+        {
+          "name": "Thief",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.",
+          "level": 16
+        },
+        {
+          "name": "Feint",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.",
+          "level": 18
+        },
+        {
+          "name": "Slash",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.",
+          "level": 22
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+          "level": 27
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.",
+          "level": 32
+        },
+        {
+          "name": "Memento",
+          "type": "Dark",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user faints upon using this move. In return, it sharply lowers the target’s Attack and Sp. Atk.",
+          "level": 38
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks by hurling filthy sludge at the foe. It may also poison the target.",
+          "level": 40
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 250,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 44
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM05"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM12",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM12"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM35",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM35"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM38",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM38"
+        },
+        {
+          "name": "TM41",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM41"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM49",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM49"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM64",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM64"
+        },
+        {
+          "name": "TM65",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM65"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM79",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM79"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM01"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fury Cutter",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 10,
+          "accuracy": 95,
+          "pp": 20,
+          "description": "The foe is slashed with scythes or claws. Its power increases if it hits in succession."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Scratch",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "Hard, pointed, and sharp claws rake the foe to inflict damage.",
+          "level": 1
+        },
+        {
+          "name": "Focus Energy",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user takes a deep breath and focuses to raise the critical-hit ratio of its attacks.",
+          "level": 1
+        },
+        {
+          "name": "Poison Gas",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 40,
+          "description": "A cloud of poison gas is sprayed in the foe’s face. It may poison the target.",
+          "level": 4
+        },
+        {
+          "name": "Screech",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 40,
+          "description": "An earsplitting screech is emitted to sharply reduce the foe’s Defense stat.",
+          "level": 7
+        },
+        {
+          "name": "Fury Swipes",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 18,
+          "accuracy": 80,
+          "pp": 15,
+          "description": "The foe is raked with sharp claws or scythes for two to five times in quick succession.",
+          "level": 10
+        },
+        {
+          "name": "SMOKE SCREEN",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 14
+        },
+        {
+          "name": "Feint",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.",
+          "level": 18
+        },
+        {
+          "name": "Slash",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.",
+          "level": 22
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+          "level": 27
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user slashes the foe the instant an opportunity arises. It has a high critical-hit ratio.",
+          "level": 32
+        },
+        {
+          "name": "Memento",
+          "type": "Dark",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user faints upon using this move. In return, it sharply lowers the target’s Attack and Sp. Atk.",
+          "level": 38
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 250,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 44
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM05"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM12",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM12"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM35",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM35"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM38",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM38"
+        },
+        {
+          "name": "TM41",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM41"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM49",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM49"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM64",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM64"
+        },
+        {
+          "name": "TM65",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM65"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM79",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM79"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM01"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fury Cutter",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 10,
+          "accuracy": 95,
+          "pp": 20,
+          "description": "The foe is slashed with scythes or claws. Its power increases if it hits in succession."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    }
+  }
+}

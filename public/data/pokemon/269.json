@@ -1,0 +1,1185 @@
+{
+  "id": 269,
+  "sinnohId": 52,
+  "name": "Dustox",
+  "genus": "Poison Moth Pokémon",
+  "flavorText": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": {
+    "meters": 1.19,
+    "inches": 47
+  },
+  "weight": {
+    "kg": 31.6,
+    "lbs": 69.7
+  },
+  "abilities": [
+    "Shield Dust"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 45,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "specialAttack": 50,
+    "specialDefense": 90,
+    "speed": 65,
+    "bst": 385
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.25,
+    "Ice": 1,
+    "Fighting": 0.25,
+    "Poison": 0.5,
+    "Ground": 1,
+    "Flying": 2,
+    "Psychic": 2,
+    "Bug": 0.5,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Eterna Forest",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 14,
+        "maxLevel": 14,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 15,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 224",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 52,
+        "maxLevel": 52,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 224",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 52,
+        "maxLevel": 52,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 224",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 52,
+        "maxLevel": 52,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 224",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 52,
+        "maxLevel": 52,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 224",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 52,
+        "maxLevel": 52,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 224",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 52,
+        "maxLevel": 52,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 48,
+        "maxLevel": 48,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 48,
+        "maxLevel": 48,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 48,
+        "maxLevel": 48,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 48,
+        "maxLevel": 48,
+        "source": "vanilla"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Shed Shell",
+      "chance": 5
+    },
+    {
+      "item": "Salac Berry",
+      "chance": 50
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 1
+        },
+        {
+          "name": "Confusion",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is hit by a weak telekinetic force. It may also leave the foe confused.",
+          "level": 10
+        },
+        {
+          "name": "Gust",
+          "type": "Flying",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "A gust of wind is whipped up by wings and launched at the foe to inflict damage.",
+          "level": 13
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+          "level": 17
+        },
+        {
+          "name": "Moonlight",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user restores its own HP. The amount of HP regained varies with the weather.",
+          "level": 20
+        },
+        {
+          "name": "Psybeam",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is attacked with a peculiar ray. It may also leave the target confused.",
+          "level": 24
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+          "level": 27
+        },
+        {
+          "name": "Light Screen",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns.",
+          "level": 31
+        },
+        {
+          "name": "Silver Wind",
+          "type": "Bug",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The foe is attacked with powdery scales blown by wind. It may also raise all the user’s stats.",
+          "level": 34
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+          "level": 38
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.",
+          "level": 41
+        },
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once.",
+          "level": 45
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM53",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM53"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM62",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM62"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM89",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM89"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Confusion",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is hit by a weak telekinetic force. It may also leave the foe confused.",
+          "level": 1
+        },
+        {
+          "name": "Confusion",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is hit by a weak telekinetic force. It may also leave the foe confused.",
+          "level": 10
+        },
+        {
+          "name": "Gust",
+          "type": "Flying",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "A gust of wind is whipped up by wings and launched at the foe to inflict damage.",
+          "level": 13
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+          "level": 17
+        },
+        {
+          "name": "Moonlight",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user restores its own HP. The amount of HP regained varies with the weather.",
+          "level": 20
+        },
+        {
+          "name": "Psybeam",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is attacked with a peculiar ray. It may also leave the target confused.",
+          "level": 24
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+          "level": 27
+        },
+        {
+          "name": "Light Screen",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "A wondrous wall of light is put up to suppress damage from special attacks for five turns.",
+          "level": 31
+        },
+        {
+          "name": "Silver Wind",
+          "type": "Bug",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The foe is attacked with powdery scales blown by wind. It may also raise all the user’s stats.",
+          "level": 34
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+          "level": 38
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.",
+          "level": 41
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM16",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM16"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM53",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM53"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM62",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM62"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM89",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM89"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    }
+  }
+}

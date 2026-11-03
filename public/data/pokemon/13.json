@@ -1,0 +1,198 @@
+{
+  "id": 13,
+  "sinnohId": null,
+  "name": "Weedle",
+  "genus": "Hairy Bug Pokémon",
+  "flavorText": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": {
+    "meters": 0.3,
+    "inches": 12
+  },
+  "weight": {
+    "kg": 3.2,
+    "lbs": 7.1
+  },
+  "abilities": [
+    "Shield Dust"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 255,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "specialAttack": 20,
+    "specialDefense": 20,
+    "speed": 50,
+    "bst": 195
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.25,
+    "Ice": 1,
+    "Fighting": 0.25,
+    "Poison": 0.5,
+    "Ground": 1,
+    "Flying": 2,
+    "Psychic": 2,
+    "Bug": 0.5,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 7,
+      "target": "Kakuna"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Eterna Forest",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 13,
+        "maxLevel": 13,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 5,
+        "maxLevel": 5,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 5,
+        "maxLevel": 5,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 10,
+        "maxLevel": 10,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 10,
+        "maxLevel": 10,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "radar",
+        "pokemon": "Weedle",
+        "rate": 11,
+        "timeOfDay": "Any",
+        "notes": "Poké Radar",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Salac Berry",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Poison Sting",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is stabbed with a poisonous barb of some sort. It may also poison the target.",
+          "level": 1
+        },
+        {
+          "name": "String Shot",
+          "type": "Bug",
+          "category": "Status",
+          "power": null,
+          "accuracy": 95,
+          "pp": 40,
+          "description": "The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 15
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Poison Sting",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is stabbed with a poisonous barb of some sort. It may also poison the target.",
+          "level": 1
+        },
+        {
+          "name": "String Shot",
+          "type": "Bug",
+          "category": "Status",
+          "power": null,
+          "accuracy": 95,
+          "pp": 40,
+          "description": "The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 15
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    }
+  }
+}

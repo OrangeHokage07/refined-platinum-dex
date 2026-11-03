@@ -1,0 +1,1134 @@
+{
+  "id": 30,
+  "sinnohId": null,
+  "name": "Nidorina",
+  "genus": "Poison Pin Pokémon",
+  "flavorText": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.",
+  "types": [
+    "Poison"
+  ],
+  "height": {
+    "meters": 0.79,
+    "inches": 31
+  },
+  "weight": {
+    "kg": 20,
+    "lbs": 44.1
+  },
+  "abilities": [
+    "Poison Point",
+    "Rivalry"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 120,
+  "genderRatio": "female_only",
+  "eggGroups": [
+    "undiscovered",
+    "undiscovered"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 62,
+    "defense": 67,
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "speed": 56,
+    "bst": 365
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.5,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 0.5,
+    "Ground": 2,
+    "Flying": 1,
+    "Psychic": 2,
+    "Bug": 0.5,
+    "Rock": 1,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "use_item",
+      "item": "MOON STONE",
+      "target": "Nidoqueen"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Valor Lakefront",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Valor Lakefront",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 27,
+        "maxLevel": 27,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Growl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 40,
+          "description": "The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.",
+          "level": 1
+        },
+        {
+          "name": "Scratch",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "Hard, pointed, and sharp claws rake the foe to inflict damage.",
+          "level": 1
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user wags its tail cutely, making the foe less wary. The target’s Defense stat is lowered.",
+          "level": 7
+        },
+        {
+          "name": "Double Kick",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is quickly kicked twice in succession using both feet.",
+          "level": 9
+        },
+        {
+          "name": "Poison Sting",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is stabbed with a poisonous barb of some sort. It may also poison the target.",
+          "level": 13
+        },
+        {
+          "name": "Fury Swipes",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 18,
+          "accuracy": 80,
+          "pp": 15,
+          "description": "The foe is raked with sharp claws or scythes for two to five times in quick succession.",
+          "level": 20
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is bitten with viciously sharp fangs. It may make the target flinch.",
+          "level": 23
+        },
+        {
+          "name": "Helping Hand",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "A move that boosts the power of the ally’s attack in a Double Battle.",
+          "level": 28
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user lays a trap of poison spikes at the foe’s feet. They poison foes that switch into battle.",
+          "level": 35
+        },
+        {
+          "name": "Flatter",
+          "type": "Dark",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "Flattery is used to confuse the foe. However, it also raises the target’s Sp. Atk stat.",
+          "level": 38
+        },
+        {
+          "name": "Dig",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+          "level": 40
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user crunches up the foe with sharp fangs. It may also lower the target’s Defense stat.",
+          "level": 43
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks by hurling filthy sludge at the foe. It may also poison the target.",
+          "level": 46
+        },
+        {
+          "name": "Captivate",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.",
+          "level": 50
+        },
+        {
+          "name": "Poison Fang",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user bites the foe with toxic fangs. It may also leave the foe badly poisoned.",
+          "level": 58
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM65",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM65"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM84",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM84"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM01"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Helping Hand",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "A move that boosts the power of the ally’s attack in a Double Battle."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Growl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 40,
+          "description": "The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.",
+          "level": 1
+        },
+        {
+          "name": "Scratch",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "Hard, pointed, and sharp claws rake the foe to inflict damage.",
+          "level": 1
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user wags its tail cutely, making the foe less wary. The target’s Defense stat is lowered.",
+          "level": 7
+        },
+        {
+          "name": "Double Kick",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is quickly kicked twice in succession using both feet.",
+          "level": 9
+        },
+        {
+          "name": "Poison Sting",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is stabbed with a poisonous barb of some sort. It may also poison the target.",
+          "level": 13
+        },
+        {
+          "name": "Fury Swipes",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 18,
+          "accuracy": 80,
+          "pp": 15,
+          "description": "The foe is raked with sharp claws or scythes for two to five times in quick succession.",
+          "level": 20
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is bitten with viciously sharp fangs. It may make the target flinch.",
+          "level": 23
+        },
+        {
+          "name": "Helping Hand",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "A move that boosts the power of the ally’s attack in a Double Battle.",
+          "level": 28
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user lays a trap of poison spikes at the foe’s feet. They poison foes that switch into battle.",
+          "level": 35
+        },
+        {
+          "name": "Flatter",
+          "type": "Dark",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "Flattery is used to confuse the foe. However, it also raises the target’s Sp. Atk stat.",
+          "level": 38
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user crunches up the foe with sharp fangs. It may also lower the target’s Defense stat.",
+          "level": 43
+        },
+        {
+          "name": "Captivate",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.",
+          "level": 50
+        },
+        {
+          "name": "Poison Fang",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user bites the foe with toxic fangs. It may also leave the foe badly poisoned.",
+          "level": 58
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM23",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM23"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM34",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM34"
+        },
+        {
+          "name": "TM36",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM36"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM65",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM65"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM84",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM84"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM01"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Helping Hand",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "A move that boosts the power of the ally’s attack in a Double Battle."
+        }
+      ]
+    }
+  }
+}

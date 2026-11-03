@@ -1,0 +1,2092 @@
+{
+  "id": 130,
+  "sinnohId": 24,
+  "name": "Gyarados",
+  "genus": "Atrocious Pokémon",
+  "flavorText": "Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": {
+    "meters": 6.5,
+    "inches": 256
+  },
+  "weight": {
+    "kg": 235,
+    "lbs": 518.1
+  },
+  "abilities": [
+    "Intimidate"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 45,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "water 2",
+    "dragon"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "specialAttack": 60,
+    "specialDefense": 100,
+    "speed": 81,
+    "bst": 540
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 0.5,
+    "Water": 0.5,
+    "Electric": 4,
+    "Grass": 1,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 1,
+    "Ground": 0,
+    "Flying": 1,
+    "Psychic": 1,
+    "Bug": 0.5,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 0.5,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Canalave City",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna City",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna City",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Pastoria City",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Pastoria City",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sunyshore City",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Pokémon League",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Fuego Ironworks",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 20,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Ravaged Path",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Ravaged Path",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Oreburgh Gate",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Oreburgh Gate",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 219",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 219",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 224",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 225",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 225",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 227",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 227",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Twinleaf Town",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Twinleaf Town",
+        "method": "super rod",
+        "rate": 15,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Celestic Town",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sea Route 220",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sea Route 223",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sea Route 226",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sea Route 230",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet B1F",
+        "method": "super_rod",
+        "pokemon": "Gyarados",
+        "rate": 55,
+        "timeOfDay": "Any",
+        "notes": "Fishing",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Haban Berry",
+      "chance": 50
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Thrash",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user rampages and attacks for two to three turns. It then becomes confused, however.",
+          "level": 1
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is bitten with viciously sharp fangs. It may make the target flinch.",
+          "level": 20
+        },
+        {
+          "name": "Dragon Rage",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is stricken by a shock wave. This attack always inflicts 40 HP damage.",
+          "level": 23
+        },
+        {
+          "name": "Leer",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is given an intimidating leer with sharp eyes. The target’s Defense stat is reduced.",
+          "level": 26
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch.",
+          "level": 29
+        },
+        {
+          "name": "Ice Fang",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user bites with cold-infused fangs. It may also make the foe flinch or freeze.",
+          "level": 32
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm.",
+          "level": 35
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user summons a heavy rain that falls for five turns, powering up Water- type moves.",
+          "level": 38
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "category": "Special",
+          "power": 120,
+          "accuracy": 80,
+          "pp": 5,
+          "description": "The foe is blasted by a huge volume of water launched under great pressure.",
+          "level": 41
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.",
+          "level": 44
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal",
+          "category": "Special",
+          "power": 150,
+          "accuracy": 90,
+          "pp": 5,
+          "description": "The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+          "level": 47
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM05"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM12",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM12"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM35",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM35"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM38",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM38"
+        },
+        {
+          "name": "TM41",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM41"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM55",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM55"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM59",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM59"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM71",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM71"
+        },
+        {
+          "name": "TM72",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM72"
+        },
+        {
+          "name": "TM73",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM73"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM79",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM79"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe slams the target with its steel-hard head. It may also make the target flinch."
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Spite",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user looses its grudge on the move last used by the foe by cutting 4 PP from it."
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user rampages and attacks for two to three turns. However, it then becomes confused."
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Thrash",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user rampages and attacks for two to three turns. It then becomes confused, however.",
+          "level": 1
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is bitten with viciously sharp fangs. It may make the target flinch.",
+          "level": 20
+        },
+        {
+          "name": "Dragon Rage",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The foe is stricken by a shock wave. This attack always inflicts 40 HP damage.",
+          "level": 23
+        },
+        {
+          "name": "Leer",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The foe is given an intimidating leer with sharp eyes. The target’s Defense stat is reduced.",
+          "level": 26
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch.",
+          "level": 29
+        },
+        {
+          "name": "Ice Fang",
+          "type": "Ice",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user bites with cold-infused fangs. It may also make the foe flinch or freeze.",
+          "level": 32
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm.",
+          "level": 35
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "The user summons a heavy rain that falls for five turns, powering up Water- type moves.",
+          "level": 38
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "category": "Special",
+          "power": 120,
+          "accuracy": 80,
+          "pp": 5,
+          "description": "The foe is blasted by a huge volume of water launched under great pressure.",
+          "level": 41
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.",
+          "level": 44
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal",
+          "category": "Special",
+          "power": 150,
+          "accuracy": 90,
+          "pp": 5,
+          "description": "The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+          "level": 47
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM05"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM12",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM12"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM24",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM24"
+        },
+        {
+          "name": "TM25",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM25"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM35",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM35"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM38",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM38"
+        },
+        {
+          "name": "TM41",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM41"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM55",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM55"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM59",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM59"
+        },
+        {
+          "name": "TM66",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM66"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM71",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM71"
+        },
+        {
+          "name": "TM72",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM72"
+        },
+        {
+          "name": "TM73",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM73"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM79",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM79"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe slams the target with its steel-hard head. It may also make the target flinch."
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Spite",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user looses its grudge on the move last used by the foe by cutting 4 PP from it."
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user rampages and attacks for two to three turns. However, it then becomes confused."
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user whips up a vicious twister to tear at the foe. It may also make the foe flinch."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep."
+        }
+      ]
+    }
+  }
+}

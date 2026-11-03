@@ -1,0 +1,1610 @@
+{
+  "id": 193,
+  "sinnohId": 183,
+  "name": "Yanma",
+  "genus": "Clear Wing Pokémon",
+  "flavorText": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": {
+    "meters": 1.19,
+    "inches": 47
+  },
+  "weight": {
+    "kg": 38,
+    "lbs": 83.8
+  },
+  "abilities": [
+    "Speed Boost",
+    "Compound Eyes"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 75,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 45,
+    "specialAttack": 75,
+    "specialDefense": 45,
+    "speed": 95,
+    "bst": 390
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 2,
+    "Grass": 0.25,
+    "Ice": 2,
+    "Fighting": 0.25,
+    "Poison": 1,
+    "Ground": 0,
+    "Flying": 2,
+    "Psychic": 1,
+    "Bug": 0.5,
+    "Rock": 4,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level_know_move",
+      "item": "MOVE ANCIENT POWER",
+      "target": "Yanmega"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 26,
+        "maxLevel": 26,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 26,
+        "maxLevel": 26,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 27,
+        "maxLevel": 27,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 26,
+        "maxLevel": 26,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 26,
+        "maxLevel": 26,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 27,
+        "maxLevel": 27,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 29,
+        "maxLevel": 29,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 27,
+        "maxLevel": 27,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 27,
+        "maxLevel": 27,
+        "source": "vanilla"
+      },
+      {
+        "location": "Great Marsh",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Valor Lakefront",
+        "method": "walk",
+        "pokemon": "Yanma",
+        "rate": 5,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 213",
+        "method": "walk",
+        "pokemon": "Yanma",
+        "rate": 10,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Wide Lens",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Foresight",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.",
+          "level": 1
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.",
+          "level": 6
+        },
+        {
+          "name": "Double Team",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.",
+          "level": 11
+        },
+        {
+          "name": "SONIC BOOM",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 14
+        },
+        {
+          "name": "Detect",
+          "type": "Fighting",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+          "level": 17
+        },
+        {
+          "name": "Wing Attack",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is struck with large, imposing wings spread wide to inflict damage.",
+          "level": 20
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 22
+        },
+        {
+          "name": "Silver Wind",
+          "type": "Bug",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The foe is attacked with powdery scales blown by wind. It may also raise all the user’s stats.",
+          "level": 25
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.",
+          "level": 27
+        },
+        {
+          "name": "Pursuit",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "An attack move that inflicts double damage if used on a foe that is switching out of battle.",
+          "level": 30
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 33
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": 60,
+          "pp": 20,
+          "description": "The user employs hypnotic suggestion to make the target fall into a deep sleep.",
+          "level": 38
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.",
+          "level": 42
+        },
+        {
+          "name": "Screech",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 40,
+          "description": "An earsplitting screech is emitted to sharply reduce the foe’s Defense stat.",
+          "level": 46
+        },
+        {
+          "name": "U TURN",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 49
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 95,
+          "pp": 20,
+          "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch.",
+          "level": 54
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.",
+          "level": 57
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM47",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM47"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM62",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM62"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM85",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM85"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM89",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM89"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Foresight",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.",
+          "level": 1
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.",
+          "level": 6
+        },
+        {
+          "name": "Double Team",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.",
+          "level": 11
+        },
+        {
+          "name": "SONIC BOOM",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 14
+        },
+        {
+          "name": "Detect",
+          "type": "Fighting",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+          "level": 17
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 22
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep.",
+          "level": 27
+        },
+        {
+          "name": "Pursuit",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "An attack move that inflicts double damage if used on a foe that is switching out of battle.",
+          "level": 30
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 33
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": 60,
+          "pp": 20,
+          "description": "The user employs hypnotic suggestion to make the target fall into a deep sleep.",
+          "level": 38
+        },
+        {
+          "name": "Wing Attack",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is struck with large, imposing wings spread wide to inflict damage.",
+          "level": 43
+        },
+        {
+          "name": "Screech",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 85,
+          "pp": 40,
+          "description": "An earsplitting screech is emitted to sharply reduce the foe’s Defense stat.",
+          "level": 46
+        },
+        {
+          "name": "U TURN",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 49
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 95,
+          "pp": 20,
+          "description": "The user attacks with a blade of air that slices even the sky. It may also make the target flinch.",
+          "level": 54
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.",
+          "level": 57
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM19",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM19"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM22",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM22"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM29",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM29"
+        },
+        {
+          "name": "TM30",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM30"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM40",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM40"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM46",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM46"
+        },
+        {
+          "name": "TM47",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM47"
+        },
+        {
+          "name": "TM51",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM51"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM62",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM62"
+        },
+        {
+          "name": "TM70",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM70"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM85",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM85"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM89",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM89"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM05",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM05"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Signal Beam",
+          "type": "Bug",
+          "category": "Special",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user attacks with a sinister beam of light. It may also confuse the target."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep."
+        }
+      ]
+    }
+  }
+}

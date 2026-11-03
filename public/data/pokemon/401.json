@@ -1,0 +1,360 @@
+{
+  "id": 401,
+  "sinnohId": 15,
+  "name": "Kricketot",
+  "genus": "Cricket Pokémon",
+  "flavorText": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+  "types": [
+    "Bug"
+  ],
+  "height": {
+    "meters": 0.3,
+    "inches": 12
+  },
+  "weight": {
+    "kg": 2.2,
+    "lbs": 4.9
+  },
+  "abilities": [
+    "Shed Skin"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 255,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 37,
+    "attack": 25,
+    "defense": 41,
+    "specialAttack": 25,
+    "specialDefense": 41,
+    "speed": 25,
+    "bst": 194
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.5,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 1,
+    "Ground": 0.5,
+    "Flying": 2,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 10,
+      "target": "Kricketune"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Eterna Forest",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 10,
+        "maxLevel": 10,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 12,
+        "maxLevel": 12,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 201",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 3,
+        "maxLevel": 3,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 201",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 3,
+        "maxLevel": 3,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 202",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 4,
+        "maxLevel": 4,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 202",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 3,
+        "maxLevel": 3,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 5,
+        "maxLevel": 5,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 4,
+        "maxLevel": 4,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 4,
+        "maxLevel": 4,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 3,
+        "maxLevel": 3,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 9,
+        "maxLevel": 9,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 8,
+        "maxLevel": 8,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 13,
+        "maxLevel": 13,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 12,
+        "maxLevel": 12,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 207",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 6,
+        "maxLevel": 6,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 207",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 5,
+        "maxLevel": 5,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "walk",
+        "pokemon": "Kricketot",
+        "rate": 10,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4 Morning & Night",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Custap Berry",
+      "chance": 5,
+      "notes": "(no Metronome)"
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Growl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 40,
+          "description": "The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.",
+          "level": 1
+        },
+        {
+          "name": "Bide",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+          "level": 1
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 16
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Endeavor",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "An attack move that cuts down the foe’s HP to equal the user’s HP."
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Growl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 40,
+          "description": "The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.",
+          "level": 1
+        },
+        {
+          "name": "Bide",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+          "level": 1
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 16
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Endeavor",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "An attack move that cuts down the foe’s HP to equal the user’s HP."
+        },
+        {
+          "name": "Uproar",
+          "type": "Normal",
+          "category": "Special",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user attacks in an uproar for two to five turns. Over that time, no one can fall asleep."
+        }
+      ]
+    }
+  }
+}

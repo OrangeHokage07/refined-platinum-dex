@@ -1,0 +1,267 @@
+{
+  "id": 202,
+  "sinnohId": null,
+  "name": "Wobbuffet",
+  "genus": "Patient Pokémon",
+  "flavorText": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+  "types": [
+    "Psychic"
+  ],
+  "height": {
+    "meters": 1.3,
+    "inches": 51
+  },
+  "weight": {
+    "kg": 28.5,
+    "lbs": 62.8
+  },
+  "abilities": [
+    "Shadow Tag"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 45,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "amorphous",
+    "amorphous"
+  ],
+  "baseStats": {
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "specialAttack": 33,
+    "specialDefense": 58,
+    "speed": 33,
+    "bst": 405
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 1,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 1,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 0.5,
+    "Bug": 2,
+    "Rock": 1,
+    "Ghost": 2,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 2
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Lake Verity",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 3,
+        "maxLevel": 3,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 3,
+        "maxLevel": 3,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 4,
+        "maxLevel": 4,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 4,
+        "maxLevel": 4,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 3,
+        "maxLevel": 3,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 3,
+        "maxLevel": 3,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 4,
+        "maxLevel": 4,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 4,
+        "maxLevel": 4,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 40,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 41,
+        "maxLevel": 41,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "radar",
+        "pokemon": "Wobbuffet",
+        "rate": 22,
+        "timeOfDay": "Any",
+        "notes": "Poké Radar",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Enigma Berry",
+      "chance": 50
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Counter",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+          "level": 1
+        },
+        {
+          "name": "Mirror Coat",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A retaliation move that counters any special attack, inflicting double the damage taken.",
+          "level": 1
+        },
+        {
+          "name": "Safeguard",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 25,
+          "description": "The user creates a protective field that prevents status problems for five turns.",
+          "level": 1
+        },
+        {
+          "name": "Destiny Bond",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "When this move is used, if the user faints, the foe that landed the knockout hit also faints.",
+          "level": 1
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Counter",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+          "level": 1
+        },
+        {
+          "name": "Mirror Coat",
+          "type": "Psychic",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A retaliation move that counters any special attack, inflicting double the damage taken.",
+          "level": 1
+        },
+        {
+          "name": "Safeguard",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 25,
+          "description": "The user creates a protective field that prevents status problems for five turns.",
+          "level": 1
+        },
+        {
+          "name": "Destiny Bond",
+          "type": "Ghost",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "description": "When this move is used, if the user faints, the foe that landed the knockout hit also faints.",
+          "level": 1
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "id": 235,
+  "sinnohId": null,
+  "name": "Smeargle",
+  "genus": "Painter Pokémon",
+  "flavorText": "It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.",
+  "types": [
+    "Normal"
+  ],
+  "height": {
+    "meters": 1.19,
+    "inches": 47
+  },
+  "weight": {
+    "kg": 58,
+    "lbs": 127.9
+  },
+  "abilities": [
+    "Own Tempo",
+    "Technician"
+  ],
+  "trainerAbilityNote": "Technician",
+  "catchRate": 45,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "field",
+    "field"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 20,
+    "defense": 35,
+    "specialAttack": 20,
+    "specialDefense": 45,
+    "speed": 75,
+    "bst": 250
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 1,
+    "Ice": 1,
+    "Fighting": 2,
+    "Poison": 1,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 1,
+    "Ghost": 0,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 208",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 19,
+        "maxLevel": 19,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 18,
+        "maxLevel": 18,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 20,
+        "maxLevel": 20,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 20,
+        "maxLevel": 20,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 22,
+        "maxLevel": 22,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 21,
+        "maxLevel": 21,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 24,
+        "maxLevel": 24,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 23,
+        "maxLevel": 23,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "walk",
+        "pokemon": "Smeargle",
+        "rate": 20,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Starf Berry",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 1
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 11
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 21
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 31
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 41
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 51
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 61
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 71
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 81
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 91
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 1
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 11
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 21
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 31
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 41
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 51
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 61
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 71
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 81
+        },
+        {
+          "name": "Sketch",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "description": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+          "level": 91
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    }
+  }
+}

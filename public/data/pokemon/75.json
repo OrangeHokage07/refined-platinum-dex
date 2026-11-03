@@ -1,0 +1,2358 @@
+{
+  "id": 75,
+  "sinnohId": 32,
+  "name": "Graveler",
+  "genus": "Rock Pokémon",
+  "flavorText": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "height": {
+    "meters": 0.99,
+    "inches": 39
+  },
+  "weight": {
+    "kg": 105,
+    "lbs": 231.5
+  },
+  "abilities": [
+    "Rock Head",
+    "Sturdy"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 120,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "mineral",
+    "mineral"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "specialAttack": 45,
+    "specialDefense": 45,
+    "speed": 35,
+    "bst": 390
+  },
+  "typeMatchups": {
+    "Normal": 0.5,
+    "Fire": 0.5,
+    "Water": 4,
+    "Electric": 0,
+    "Grass": 4,
+    "Ice": 2,
+    "Fighting": 2,
+    "Poison": 0.25,
+    "Ground": 2,
+    "Flying": 0.5,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 0.5,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 2,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "target": "Golem",
+      "method": "level_up_move",
+      "move": "Earthquake",
+      "level": 36,
+      "notes": "Level up knowing Earthquake (Level 36)"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 37,
+        "maxLevel": 37,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 36,
+        "maxLevel": 36,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 34,
+        "maxLevel": 34,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 34,
+        "maxLevel": 34,
+        "source": "vanilla"
+      },
+      {
+        "location": "Mt. Coronet",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 40,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 42,
+        "maxLevel": 42,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 42,
+        "maxLevel": 42,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 41,
+        "maxLevel": 41,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 41,
+        "maxLevel": 41,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 43,
+        "maxLevel": 43,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 41,
+        "maxLevel": 41,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 41,
+        "maxLevel": 41,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 43,
+        "maxLevel": 43,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 47,
+        "maxLevel": 47,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 47,
+        "maxLevel": 47,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 47,
+        "maxLevel": 47,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 47,
+        "maxLevel": 47,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Victory Road",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Stark Mountain",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 51,
+        "maxLevel": 51,
+        "source": "vanilla"
+      },
+      {
+        "location": "Stark Mountain",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 53,
+        "maxLevel": 53,
+        "source": "vanilla"
+      },
+      {
+        "location": "Stark Mountain",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 51,
+        "maxLevel": 51,
+        "source": "vanilla"
+      },
+      {
+        "location": "Stark Mountain",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 53,
+        "maxLevel": 53,
+        "source": "vanilla"
+      },
+      {
+        "location": "Stark Mountain",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 52,
+        "maxLevel": 52,
+        "source": "vanilla"
+      },
+      {
+        "location": "Stark Mountain",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 54,
+        "maxLevel": 54,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 38,
+        "maxLevel": 38,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 39,
+        "maxLevel": 39,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 39,
+        "maxLevel": 39,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 37,
+        "maxLevel": 37,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 33,
+        "maxLevel": 33,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 33,
+        "maxLevel": 33,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 33,
+        "maxLevel": 33,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 30,
+        "maxLevel": 30,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 33,
+        "maxLevel": 33,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 33,
+        "maxLevel": 33,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 34,
+        "maxLevel": 34,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 33,
+        "maxLevel": 33,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 33,
+        "maxLevel": 33,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 34,
+        "maxLevel": 34,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 33,
+        "maxLevel": 33,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 33,
+        "maxLevel": 33,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 34,
+        "maxLevel": 34,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 31,
+        "maxLevel": 31,
+        "source": "vanilla"
+      },
+      {
+        "location": "Iron Island",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 32,
+        "maxLevel": 32,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 211",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 28,
+        "maxLevel": 28,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 23,
+        "maxLevel": 23,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 22,
+        "maxLevel": 22,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 22,
+        "maxLevel": 22,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 24,
+        "maxLevel": 24,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 216",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 35,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 216",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 35,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 216",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 35,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 216",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 35,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 216",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 35,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 216",
+        "method": "walk",
+        "rate": 1,
+        "minLevel": 35,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 225",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 227",
+        "method": "walk",
+        "rate": 10,
+        "minLevel": 51,
+        "maxLevel": 51,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 227",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 53,
+        "maxLevel": 53,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sea Route 226",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 49,
+        "maxLevel": 49,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "walk",
+        "pokemon": "Graveler",
+        "rate": 20,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 225",
+        "method": "walk",
+        "pokemon": "Graveler",
+        "rate": 20,
+        "timeOfDay": "Any",
+        "notes": "Postgame",
+        "source": "refined"
+      },
+      {
+        "location": "Route 227",
+        "method": "walk",
+        "pokemon": "Graveler",
+        "rate": 10,
+        "timeOfDay": "Day",
+        "notes": "Postgame Morning & Day",
+        "source": "refined"
+      },
+      {
+        "location": "Route 227",
+        "method": "walk",
+        "pokemon": "Graveler",
+        "rate": 10,
+        "timeOfDay": "Night",
+        "notes": "Postgame",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Everstone",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Defense Curl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "The user curls up to conceal weak spots and raise its Defense stat.",
+          "level": 1
+        },
+        {
+          "name": "Mud Sport",
+          "type": "Ground",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user covers itself with mud. It weakens Electric- type moves while the user is in the battle.",
+          "level": 4
+        },
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user polishes its body to reduce drag. It can sharply raise the Speed stat.",
+          "level": 8
+        },
+        {
+          "name": "Rock Throw",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user picks up and throws a small rock at the foe to attack.",
+          "level": 11
+        },
+        {
+          "name": "Magnitude",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+          "level": 15
+        },
+        {
+          "name": "Selfdestruct",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 200,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 18
+        },
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits.",
+          "level": 22
+        },
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 25,
+          "accuracy": 80,
+          "pp": 10,
+          "description": "The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.",
+          "level": 27
+        },
+        {
+          "name": "Gyro Ball",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.",
+          "level": 34
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 250,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 35
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+          "level": 36
+        },
+        {
+          "name": "DOUBLE EDGE",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 44
+        },
+        {
+          "name": "Curse",
+          "type": "Mystery",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "A move that works differently for the Ghost type than for all the other types.",
+          "level": 46
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 80,
+          "pp": 5,
+          "description": "The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.",
+          "level": 49
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM35",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM35"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM38",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM38"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM64",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM64"
+        },
+        {
+          "name": "TM69",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM69"
+        },
+        {
+          "name": "TM71",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM71"
+        },
+        {
+          "name": "TM74",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM74"
+        },
+        {
+          "name": "TM76",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM76"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM08",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM08"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits."
+        },
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn."
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "Defense Curl",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 40,
+          "description": "The user curls up to conceal weak spots and raise its Defense stat.",
+          "level": 1
+        },
+        {
+          "name": "Mud Sport",
+          "type": "Ground",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user covers itself with mud. It weakens Electric- type moves while the user is in the battle.",
+          "level": 1
+        },
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user polishes its body to reduce drag. It can sharply raise the Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Mud Sport",
+          "type": "Ground",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user covers itself with mud. It weakens Electric- type moves while the user is in the battle.",
+          "level": 4
+        },
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user polishes its body to reduce drag. It can sharply raise the Speed stat.",
+          "level": 8
+        },
+        {
+          "name": "Rock Throw",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 50,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user picks up and throws a small rock at the foe to attack.",
+          "level": 11
+        },
+        {
+          "name": "Magnitude",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+          "level": 15
+        },
+        {
+          "name": "Selfdestruct",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 200,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 18
+        },
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits.",
+          "level": 22
+        },
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 25,
+          "accuracy": 80,
+          "pp": 10,
+          "description": "The user hurls hard rocks at the foe. Two to five rocks are launched in quick succession.",
+          "level": 27
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+          "level": 33
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 250,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+          "level": 38
+        },
+        {
+          "name": "DOUBLE EDGE",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "level": 44
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 100,
+          "accuracy": 80,
+          "pp": 5,
+          "description": "The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.",
+          "level": 49
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM01",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM01"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM11",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM11"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM26",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM26"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM28",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM28"
+        },
+        {
+          "name": "TM31",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM31"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM35",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM35"
+        },
+        {
+          "name": "TM37",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM37"
+        },
+        {
+          "name": "TM38",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM38"
+        },
+        {
+          "name": "TM39",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM39"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM56",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM56"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM64",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM64"
+        },
+        {
+          "name": "TM69",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM69"
+        },
+        {
+          "name": "TM71",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM71"
+        },
+        {
+          "name": "TM74",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM74"
+        },
+        {
+          "name": "TM76",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM76"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM80",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM80"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM04",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM04"
+        },
+        {
+          "name": "HM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM06"
+        },
+        {
+          "name": "HM08",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM08"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Rollout",
+          "type": "Rock",
+          "category": "Physical",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20,
+          "description": "The user continually rolls into the foe over five turns. It becomes stronger each time it hits."
+        },
+        {
+          "name": "THUNDER PUNCH",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "category": "Physical",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe is punched with a fiery fist. It may leave the target with a burn."
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user attacks the foe with great power. However, it also lowers the user’s Attack and Defense."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "ANCIENT POWER",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "category": "Special",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "This move enables the user to attack first. It fails if the foe is not readying an attack, however."
+        }
+      ]
+    }
+  }
+}

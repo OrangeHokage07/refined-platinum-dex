@@ -1,0 +1,565 @@
+[
+  {
+    "pokemon": "Uxie",
+    "level": 50,
+    "location": "Lake Acuity Cavern",
+    "requirement": "Vanilla encounter (Defeat/Capture in Cavern)",
+    "stage": "pre_e4",
+    "heldItem": "Enigma Berry",
+    "moves": [
+      "Psychic",
+      "Yawn",
+      "Shock Wave",
+      "Hidden Power"
+    ],
+    "rematch": {
+      "location": "Acuity Cavern",
+      "npc": "Old Woman",
+      "requirement": "Capture Emotion Trio"
+    }
+  },
+  {
+    "pokemon": "Mesprit",
+    "level": 50,
+    "location": "Roaming Sinnoh (starts Lake Verity)",
+    "requirement": "Vanilla encounter (Interact in Verity Cavern then roam)",
+    "stage": "pre_e4",
+    "heldItem": "Odd Incense",
+    "moves": [
+      "Extrasensory",
+      "Water Pulse",
+      "Copycat",
+      "Protect"
+    ],
+    "rematch": {
+      "location": "Verity Cavern",
+      "npc": "Reporter",
+      "requirement": "Capture Emotion Trio"
+    }
+  },
+  {
+    "pokemon": "Azelf",
+    "level": 50,
+    "location": "Lake Valor Cavern",
+    "requirement": "Vanilla encounter (Defeat/Capture in Cavern)",
+    "stage": "pre_e4",
+    "heldItem": "Scope Lens",
+    "moves": [
+      "Nasty Plot",
+      "Extrasensory",
+      "Shadow Ball",
+      "Energy Ball"
+    ],
+    "rematch": {
+      "location": "Valor Cavern",
+      "npc": "Cowgirl",
+      "requirement": "Capture Emotion Trio"
+    }
+  },
+  {
+    "pokemon": "Giratina",
+    "level": 47,
+    "location": "Distortion World / Turnback Cave",
+    "requirement": "Vanilla encounter (Distortion World story, or Turnback Cave lvl 70 if knocked out)",
+    "stage": "pre_e4",
+    "heldItem": "Spell Tag",
+    "moves": [
+      "Ancient Power",
+      "Dragon Pulse",
+      "Shadow Force",
+      "Shadow Sneak"
+    ],
+    "rematch": {
+      "location": "Sendoff Spring",
+      "npc": "Hiker",
+      "requirement": "Complete Turnback Cave and have Griseous Orb"
+    }
+  },
+  {
+    "pokemon": "Dialga",
+    "level": 70,
+    "location": "Spear Pillar",
+    "requirement": "Visit Spear Pillar with Adamant Orb post-game",
+    "stage": "post_dex",
+    "heldItem": "Adamant Orb",
+    "moves": [
+      "Roar of Time",
+      "Mud-Slap",
+      "Earth Power",
+      "Flash Cannon"
+    ],
+    "rematch": {
+      "location": "Eterna Forest Exterior",
+      "npc": "Psychic",
+      "requirement": "Capture Creation Trio"
+    }
+  },
+  {
+    "pokemon": "Palkia",
+    "level": 70,
+    "location": "Spear Pillar",
+    "requirement": "Visit Spear Pillar with Lustrous Orb post-game",
+    "stage": "post_dex",
+    "heldItem": "Lustrous Orb",
+    "moves": [
+      "Spacial Rend",
+      "Mud-Slap",
+      "Earth Power",
+      "Surf"
+    ],
+    "rematch": {
+      "location": "Route 210 North",
+      "npc": "Parasol Lady",
+      "requirement": "Capture Creation Trio"
+    }
+  },
+  {
+    "pokemon": "Heatran",
+    "level": 75,
+    "location": "Stark Mountain Interior 2",
+    "requirement": "Complete Stark Mountain story, speak to Buck in Battleground",
+    "stage": "post_stark",
+    "heldItem": "Sitrus Berry",
+    "moves": [
+      "Lava Plume",
+      "Metal Sound",
+      "Flash Cannon",
+      "Magma Storm"
+    ],
+    "rematch": {
+      "location": "Stark Mountain Exterior",
+      "npc": "Roughneck",
+      "requirement": "Capture Heatran & Shaymin"
+    }
+  },
+  {
+    "pokemon": "Cresselia",
+    "level": 70,
+    "location": "Roaming Sinnoh (starts Fullmoon Island)",
+    "requirement": "Talk to sailor in Canalave, visit Fullmoon Island",
+    "stage": "post_dex",
+    "heldItem": "Petaya Berry",
+    "moves": [
+      "Shadow Ball",
+      "Energy Ball",
+      "Psychic",
+      "Attract"
+    ],
+    "rematch": {
+      "location": "Fullmoon Island",
+      "npc": "Singer",
+      "requirement": "Capture Lunar Duo"
+    }
+  },
+  {
+    "pokemon": "Darkrai",
+    "level": 70,
+    "location": "Newmoon Island / Harbor Inn Canalave",
+    "npc": "Man in Route 225 house gives Member Card",
+    "requirement": "Post-Dex, obtain Member Card from Route 225, meet Cresselia & get Lunar Wing, sleep at Harbor Inn",
+    "stage": "post_dex",
+    "heldItem": "Wide Lens",
+    "moves": [
+      "Dark Void",
+      "Dark Pulse",
+      "Psychic",
+      "Nasty Plot"
+    ],
+    "rematch": {
+      "location": "Newmoon Island",
+      "npc": "Glasses Man",
+      "requirement": "Capture Lunar Duo"
+    }
+  },
+  {
+    "pokemon": "Shaymin",
+    "level": 75,
+    "location": "Flower Paradise / Route 224",
+    "npc": "Prof. Oak on Route 230",
+    "requirement": "Post-Stark, receive Oak’s Letter from Prof. Oak on Route 230, meet him on Route 224",
+    "stage": "post_stark",
+    "heldItem": "Lum Berry",
+    "moves": [
+      "Seed Flare",
+      "Air Slash",
+      "Earth Power",
+      "Leech Seed"
+    ],
+    "rematch": {
+      "location": "Flower Paradise",
+      "npc": "Schoolkid",
+      "requirement": "Capture Heatran & Shaymin"
+    }
+  },
+  {
+    "pokemon": "Articuno",
+    "level": 65,
+    "location": "Roaming Sinnoh (talk to Prof. Oak in Eterna City)",
+    "npc": "Prof. Oak in Eterna City",
+    "requirement": "Post-Dex: obtain National Dex, speak to Oak in Eterna",
+    "stage": "post_dex",
+    "heldItem": "Never-Melt Ice",
+    "moves": [
+      "Blizzard",
+      "Signal Beam",
+      "Hidden Power",
+      "Swagger"
+    ],
+    "rematch": {
+      "location": "Route 216",
+      "npc": "Earmuff Lady",
+      "requirement": "Capture all 3 Roaming Birds"
+    }
+  },
+  {
+    "pokemon": "Zapdos",
+    "level": 65,
+    "location": "Roaming Sinnoh (talk to Prof. Oak in Eterna City)",
+    "npc": "Prof. Oak in Eterna City",
+    "requirement": "Post-Dex: obtain National Dex, speak to Oak in Eterna",
+    "stage": "post_dex",
+    "heldItem": "Magnet",
+    "moves": [
+      "Discharge",
+      "Heat Wave",
+      "Hidden Power",
+      "Thunder Wave"
+    ],
+    "rematch": {
+      "location": "Route 222",
+      "npc": "Beauty",
+      "requirement": "Capture all 3 Roaming Birds"
+    }
+  },
+  {
+    "pokemon": "Moltres",
+    "level": 65,
+    "location": "Roaming Sinnoh (talk to Prof. Oak in Eterna City)",
+    "npc": "Prof. Oak in Eterna City",
+    "requirement": "Post-Dex: obtain National Dex, speak to Oak in Eterna",
+    "stage": "post_dex",
+    "heldItem": "Charcoal",
+    "moves": [
+      "Heat Wave",
+      "Air Slash",
+      "Hidden Power",
+      "Will-O-Wisp"
+    ],
+    "rematch": {
+      "location": "Fuego Ironworks",
+      "npc": "Apron Woman",
+      "requirement": "Capture all 3 Roaming Birds"
+    }
+  },
+  {
+    "pokemon": "Regirock",
+    "level": 65,
+    "location": "Route 228 (Rock Peak Ruins)",
+    "requirement": "Complete Trial of Rubble in Route 228 ruins",
+    "stage": "post_dex",
+    "heldItem": "Hard Stone",
+    "moves": [
+      "Rock Slide",
+      "Hammer Arm",
+      "Curse",
+      "Earthquake"
+    ]
+  },
+  {
+    "pokemon": "Regice",
+    "level": 65,
+    "location": "Mt. Coronet R216 exit (Iceberg Ruins)",
+    "requirement": "Complete Trial of Rime in Mt. Coronet exit",
+    "stage": "post_dex",
+    "heldItem": "Never-Melt Ice",
+    "moves": [
+      "Blizzard",
+      "Hail",
+      "Toxic",
+      "Signal Beam"
+    ]
+  },
+  {
+    "pokemon": "Registeel",
+    "level": 65,
+    "location": "Iron Island (Iron Ruins)",
+    "requirement": "Complete Trial of Rust in Iron Island ruins",
+    "stage": "post_dex",
+    "heldItem": "Metal Coat",
+    "moves": [
+      "Amnesia",
+      "Iron Defense",
+      "Toxic",
+      "Flash Cannon"
+    ]
+  },
+  {
+    "pokemon": "Regigigas",
+    "level": 75,
+    "location": "Snowpoint Temple B5F",
+    "requirement": "Capture Regirock, Regice, and Registeel and bring them to awaken it",
+    "stage": "post_dex",
+    "heldItem": "Muscle Band",
+    "moves": [
+      "Zen Headbutt",
+      "Fire Punch",
+      "Thunder Wave",
+      "Crush Grip"
+    ]
+  },
+  {
+    "pokemon": "Raikou",
+    "level": 65,
+    "location": "Lake Valor",
+    "npc": "Old Man in Lake Valor",
+    "requirement": "Post-Dex: visit Fight Area via Snowpoint ferry",
+    "stage": "post_dex",
+    "heldItem": "Petaya Berry",
+    "moves": [
+      "Thunderbolt",
+      "Shadow Ball",
+      "Extrasensory",
+      "Signal Beam"
+    ]
+  },
+  {
+    "pokemon": "Entei",
+    "level": 65,
+    "location": "Lake Verity",
+    "npc": "Old Man in Lake Verity",
+    "requirement": "Post-Dex: visit Fight Area via Snowpoint ferry",
+    "stage": "post_dex",
+    "heldItem": "Liechi Berry",
+    "moves": [
+      "Iron Head",
+      "Fire Fang",
+      "Stone Edge",
+      "Secret Power"
+    ]
+  },
+  {
+    "pokemon": "Suicune",
+    "level": 65,
+    "location": "Lake Acuity",
+    "npc": "Old Man in Lake Acuity",
+    "requirement": "Post-Dex: visit Fight Area via Snowpoint ferry",
+    "stage": "post_dex",
+    "heldItem": "Sitrus Berry",
+    "moves": [
+      "Extrasensory",
+      "Surf",
+      "Calm Mind",
+      "Ice Beam"
+    ]
+  },
+  {
+    "pokemon": "Latias",
+    "level": 65,
+    "location": "Route 224",
+    "npc": "Female Biker on Route 224",
+    "requirement": "Post-Dex: visit Fight Area via Snowpoint ferry",
+    "stage": "post_dex",
+    "heldItem": "Quick Claw",
+    "moves": [
+      "Mist Ball",
+      "Dragon Pulse",
+      "Energy Ball",
+      "Reflect"
+    ]
+  },
+  {
+    "pokemon": "Latios",
+    "level": 65,
+    "location": "Route 217",
+    "npc": "Runner on Route 217 (outside, clears hail before battle)",
+    "requirement": "Post-Dex: visit Fight Area via Snowpoint ferry",
+    "stage": "post_dex",
+    "heldItem": "Quick Claw",
+    "moves": [
+      "Luster Purge",
+      "Dragon Pulse",
+      "Ice Beam",
+      "Light Screen"
+    ]
+  },
+  {
+    "pokemon": "Jirachi",
+    "level": 65,
+    "location": "Resort Area",
+    "npc": "Picnicker in Resort Area",
+    "requirement": "Post-Dex: visit Fight Area via Snowpoint ferry",
+    "stage": "post_dex",
+    "heldItem": "Starf Berry",
+    "moves": [
+      "Cosmic Power",
+      "Stealth Rock",
+      "Iron Head",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemon": "Manaphy",
+    "level": 65,
+    "location": "Route 212",
+    "npc": "Maid on Route 212",
+    "requirement": "Post-Dex: visit Fight Area via Snowpoint ferry",
+    "stage": "post_dex",
+    "heldItem": "Starf Berry",
+    "moves": [
+      "Tail Glow",
+      "Grass Knot",
+      "Surf",
+      "Signal Beam"
+    ]
+  },
+  {
+    "pokemon": "Ho-Oh",
+    "level": 80,
+    "location": "Solaceon Ruins Bottom",
+    "npc": "Gentleman at bottom of Solaceon Ruins",
+    "requirement": "Post-Stark: capture all three Legendary Beasts (Raikou, Entei, Suicune)",
+    "stage": "post_stark",
+    "heldItem": "Sacred Ash",
+    "moves": [
+      "Sacred Fire",
+      "Protect",
+      "Aerial Ace",
+      "Punishment"
+    ]
+  },
+  {
+    "pokemon": "Lugia",
+    "level": 80,
+    "location": "Iron Island",
+    "npc": "Socialite in Iron Island",
+    "requirement": "Post-Stark: capture all three Roaming Birds and inform Prof. Oak in Eterna",
+    "stage": "post_stark",
+    "heldItem": "Sacred Ash",
+    "moves": [
+      "Aeroblast",
+      "Roost",
+      "Psychic",
+      "Calm Mind"
+    ]
+  },
+  {
+    "pokemon": "Celebi",
+    "level": 75,
+    "location": "Eterna Forest",
+    "npc": "Female Scientist in Eterna Forest",
+    "requirement": "Post-Stark: complete Stark Mountain",
+    "stage": "post_stark",
+    "heldItem": "Lum Berry",
+    "moves": [
+      "Charge Beam",
+      "Leaf Storm",
+      "Psychic",
+      "Giga Drain"
+    ]
+  },
+  {
+    "pokemon": "Groudon",
+    "level": 80,
+    "location": "Stark Mountain Interior 2",
+    "npc": "Waiter in Stark Mountain Interior 2",
+    "requirement": "Post-Stark: complete Stark Mountain",
+    "stage": "post_stark",
+    "heldItem": "Soft Sand",
+    "moves": [
+      "Thunder Punch",
+      "Fire Punch",
+      "Earthquake",
+      "Bulk Up"
+    ]
+  },
+  {
+    "pokemon": "Kyogre",
+    "level": 80,
+    "location": "Route 213",
+    "npc": "Male Swimmer in Route 213",
+    "requirement": "Post-Stark: complete Stark Mountain",
+    "stage": "post_stark",
+    "heldItem": "Mystic Water",
+    "moves": [
+      "Calm Mind",
+      "Thunder",
+      "Ice Beam",
+      "Water Spout"
+    ]
+  },
+  {
+    "pokemon": "Rayquaza",
+    "level": 85,
+    "location": "Route 207",
+    "npc": "Male Snow Ranger on Route 207",
+    "requirement": "Post-Stark: complete Stark Mountain",
+    "stage": "post_stark",
+    "heldItem": "Dragon Fang",
+    "moves": [
+      "Dragon Dance",
+      "ExtremeSpeed",
+      "Outrage",
+      "Earthquake"
+    ]
+  },
+  {
+    "pokemon": "Deoxys",
+    "level": 85,
+    "location": "Route 214",
+    "npc": "Male Team Galactic Grunt on Route 214",
+    "requirement": "Post-Stark: complete Stark Mountain",
+    "stage": "post_stark",
+    "heldItem": "Petaya Berry",
+    "moves": [
+      "Recover",
+      "Psycho Boost",
+      "Thunderbolt",
+      "Charge Beam"
+    ]
+  },
+  {
+    "pokemon": "Mew",
+    "level": 75,
+    "location": "Floaroma Meadow",
+    "npc": "Female Child in Floaroma Meadow",
+    "requirement": "Post-Stark: complete Stark Mountain",
+    "stage": "post_stark",
+    "heldItem": "Lum Berry",
+    "moves": [
+      "Hidden Power",
+      "Ice Beam",
+      "Dark Pulse",
+      "Aura Sphere"
+    ]
+  },
+  {
+    "pokemon": "Mewtwo",
+    "level": 85,
+    "location": "Route 221",
+    "npc": "Rich Boy on Route 221",
+    "requirement": "Post-Stark: complete Stark Mountain, pass lengthy quiz",
+    "stage": "post_stark",
+    "heldItem": "Wise Glasses",
+    "moves": [
+      "Thunderbolt",
+      "Psychic",
+      "Ice Beam",
+      "Recover"
+    ]
+  },
+  {
+    "pokemon": "Arceus",
+    "level": 95,
+    "location": "Mt. Coronet (below by drake's nail)",
+    "npc": "Painter NPC in Mt. Coronet",
+    "requirement": "Earn National Dex Diploma in Lake Valor (capture all Pokémon except Mythicals)",
+    "stage": "diploma",
+    "heldItem": "Petaya Berry",
+    "moves": [
+      "Judgment",
+      "Spacial Rend",
+      "Recover",
+      "Flamethrower"
+    ]
+  }
+]

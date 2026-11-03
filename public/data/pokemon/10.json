@@ -1,0 +1,217 @@
+{
+  "id": 10,
+  "sinnohId": null,
+  "name": "Caterpie",
+  "genus": "Worm Pokémon",
+  "flavorText": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+  "types": [
+    "Bug"
+  ],
+  "height": {
+    "meters": 0.3,
+    "inches": 12
+  },
+  "weight": {
+    "kg": 2.9,
+    "lbs": 6.4
+  },
+  "abilities": [
+    "Shield Dust"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 255,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "specialAttack": 20,
+    "specialDefense": 20,
+    "speed": 45,
+    "bst": 195
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.5,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 1,
+    "Ground": 0.5,
+    "Flying": 2,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 7,
+      "target": "Metapod"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Eterna Forest",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 13,
+        "maxLevel": 13,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 5,
+        "maxLevel": 5,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 5,
+        "maxLevel": 5,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 10,
+        "maxLevel": 10,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 10,
+        "maxLevel": 10,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "radar",
+        "pokemon": "Caterpie",
+        "rate": 11,
+        "timeOfDay": "Any",
+        "notes": "Poké Radar",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Salac Berry",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "String Shot",
+          "type": "Bug",
+          "category": "Status",
+          "power": null,
+          "accuracy": 95,
+          "pp": 40,
+          "description": "The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 15
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 1
+        },
+        {
+          "name": "String Shot",
+          "type": "Bug",
+          "category": "Status",
+          "power": null,
+          "accuracy": 95,
+          "pp": 40,
+          "description": "The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.",
+          "level": 1
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 15
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        }
+      ]
+    }
+  }
+}

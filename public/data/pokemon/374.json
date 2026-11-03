@@ -1,0 +1,181 @@
+{
+  "id": 374,
+  "sinnohId": null,
+  "name": "Beldum",
+  "genus": "Iron Ball Pokémon",
+  "flavorText": "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "height": {
+    "meters": 0.61,
+    "inches": 24
+  },
+  "weight": {
+    "kg": 95.2,
+    "lbs": 209.9
+  },
+  "abilities": [
+    "Clear Body"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 3,
+  "genderRatio": "no_gender",
+  "eggGroups": [
+    "mineral",
+    "mineral"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 80,
+    "specialAttack": 35,
+    "specialDefense": 60,
+    "speed": 30,
+    "bst": 300
+  },
+  "typeMatchups": {
+    "Normal": 0.5,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.5,
+    "Ice": 0.5,
+    "Fighting": 1,
+    "Poison": 0,
+    "Ground": 2,
+    "Flying": 0.5,
+    "Psychic": 0.25,
+    "Bug": 1,
+    "Rock": 0.5,
+    "Ghost": 1,
+    "Dragon": 0.5,
+    "Steel": 0.5,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 20,
+      "target": "Metang"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 51,
+        "maxLevel": 51,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 228",
+        "method": "walk",
+        "rate": 20,
+        "minLevel": 52,
+        "maxLevel": 52,
+        "source": "vanilla"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Metal Coat",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Take Down",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.",
+          "level": 1
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe slams the target with its steel-hard head. It may also make the target flinch."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user hardens its body’s surface like iron, sharply raising its Defense stat."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Take Down",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.",
+          "level": 1
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The foe slams the target with its steel-hard head. It may also make the target flinch."
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15,
+          "description": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch."
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user hardens its body’s surface like iron, sharply raising its Defense stat."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "id": 412,
+  "sinnohId": 45,
+  "name": "Burmy",
+  "genus": "Bagworm Pokémon",
+  "flavorText": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
+  "types": [
+    "Bug"
+  ],
+  "height": {
+    "meters": 0.2,
+    "inches": 8
+  },
+  "weight": {
+    "kg": 3.4,
+    "lbs": 7.5
+  },
+  "abilities": [
+    "Shed Skin"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 120,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "specialAttack": 29,
+    "specialDefense": 45,
+    "speed": 36,
+    "bst": 224
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.5,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 1,
+    "Ground": 0.5,
+    "Flying": 2,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level_female",
+      "level": 20,
+      "target": "Wormadam"
+    },
+    {
+      "method": "level_male",
+      "level": 20,
+      "target": "Mothim"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 206",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 207",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 211",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 215",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Fuego Ironworks",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Floaroma Meadow",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 206",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 207",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 211",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 215",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Fuego Ironworks",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Floaroma Meadow",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "walk",
+        "pokemon": "Burmy",
+        "rate": 20,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 205 South",
+        "method": "walk",
+        "pokemon": "Burmy",
+        "rate": 5,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 205 North",
+        "method": "walk",
+        "pokemon": "Burmy",
+        "rate": 5,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Spelon Berry",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+          "level": 1
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 10
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 15
+        },
+        {
+          "name": "Hidden Power",
+          "type": "Normal",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+          "level": 20
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+          "level": 1
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 95,
+          "pp": 35,
+          "description": "A physical attack in which the user charges and slams into the foe with its whole body.",
+          "level": 10
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 15
+        },
+        {
+          "name": "Hidden Power",
+          "type": "Normal",
+          "category": "Special",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+          "level": 20
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        }
+      ]
+    }
+  }
+}

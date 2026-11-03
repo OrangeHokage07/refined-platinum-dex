@@ -1,0 +1,156 @@
+{
+  "id": 11,
+  "sinnohId": null,
+  "name": "Metapod",
+  "genus": "Cocoon Pokémon",
+  "flavorText": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+  "types": [
+    "Bug"
+  ],
+  "height": {
+    "meters": 0.71,
+    "inches": 28
+  },
+  "weight": {
+    "kg": 9.9,
+    "lbs": 21.8
+  },
+  "abilities": [
+    "Shed Skin"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 120,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 55,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "speed": 30,
+    "bst": 205
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 0.5,
+    "Ice": 1,
+    "Fighting": 0.5,
+    "Poison": 1,
+    "Ground": 0.5,
+    "Flying": 2,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 2,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level",
+      "level": 10,
+      "target": "Butterfree"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Eterna Forest",
+        "method": "walk",
+        "rate": 4,
+        "minLevel": 13,
+        "maxLevel": 13,
+        "source": "vanilla"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Salac Berry",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Harden",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user stiffens all the muscles in its body to raise its Defense stat.",
+          "level": 1
+        },
+        {
+          "name": "Harden",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user stiffens all the muscles in its body to raise its Defense stat.",
+          "level": 7
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user hardens its body’s surface like iron, sharply raising its Defense stat."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Harden",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user stiffens all the muscles in its body to raise its Defense stat.",
+          "level": 1
+        },
+        {
+          "name": "Harden",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user stiffens all the muscles in its body to raise its Defense stat.",
+          "level": 7
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user hardens its body’s surface like iron, sharply raising its Defense stat."
+        }
+      ]
+    }
+  }
+}

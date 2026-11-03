@@ -1,0 +1,131 @@
+{
+  "id": 132,
+  "sinnohId": null,
+  "name": "Ditto",
+  "genus": "Transform Pokémon",
+  "flavorText": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+  "types": [
+    "Normal"
+  ],
+  "height": {
+    "meters": 0.3,
+    "inches": 12
+  },
+  "weight": {
+    "kg": 4,
+    "lbs": 8.8
+  },
+  "abilities": [
+    "Limber"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 35,
+  "genderRatio": "no_gender",
+  "eggGroups": [
+    "ditto",
+    "ditto"
+  ],
+  "baseStats": {
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "specialAttack": 48,
+    "specialDefense": 48,
+    "speed": 48,
+    "bst": 288
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 1,
+    "Water": 1,
+    "Electric": 1,
+    "Grass": 1,
+    "Ice": 1,
+    "Fighting": 2,
+    "Poison": 1,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 1,
+    "Ghost": 0,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Trophy Garden",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 22,
+        "maxLevel": 22,
+        "source": "vanilla"
+      },
+      {
+        "location": "Trophy Garden",
+        "method": "walk",
+        "rate": 5,
+        "minLevel": 22,
+        "maxLevel": 22,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "radar",
+        "pokemon": "Ditto",
+        "rate": 22,
+        "timeOfDay": "Any",
+        "notes": "Poké Radar",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Metal Powder",
+      "chance": 5
+    },
+    {
+      "item": "Quick Powder",
+      "chance": 50
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Transform",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user transforms into a copy of the foe right down to having the same move set.",
+          "level": 1
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Transform",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 10,
+          "description": "The user transforms into a copy of the foe right down to having the same move set.",
+          "level": 1
+        }
+      ],
+      "tmHm": [],
+      "tutor": []
+    }
+  }
+}

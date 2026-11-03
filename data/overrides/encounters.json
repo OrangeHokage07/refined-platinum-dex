@@ -1,0 +1,2887 @@
+[
+  {
+    "location": "Time (Morning, Day, Night) is in parenthesis. Absence of parenthesis means it is present all day. Because it's Platinum, all time",
+    "method": "walk",
+    "pokemon": "based changes are a flat",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "source": "refined"
+  },
+  {
+    "location": "Time (Morning, Day, Night) is in parenthesis. Absence of parenthesis means it is present all day. Because it's Platinum, all time",
+    "method": "walk",
+    "pokemon": "Oreburgh Gate B1F has",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "source": "refined"
+  },
+  {
+    "location": "Time (Morning, Day, Night) is in parenthesis. Absence of parenthesis means it is present all day. Because it's Platinum, all time",
+    "method": "walk",
+    "pokemon": "but in the Day Shieldon goes up to",
+    "rate": 14,
+    "timeOfDay": "Any",
+    "source": "refined"
+  },
+  {
+    "location": "Time (Morning, Day, Night) is in parenthesis. Absence of parenthesis means it is present all day. Because it's Platinum, all time",
+    "method": "walk",
+    "pokemon": "and in the Night Cranidos goes up to",
+    "rate": 14,
+    "timeOfDay": "Any",
+    "source": "refined"
+  },
+  {
+    "location": "Eterna Forest",
+    "method": "walk",
+    "pokemon": "Burmy",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet Upper 1F 2",
+    "method": "walk",
+    "pokemon": "Riolu",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet 3F",
+    "method": "walk",
+    "pokemon": "Golem",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet 4F, 5F, 6F (Peak)",
+    "method": "walk",
+    "pokemon": "Riolu",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet 4F, 5F, 6F (Peak)",
+    "method": "walk",
+    "pokemon": "Probopass",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet 4F, 5F, 6F (Peak)",
+    "method": "walk",
+    "pokemon": "Golem",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet Snowy",
+    "method": "walk",
+    "pokemon": "Machamp",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Acuity",
+    "method": "walk",
+    "pokemon": "Absol",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Acuity",
+    "method": "walk",
+    "pokemon": "Prinplup",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Acuity",
+    "method": "walk",
+    "pokemon": "Prinplup",
+    "rate": 10,
+    "timeOfDay": "Morning",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Golduck",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Bibarel",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Staravia",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Staraptor",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Yanmega",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Carnivine",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Ambipom",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Monferno",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Carnivine",
+    "rate": 10,
+    "timeOfDay": "Morning",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Staraptor",
+    "rate": 10,
+    "timeOfDay": "Morning",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Carnivine",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Ambipom",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Ambipom",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "walk",
+    "pokemon": "Monferno",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Verity",
+    "method": "walk",
+    "pokemon": "Kricketot",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4 Morning & Night",
+    "source": "refined"
+  },
+  {
+    "location": "Lost Tower 1F",
+    "method": "walk",
+    "pokemon": "Misdreavus",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lost Tower 1F",
+    "method": "walk",
+    "pokemon": "Duskull",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lost Tower 3F",
+    "method": "walk",
+    "pokemon": "Misdreavus",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lost Tower 3F",
+    "method": "walk",
+    "pokemon": "Duskull",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lost Tower 5F",
+    "method": "walk",
+    "pokemon": "Duskull",
+    "rate": 7,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lost Tower 5F",
+    "method": "walk",
+    "pokemon": "Murkrow",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Lost Tower 5F",
+    "method": "walk",
+    "pokemon": "Misdreavus",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Entrance",
+    "method": "walk",
+    "pokemon": "Murkrow",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Entrance",
+    "method": "walk",
+    "pokemon": "Misdreavus",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Entrance",
+    "method": "walk",
+    "pokemon": "Rotom",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Main",
+    "method": "walk",
+    "pokemon": "Murkrow",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Main",
+    "method": "walk",
+    "pokemon": "Misdreavus",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Main",
+    "method": "walk",
+    "pokemon": "Rotom",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau TV Room",
+    "method": "walk",
+    "pokemon": "Rotom",
+    "rate": 8,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau TV Room",
+    "method": "walk",
+    "pokemon": "Murkrow",
+    "rate": 6,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau TV Room",
+    "method": "walk",
+    "pokemon": "Misdreavus",
+    "rate": 6,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Dining Room",
+    "method": "walk",
+    "pokemon": "Murkrow",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Dining Room",
+    "method": "walk",
+    "pokemon": "Misdreavus",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Dining Room",
+    "method": "walk",
+    "pokemon": "Rotom",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Gengar Room",
+    "method": "walk",
+    "pokemon": "Haunter",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Old Chateau Gengar Room",
+    "method": "walk",
+    "pokemon": "Rotom",
+    "rate": 1,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Sendoff Spring",
+    "method": "walk",
+    "pokemon": "Golem",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Sendoff Spring",
+    "method": "walk",
+    "pokemon": "Staraptor",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Trophy Garden",
+    "method": "walk",
+    "pokemon": "Cherubi",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Valley Windworks",
+    "method": "walk",
+    "pokemon": "Drifloon",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Valley Windworks",
+    "method": "walk",
+    "pokemon": "Combee",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Valor Lakefront",
+    "method": "walk",
+    "pokemon": "Aipom",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Valor Lakefront",
+    "method": "walk",
+    "pokemon": "Yanma",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Valor Lakefront",
+    "method": "walk",
+    "pokemon": "Carnivine",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road 1F",
+    "method": "walk",
+    "pokemon": "Bastiodon",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road 1F",
+    "method": "walk",
+    "pokemon": "Rampardos",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road 2F",
+    "method": "walk",
+    "pokemon": "Rampardos",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road 2F",
+    "method": "walk",
+    "pokemon": "Bastiodon",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road 2F",
+    "method": "walk",
+    "pokemon": "Bastiodon",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road 2F",
+    "method": "walk",
+    "pokemon": "Rampardos",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F",
+    "method": "walk",
+    "pokemon": "Rampardos",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F",
+    "method": "walk",
+    "pokemon": "Bastiodon",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F",
+    "method": "walk",
+    "pokemon": "Bastiodon",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F",
+    "method": "walk",
+    "pokemon": "Rampardos",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Wayward Cave Main",
+    "method": "walk",
+    "pokemon": "Gible",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 204 South",
+    "method": "walk",
+    "pokemon": "Combee",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 204 North",
+    "method": "walk",
+    "pokemon": "Combee",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 205 South",
+    "method": "walk",
+    "pokemon": "Combee",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 205 South",
+    "method": "walk",
+    "pokemon": "Burmy",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 205 North",
+    "method": "walk",
+    "pokemon": "Pachirisu",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 205 North",
+    "method": "walk",
+    "pokemon": "Burmy",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 205 North",
+    "method": "walk",
+    "pokemon": "Combee",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 205 North",
+    "method": "walk",
+    "pokemon": "Combee",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 206",
+    "method": "walk",
+    "pokemon": "Stunky",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 208",
+    "method": "walk",
+    "pokemon": "Smeargle",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 208",
+    "method": "walk",
+    "pokemon": "Cherubi",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 209",
+    "method": "walk",
+    "pokemon": "Mothim",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 209",
+    "method": "walk",
+    "pokemon": "Chansey",
+    "rate": 6,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 210 South",
+    "method": "walk",
+    "pokemon": "Chansey",
+    "rate": 6,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 210 South",
+    "method": "walk",
+    "pokemon": "Mothim",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 210 North",
+    "method": "walk",
+    "pokemon": "Heracross",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 210 North",
+    "method": "walk",
+    "pokemon": "Heracross",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 211 East",
+    "method": "walk",
+    "pokemon": "Heracross",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 211 East",
+    "method": "walk",
+    "pokemon": "Heracross",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 212 North",
+    "method": "walk",
+    "pokemon": "Cherubi",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 212 North",
+    "method": "walk",
+    "pokemon": "Munchlax",
+    "rate": 6,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 212 South",
+    "method": "walk",
+    "pokemon": "Carnivine",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 213",
+    "method": "walk",
+    "pokemon": "Yanma",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "walk",
+    "pokemon": "Rhyhorn",
+    "rate": 25,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "walk",
+    "pokemon": "Graveler",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "walk",
+    "pokemon": "Houndour",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "walk",
+    "pokemon": "Stunky",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "walk",
+    "pokemon": "Skorupi",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "walk",
+    "pokemon": "Skorupi",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4 Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "walk",
+    "pokemon": "Rhyhorn",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4 Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "walk",
+    "pokemon": "Houndour",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "walk",
+    "pokemon": "Zubat",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 215",
+    "method": "walk",
+    "pokemon": "Aipom",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 215",
+    "method": "walk",
+    "pokemon": "Aipom",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Pre-E4 Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 216",
+    "method": "walk",
+    "pokemon": "Electabuzz",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 216",
+    "method": "walk",
+    "pokemon": "Absol",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 216",
+    "method": "walk",
+    "pokemon": "Snorunt",
+    "rate": 20,
+    "timeOfDay": "Night",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 217",
+    "method": "walk",
+    "pokemon": "Electabuzz",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 218",
+    "method": "walk",
+    "pokemon": "Glameow",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 221",
+    "method": "walk",
+    "pokemon": "Skuntank",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Route 222",
+    "method": "walk",
+    "pokemon": "Purugly",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Pre-E4",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple 1F",
+    "method": "walk",
+    "pokemon": "Golbat",
+    "rate": 65,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple 1F",
+    "method": "walk",
+    "pokemon": "Piloswine",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple 1F",
+    "method": "walk",
+    "pokemon": "Sneasel",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple 1F",
+    "method": "walk",
+    "pokemon": "Smoochum",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple 1F",
+    "method": "walk",
+    "pokemon": "Makuhita",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B1F",
+    "method": "walk",
+    "pokemon": "Piloswine",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B1F",
+    "method": "walk",
+    "pokemon": "Sneasel",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B1F",
+    "method": "walk",
+    "pokemon": "Jynx",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B1F",
+    "method": "walk",
+    "pokemon": "Hariyama",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B3F",
+    "method": "walk",
+    "pokemon": "Mamoswine",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B3F",
+    "method": "walk",
+    "pokemon": "Sneasel",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B3F",
+    "method": "walk",
+    "pokemon": "Jynx",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B3F",
+    "method": "walk",
+    "pokemon": "Hariyama",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B5F",
+    "method": "walk",
+    "pokemon": "Golbat",
+    "rate": 50,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B5F",
+    "method": "walk",
+    "pokemon": "Mamoswine",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B5F",
+    "method": "walk",
+    "pokemon": "Hariyama",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B5F",
+    "method": "walk",
+    "pokemon": "Sneasel",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Snowpoint Temple B5F",
+    "method": "walk",
+    "pokemon": "Jynx",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Camerupt",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Rhydon",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Blaziken",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Mawile",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Golem",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Skarmory",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Weezing",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Fearow",
+    "rate": 20,
+    "timeOfDay": "Day",
+    "notes": "Postgame Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Golbat",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "walk",
+    "pokemon": "Fearow",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B1F",
+    "method": "walk",
+    "pokemon": "Magcargo",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B1F",
+    "method": "walk",
+    "pokemon": "Rhydon",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B1F",
+    "method": "walk",
+    "pokemon": "Golem",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B1F",
+    "method": "walk",
+    "pokemon": "Weezing",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B1F",
+    "method": "walk",
+    "pokemon": "Golbat",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B1F",
+    "method": "walk",
+    "pokemon": "Slugma",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B1F",
+    "method": "walk",
+    "pokemon": "Camerupt",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B2F",
+    "method": "walk",
+    "pokemon": "Magcargo",
+    "rate": 25,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B2F",
+    "method": "walk",
+    "pokemon": "Weezing",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B2F",
+    "method": "walk",
+    "pokemon": "Golem",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B2F",
+    "method": "walk",
+    "pokemon": "Golbat",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B2F",
+    "method": "walk",
+    "pokemon": "Sableye",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B2F",
+    "method": "walk",
+    "pokemon": "Rhydon",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain B2F",
+    "method": "walk",
+    "pokemon": "Camerupt",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Turnback Cave Final Segment",
+    "method": "walk",
+    "pokemon": "Gengar",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back Entrance",
+    "method": "walk",
+    "pokemon": "Golem",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back Entrance",
+    "method": "walk",
+    "pokemon": "Rampardos",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back Entrance",
+    "method": "walk",
+    "pokemon": "Bastiodon",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 1",
+    "method": "walk",
+    "pokemon": "Aerodactyl",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 1",
+    "method": "walk",
+    "pokemon": "Armaldo",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 1",
+    "method": "walk",
+    "pokemon": "Cradily",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 1",
+    "method": "walk",
+    "pokemon": "Lucario",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 1",
+    "method": "walk",
+    "pokemon": "Cradily",
+    "rate": 10,
+    "timeOfDay": "Morning",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 1",
+    "method": "walk",
+    "pokemon": "Aerodactyl",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 1",
+    "method": "walk",
+    "pokemon": "Armaldo",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 2",
+    "method": "walk",
+    "pokemon": "Aerodactyl",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 2",
+    "method": "walk",
+    "pokemon": "Armaldo",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 2",
+    "method": "walk",
+    "pokemon": "Cradily",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 2",
+    "method": "walk",
+    "pokemon": "Lucario",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 2",
+    "method": "walk",
+    "pokemon": "Cradily",
+    "rate": 10,
+    "timeOfDay": "Morning",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 2",
+    "method": "walk",
+    "pokemon": "Aerodactyl",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 2",
+    "method": "walk",
+    "pokemon": "Armaldo",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 3",
+    "method": "walk",
+    "pokemon": "Aerodactyl",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 3",
+    "method": "walk",
+    "pokemon": "Armaldo",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 3",
+    "method": "walk",
+    "pokemon": "Cradily",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 3",
+    "method": "walk",
+    "pokemon": "Lucario",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 3",
+    "method": "walk",
+    "pokemon": "Cradily",
+    "rate": 10,
+    "timeOfDay": "Morning",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 3",
+    "method": "walk",
+    "pokemon": "Aerodactyl",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road B1F Back 3",
+    "method": "walk",
+    "pokemon": "Armaldo",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Floatzel",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Roselia",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Pelipper",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Gastrodon",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Jigglypuff",
+    "rate": 6,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Gloom",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Weepinbell",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Beautifly",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Bellsprout",
+    "rate": 20,
+    "timeOfDay": "Day",
+    "notes": "Postgame Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "walk",
+    "pokemon": "Oddish",
+    "rate": 20,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "walk",
+    "pokemon": "Machoke",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "walk",
+    "pokemon": "Graveler",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "walk",
+    "pokemon": "Raticate",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "walk",
+    "pokemon": "Venusaur",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "walk",
+    "pokemon": "Breloom",
+    "rate": 6,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "walk",
+    "pokemon": "Machamp",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "walk",
+    "pokemon": "Rattata",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "walk",
+    "pokemon": "Fearow",
+    "rate": 20,
+    "timeOfDay": "Day",
+    "notes": "Postgame Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "walk",
+    "pokemon": "Banette",
+    "rate": 20,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "walk",
+    "pokemon": "Machoke",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "walk",
+    "pokemon": "Raticate",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "walk",
+    "pokemon": "Pelipper",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "walk",
+    "pokemon": "Sceptile",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "walk",
+    "pokemon": "Machamp",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "walk",
+    "pokemon": "Rattata",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "walk",
+    "pokemon": "Kangaskhan",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "walk",
+    "pokemon": "Fearow",
+    "rate": 20,
+    "timeOfDay": "Day",
+    "notes": "Postgame Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "walk",
+    "pokemon": "Banette",
+    "rate": 20,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Camerupt",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Rhydon",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Weezing",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Typhlosion",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Skarmory",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Golem",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Numel",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Fearow",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Fearow",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Postgame Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Graveler",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Postgame Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Golbat",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "walk",
+    "pokemon": "Graveler",
+    "rate": 10,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "walk",
+    "pokemon": "Dugtrio",
+    "rate": 30,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "walk",
+    "pokemon": "Cacturne",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "walk",
+    "pokemon": "Hippowdon",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "walk",
+    "pokemon": "Sandslash",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "walk",
+    "pokemon": "Diglett",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "walk",
+    "pokemon": "Cacnea",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "walk",
+    "pokemon": "Sandslash",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Postgame Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "walk",
+    "pokemon": "Hippowdon",
+    "rate": 10,
+    "timeOfDay": "Day",
+    "notes": "Postgame Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "walk",
+    "pokemon": "Cacturne",
+    "rate": 20,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "walk",
+    "pokemon": "Roselia",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "walk",
+    "pokemon": "Parasect",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "walk",
+    "pokemon": "Meganium",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "walk",
+    "pokemon": "Purugly",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "walk",
+    "pokemon": "Volbeat",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "walk",
+    "pokemon": "Illumise",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "walk",
+    "pokemon": "Ledian",
+    "rate": 20,
+    "timeOfDay": "Morning",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "walk",
+    "pokemon": "Pidgeotto",
+    "rate": 20,
+    "timeOfDay": "Day",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "walk",
+    "pokemon": "Ariados",
+    "rate": 20,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "walk",
+    "pokemon": "Pelipper",
+    "rate": 25,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "walk",
+    "pokemon": "Floatzel",
+    "rate": 25,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "walk",
+    "pokemon": "Roselia",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "walk",
+    "pokemon": "Charizard",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "walk",
+    "pokemon": "Gloom",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "walk",
+    "pokemon": "Weepinbell",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "walk",
+    "pokemon": "Bellsprout",
+    "rate": 20,
+    "timeOfDay": "Day",
+    "notes": "Postgame Morning & Day",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "walk",
+    "pokemon": "Oddish",
+    "rate": 20,
+    "timeOfDay": "Night",
+    "notes": "Postgame",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet 4F",
+    "method": "good_rod",
+    "pokemon": "Barboach",
+    "rate": 55,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet 4F",
+    "method": "good_rod",
+    "pokemon": "Magikarp",
+    "rate": 40,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet 4F",
+    "method": "good_rod",
+    "pokemon": "Feebas",
+    "rate": 5,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet B1F",
+    "method": "good_rod",
+    "pokemon": "Magikarp",
+    "rate": 45,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet B1F",
+    "method": "good_rod",
+    "pokemon": "Barboach",
+    "rate": 40,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet B1F",
+    "method": "good_rod",
+    "pokemon": "Feebas",
+    "rate": 15,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet B1F",
+    "method": "super_rod",
+    "pokemon": "Gyarados",
+    "rate": 55,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet B1F",
+    "method": "super_rod",
+    "pokemon": "Whiscash",
+    "rate": 44,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet B1F",
+    "method": "super_rod",
+    "pokemon": "Feebas",
+    "rate": 1,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Victory Road 1F Back 2",
+    "method": "super_rod",
+    "pokemon": "now",
+    "rate": 80,
+    "timeOfDay": "Any",
+    "notes": "Fishing",
+    "source": "refined"
+  },
+  {
+    "location": "Acuity Lakefront",
+    "method": "radar",
+    "pokemon": "Castform",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Eterna Forest",
+    "method": "radar",
+    "pokemon": "Nincada",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Fuego Ironworks",
+    "method": "radar",
+    "pokemon": "Aron",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Acuity",
+    "method": "radar",
+    "pokemon": "Ditto",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "radar",
+    "pokemon": "Wobbuffet",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Verity",
+    "method": "radar",
+    "pokemon": "Caterpie",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Verity",
+    "method": "radar",
+    "pokemon": "Weedle",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Mt. Coronet Snowy",
+    "method": "radar",
+    "pokemon": "Loudred",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Sendoff Spring",
+    "method": "radar",
+    "pokemon": "Solrock",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Sendoff Spring",
+    "method": "radar",
+    "pokemon": "Lunatone",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Sendoff Spring",
+    "method": "radar",
+    "pokemon": "Spiritomb",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain",
+    "method": "radar",
+    "pokemon": "Vulpix",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain",
+    "method": "radar",
+    "pokemon": "Ninetales",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Trophy Garden",
+    "method": "radar",
+    "pokemon": "Growlithe",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Valley Windworks",
+    "method": "radar",
+    "pokemon": "Mareep",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Valor Lakefront",
+    "method": "radar",
+    "pokemon": "Seviper",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Valor Lakefront",
+    "method": "radar",
+    "pokemon": "Zangoose",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 201",
+    "method": "radar",
+    "pokemon": "Nidoran♂",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 201",
+    "method": "radar",
+    "pokemon": "Nidoran♀",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 202",
+    "method": "radar",
+    "pokemon": "Sentret",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 203",
+    "method": "radar",
+    "pokemon": "Seedot",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 204 (South)",
+    "method": "radar",
+    "pokemon": "Porygon",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 204 (North)",
+    "method": "radar",
+    "pokemon": "Sunkern",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 205 (South)",
+    "method": "radar",
+    "pokemon": "Hoppip",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 205 (North)",
+    "method": "radar",
+    "pokemon": "Slowpoke",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 206",
+    "method": "radar",
+    "pokemon": "Baltoy",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 207",
+    "method": "radar",
+    "pokemon": "Stantler",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 208",
+    "method": "radar",
+    "pokemon": "Lotad",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 208",
+    "method": "radar",
+    "pokemon": "Lombre",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 209",
+    "method": "radar",
+    "pokemon": "Exeggcute",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 210 (South)",
+    "method": "radar",
+    "pokemon": "Miltank",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 210 (South)",
+    "method": "radar",
+    "pokemon": "Tauros",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 210 (North)",
+    "method": "radar",
+    "pokemon": "Bagon",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 211 (West)",
+    "method": "radar",
+    "pokemon": "Tyrogue",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 212 (South)",
+    "method": "radar",
+    "pokemon": "Grimer",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 212 (North)",
+    "method": "radar",
+    "pokemon": "Eevee",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 213",
+    "method": "radar",
+    "pokemon": "Swellow",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "radar",
+    "pokemon": "Poochyena",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 214",
+    "method": "radar",
+    "pokemon": "Mightyena",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 215",
+    "method": "radar",
+    "pokemon": "Kecleon",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 216",
+    "method": "radar",
+    "pokemon": "Ursaring",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 217",
+    "method": "radar",
+    "pokemon": "Pineco",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 217",
+    "method": "radar",
+    "pokemon": "Forretress",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 218",
+    "method": "radar",
+    "pokemon": "Arbok",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 221",
+    "method": "radar",
+    "pokemon": "Meowth",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 222",
+    "method": "radar",
+    "pokemon": "Plusle",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 222",
+    "method": "radar",
+    "pokemon": "Minun",
+    "rate": 11,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 224",
+    "method": "radar",
+    "pokemon": "Shuckle",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "radar",
+    "pokemon": "Primeape",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "radar",
+    "pokemon": "Mankey",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "radar",
+    "pokemon": "Swalot",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "radar",
+    "pokemon": "Gulpin",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 227",
+    "method": "radar",
+    "pokemon": "Torkoal",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "radar",
+    "pokemon": "Vibrava",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 228",
+    "method": "radar",
+    "pokemon": "Trapinch",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "radar",
+    "pokemon": "Venomoth",
+    "rate": 20,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "radar",
+    "pokemon": "Venonat",
+    "rate": 2,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "radar",
+    "pokemon": "Togepi",
+    "rate": 22,
+    "timeOfDay": "Any",
+    "notes": "Poké Radar",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Valor",
+    "method": "starter",
+    "pokemon": "Chimchar",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  },
+  {
+    "location": "Lake Acuity",
+    "method": "starter",
+    "pokemon": "Piplup",
+    "rate": 4,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  },
+  {
+    "location": "Stark Mountain Exterior",
+    "method": "starter",
+    "pokemon": "Blaziken",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  },
+  {
+    "location": "Route 225",
+    "method": "starter",
+    "pokemon": "Venusaur",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "starter",
+    "pokemon": "Sceptile",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  },
+  {
+    "location": "Route 226",
+    "method": "surf",
+    "pokemon": "Swampert",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "starter",
+    "pokemon": "Meganium",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  },
+  {
+    "location": "Route 229",
+    "method": "surf",
+    "pokemon": "Blastoise",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "starter",
+    "pokemon": "Charizard",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  },
+  {
+    "location": "Route 230",
+    "method": "surf",
+    "pokemon": "Feraligatr",
+    "rate": 10,
+    "timeOfDay": "Any",
+    "notes": "Wild Starter",
+    "source": "refined"
+  }
+]

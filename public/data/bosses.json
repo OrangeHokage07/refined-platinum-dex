@@ -1,0 +1,1174 @@
+[
+  {
+    "name": "Roark",
+    "title": "Gym Leader",
+    "location": "Oreburgh Gym",
+    "stage": "Badges: 0 (Badge 1)",
+    "team": [
+      {
+        "pokemon": "Geodude",
+        "level": 12,
+        "item": "Hard Stone",
+        "moves": [
+          "Rock Throw",
+          "Rock Polish",
+          "Defense Curl",
+          "Rollout"
+        ]
+      },
+      {
+        "pokemon": "Onix",
+        "level": 12,
+        "item": "Hard Stone",
+        "moves": [
+          "Stealth Rock",
+          "Rock Throw",
+          "Screech",
+          "Bind"
+        ]
+      },
+      {
+        "pokemon": "Cranidos",
+        "level": 14,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Headbutt",
+          "Leer",
+          "Rock Tomb",
+          "Pursuit"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gardenia",
+    "title": "Gym Leader",
+    "location": "Eterna Gym",
+    "stage": "Badges: 1 (Badge 2)",
+    "team": [
+      {
+        "pokemon": "Cherubi",
+        "level": 18,
+        "item": "Miracle Seed",
+        "moves": [
+          "Grass Knot",
+          "Leech Seed",
+          "Nature Power",
+          "Sunny Day"
+        ]
+      },
+      {
+        "pokemon": "Turtwig",
+        "level": 19,
+        "item": "Miracle Seed",
+        "moves": [
+          "Reflect",
+          "Razor Leaf",
+          "Sunny Day",
+          "Giga Drain"
+        ]
+      },
+      {
+        "pokemon": "Roserade",
+        "level": 22,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Grass Knot",
+          "Poison Sting",
+          "Magical Leaf",
+          "Stun Spore"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fantina",
+    "title": "Gym Leader",
+    "location": "Hearthome Gym",
+    "stage": "Badges: 2 (Badge 3)",
+    "team": [
+      {
+        "pokemon": "Duskull",
+        "level": 24,
+        "item": "Spell Tag",
+        "moves": [
+          "Will-O-Wisp",
+          "Shadow Sneak",
+          "Confuse Ray",
+          "Pursuit"
+        ]
+      },
+      {
+        "pokemon": "Haunter",
+        "level": 24,
+        "item": "Spell Tag",
+        "moves": [
+          "Shadow Claw",
+          "Confuse Ray",
+          "Hypnosis",
+          "Ominous Wind"
+        ]
+      },
+      {
+        "pokemon": "Mismagius",
+        "level": 26,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Shadow Ball",
+          "Psybeam",
+          "Magical Leaf",
+          "Confuse Ray"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maylene",
+    "title": "Gym Leader",
+    "location": "Veilstone Gym",
+    "stage": "Badges: 3 (Badge 4)",
+    "team": [
+      {
+        "pokemon": "Meditite",
+        "level": 28,
+        "item": "Black Belt",
+        "moves": [
+          "Fake Out",
+          "Drain Punch",
+          "Rock Tomb",
+          "Light Screen"
+        ]
+      },
+      {
+        "pokemon": "Machoke",
+        "level": 29,
+        "item": "Black Belt",
+        "moves": [
+          "Rock Tomb",
+          "Karate Chop",
+          "Foresight",
+          "Strength"
+        ]
+      },
+      {
+        "pokemon": "Lucario",
+        "level": 32,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Drain Punch",
+          "Bone Rush",
+          "Force Palm",
+          "Metal Claw"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crasher Wake",
+    "title": "Gym Leader",
+    "location": "Pastoria Gym",
+    "stage": "Badges: 4 (Badge 5)",
+    "team": [
+      {
+        "pokemon": "Gyarados",
+        "level": 33,
+        "item": "Wacan Berry",
+        "moves": [
+          "Waterfall",
+          "Bite",
+          "Twister",
+          "Dragon Rage"
+        ]
+      },
+      {
+        "pokemon": "Quagsire",
+        "level": 34,
+        "item": "Rindo Berry",
+        "moves": [
+          "Water Pulse",
+          "Mud Bomb",
+          "Amnesia",
+          "Yawn"
+        ]
+      },
+      {
+        "pokemon": "Floatzel",
+        "level": 37,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Aqua Jet",
+          "Brine",
+          "Crunch",
+          "Ice Fang"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Byron",
+    "title": "Gym Leader",
+    "location": "Canalave Gym",
+    "stage": "Badges: 5 (Badge 6)",
+    "team": [
+      {
+        "pokemon": "Magneton",
+        "level": 37,
+        "item": "Occa Berry",
+        "moves": [
+          "Flash Cannon",
+          "Thunderbolt",
+          "Tri Attack",
+          "Thunder Wave"
+        ]
+      },
+      {
+        "pokemon": "Steelix",
+        "level": 38,
+        "item": "Passho Berry",
+        "moves": [
+          "Earthquake",
+          "Iron Tail",
+          "Ice Fang",
+          "Sandstorm"
+        ]
+      },
+      {
+        "pokemon": "Bastiodon",
+        "level": 41,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Iron Head",
+          "Stone Edge",
+          "Ancient Power",
+          "Taunt"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Candice",
+    "title": "Gym Leader",
+    "location": "Snowpoint Gym",
+    "stage": "Badges: 6 (Badge 7)",
+    "team": [
+      {
+        "pokemon": "Sneasel",
+        "level": 40,
+        "item": "Chople Berry",
+        "moves": [
+          "Slash",
+          "Ice Shard",
+          "Faint Attack",
+          "Aerial Ace"
+        ]
+      },
+      {
+        "pokemon": "Piloswine",
+        "level": 40,
+        "item": "Passho Berry",
+        "moves": [
+          "Earthquake",
+          "Blizzard",
+          "Hail",
+          "Avalanche"
+        ]
+      },
+      {
+        "pokemon": "Abomasnow",
+        "level": 42,
+        "item": "Occa Berry",
+        "moves": [
+          "Wood Hammer",
+          "Blizzard",
+          "Water Pulse",
+          "Focus Blast"
+        ]
+      },
+      {
+        "pokemon": "Froslass",
+        "level": 44,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Blizzard",
+          "Shadow Ball",
+          "Psychic",
+          "Double Team"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Volkner",
+    "title": "Gym Leader",
+    "location": "Sunyshore Gym",
+    "stage": "Badges: 7 (Badge 8)",
+    "team": [
+      {
+        "pokemon": "Jolteon",
+        "level": 46,
+        "item": "Shuca Berry",
+        "moves": [
+          "Thunderbolt",
+          "Shadow Ball",
+          "Charge Beam",
+          "Iron Tail"
+        ]
+      },
+      {
+        "pokemon": "Raichu",
+        "level": 46,
+        "item": "Focus Sash",
+        "moves": [
+          "Thunderbolt",
+          "Brick Break",
+          "Quick Attack",
+          "Signal Beam"
+        ]
+      },
+      {
+        "pokemon": "Luxray",
+        "level": 48,
+        "item": "Magnet",
+        "moves": [
+          "Thunder Fang",
+          "Crunch",
+          "Fire Fang",
+          "Ice Fang"
+        ]
+      },
+      {
+        "pokemon": "Electivire",
+        "level": 50,
+        "item": "Sitrus Berry",
+        "moves": [
+          "ThunderPunch",
+          "Fire Punch",
+          "Cross Chop",
+          "Giga Impact"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aaron",
+    "title": "Elite Four",
+    "location": "Pokémon League",
+    "stage": "Elite Four",
+    "team": [
+      {
+        "pokemon": "Yanmega",
+        "level": 49,
+        "item": "Wise Glasses",
+        "moves": [
+          "Bug Buzz",
+          "Air Slash",
+          "Ancient Power",
+          "U-turn"
+        ]
+      },
+      {
+        "pokemon": "Scizor",
+        "level": 49,
+        "item": "Occa Berry",
+        "moves": [
+          "Bullet Punch",
+          "X-Scissor",
+          "Night Slash",
+          "Iron Head"
+        ]
+      },
+      {
+        "pokemon": "Heracross",
+        "level": 51,
+        "item": "Flame Orb",
+        "moves": [
+          "Megahorn",
+          "Close Combat",
+          "Night Slash",
+          "Stone Edge"
+        ]
+      },
+      {
+        "pokemon": "Vespiquen",
+        "level": 50,
+        "item": "Leftovers",
+        "moves": [
+          "Attack Order",
+          "Defend Order",
+          "Heal Order",
+          "Power Gem"
+        ]
+      },
+      {
+        "pokemon": "Drapion",
+        "level": 53,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Cross Poison",
+          "Night Slash",
+          "Earthquake",
+          "Ice Fang"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bertha",
+    "title": "Elite Four",
+    "location": "Pokémon League",
+    "stage": "Elite Four",
+    "team": [
+      {
+        "pokemon": "Whiscash",
+        "level": 50,
+        "item": "Rindo Berry",
+        "moves": [
+          "Earthquake",
+          "Aqua Tail",
+          "Zen Headbutt",
+          "Rock Slide"
+        ]
+      },
+      {
+        "pokemon": "Gliscor",
+        "level": 53,
+        "item": "Yache Berry",
+        "moves": [
+          "Earthquake",
+          "Fire Fang",
+          "Ice Fang",
+          "Thunder Fang"
+        ]
+      },
+      {
+        "pokemon": "Hippowdon",
+        "level": 52,
+        "item": "Smooth Rock",
+        "moves": [
+          "Earthquake",
+          "Crunch",
+          "Stone Edge",
+          "Yawn"
+        ]
+      },
+      {
+        "pokemon": "Golem",
+        "level": 52,
+        "item": "Passho Berry",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Fire Punch",
+          "Explosion"
+        ]
+      },
+      {
+        "pokemon": "Rhyperior",
+        "level": 55,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Earthquake",
+          "Rock Wrecker",
+          "Megahorn",
+          "Avalanche"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Flint",
+    "title": "Elite Four",
+    "location": "Pokémon League",
+    "stage": "Elite Four",
+    "team": [
+      {
+        "pokemon": "Houndoom",
+        "level": 52,
+        "item": "Passho Berry",
+        "moves": [
+          "Flamethrower",
+          "Dark Pulse",
+          "Sludge Bomb",
+          "Sunny Day"
+        ]
+      },
+      {
+        "pokemon": "Flareon",
+        "level": 53,
+        "item": "Charcoal",
+        "moves": [
+          "Flare Blitz",
+          "Quick Attack",
+          "Iron Tail",
+          "Will-O-Wisp"
+        ]
+      },
+      {
+        "pokemon": "Rapidash",
+        "level": 53,
+        "item": "Wide Lens",
+        "moves": [
+          "Flare Blitz",
+          "Megahorn",
+          "Poison Jab",
+          "Bounce"
+        ]
+      },
+      {
+        "pokemon": "Infernape",
+        "level": 55,
+        "item": "Focus Sash",
+        "moves": [
+          "Flare Blitz",
+          "Close Combat",
+          "ThunderPunch",
+          "Mach Punch"
+        ]
+      },
+      {
+        "pokemon": "Magmortar",
+        "level": 57,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Fire Blast",
+          "Thunderbolt",
+          "Solar Beam",
+          "Focus Blast"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lucian",
+    "title": "Elite Four",
+    "location": "Pokémon League",
+    "stage": "Elite Four",
+    "team": [
+      {
+        "pokemon": "Mr. Mime",
+        "level": 53,
+        "item": "Light Clay",
+        "moves": [
+          "Psychic",
+          "Thunderbolt",
+          "Reflect",
+          "Light Screen"
+        ]
+      },
+      {
+        "pokemon": "Espeon",
+        "level": 55,
+        "item": "Colbur Berry",
+        "moves": [
+          "Psychic",
+          "Shadow Ball",
+          "Signal Beam",
+          "Calm Mind"
+        ]
+      },
+      {
+        "pokemon": "Bronzong",
+        "level": 54,
+        "item": "Occa Berry",
+        "moves": [
+          "Psychic",
+          "Gyro Ball",
+          "Earthquake",
+          "Calm Mind"
+        ]
+      },
+      {
+        "pokemon": "Alakazam",
+        "level": 56,
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Focus Blast",
+          "Shadow Ball",
+          "Energy Ball"
+        ]
+      },
+      {
+        "pokemon": "Gallade",
+        "level": 59,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Psycho Cut",
+          "Close Combat",
+          "Stone Edge",
+          "Night Slash"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cynthia",
+    "title": "Champion",
+    "location": "Pokémon League",
+    "stage": "Champion",
+    "team": [
+      {
+        "pokemon": "Spiritomb",
+        "level": 58,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Shadow Ball",
+          "Dark Pulse",
+          "Psychic",
+          "Silver Wind"
+        ]
+      },
+      {
+        "pokemon": "Roserade",
+        "level": 58,
+        "item": "Poison Barb",
+        "moves": [
+          "Energy Ball",
+          "Sludge Bomb",
+          "Shadow Ball",
+          "Extrasensory"
+        ]
+      },
+      {
+        "pokemon": "Togekiss",
+        "level": 60,
+        "item": "Leftovers",
+        "moves": [
+          "Air Slash",
+          "Aura Sphere",
+          "Water Pulse",
+          "Shock Wave"
+        ]
+      },
+      {
+        "pokemon": "Lucario",
+        "level": 60,
+        "item": "Expert Belt",
+        "moves": [
+          "Aura Sphere",
+          "Dragon Pulse",
+          "Flash Cannon",
+          "Psychic"
+        ]
+      },
+      {
+        "pokemon": "Milotic",
+        "level": 58,
+        "item": "Flame Orb",
+        "moves": [
+          "Surf",
+          "Ice Beam",
+          "Mirror Coat",
+          "Recover"
+        ]
+      },
+      {
+        "pokemon": "Garchomp",
+        "level": 62,
+        "item": "Yache Berry",
+        "moves": [
+          "Dragon Rush",
+          "Earthquake",
+          "Brick Break",
+          "Giga Impact"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oak's Aide",
+    "title": "Superboss",
+    "location": "Route 230",
+    "stage": "Post-Stark",
+    "team": [
+      {
+        "pokemon": "Nidoking",
+        "level": 70,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Flamethrower",
+          "Earthquake",
+          "Sucker Punch",
+          "Megahorn"
+        ]
+      },
+      {
+        "pokemon": "Venusaur",
+        "level": 68,
+        "item": "Black Sludge",
+        "moves": [
+          "Sleep Powder",
+          "Power Whip",
+          "Synthesis",
+          "Earthquake"
+        ]
+      },
+      {
+        "pokemon": "Charizard",
+        "level": 68,
+        "item": "Wide Lens",
+        "moves": [
+          "Focus Blast",
+          "Air Slash",
+          "Fire Blast",
+          "Roost"
+        ]
+      },
+      {
+        "pokemon": "Blastoise",
+        "level": 68,
+        "item": "Chesto Berry",
+        "moves": [
+          "Surf",
+          "Ice Beam",
+          "Rest",
+          "Water Spout"
+        ]
+      },
+      {
+        "pokemon": "Tauros",
+        "level": 69,
+        "item": "Expert Belt",
+        "moves": [
+          "Earthquake",
+          "Stone Edge",
+          "Zen Headbutt",
+          "Body Slam"
+        ]
+      },
+      {
+        "pokemon": "Snorlax",
+        "level": 75,
+        "item": "Custap Berry",
+        "moves": [
+          "Body Slam",
+          "Earthquake",
+          "Crunch",
+          "Rest"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Altair",
+    "title": "Superboss (Weather Master)",
+    "location": "Route 228",
+    "stage": "Post-Weather Superbosses",
+    "team": [
+      {
+        "pokemon": "Tyranitar",
+        "level": 82,
+        "item": "Smooth Rock",
+        "moves": [
+          "Stone Edge",
+          "Crunch",
+          "Earthquake",
+          "Dragon Dance"
+        ]
+      },
+      {
+        "pokemon": "Abomasnow",
+        "level": 81,
+        "item": "Icy Rock",
+        "moves": [
+          "Blizzard",
+          "Wood Hammer",
+          "Earthquake",
+          "Ice Shard"
+        ]
+      },
+      {
+        "pokemon": "Pelipper",
+        "level": 81,
+        "item": "Damp Rock",
+        "moves": [
+          "Hydro Pump",
+          "Hurricane",
+          "Roost",
+          "U-turn"
+        ]
+      },
+      {
+        "pokemon": "Ninetales",
+        "level": 81,
+        "item": "Heat Rock",
+        "moves": [
+          "Fire Blast",
+          "Solar Beam",
+          "Will-O-Wisp",
+          "Hypnosis"
+        ]
+      },
+      {
+        "pokemon": "Castform",
+        "level": 82,
+        "item": "Life Orb",
+        "moves": [
+          "Weather Ball",
+          "Thunder",
+          "Blizzard",
+          "Fire Blast"
+        ]
+      },
+      {
+        "pokemon": "Dragonite",
+        "level": 85,
+        "item": "Lum Berry",
+        "moves": [
+          "Outrage",
+          "ExtremeSpeed",
+          "Fire Punch",
+          "Dragon Dance"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cyrus",
+    "title": "Galactic Superboss",
+    "location": "Turnback Cave",
+    "stage": "Post-Stark Superboss",
+    "team": [
+      {
+        "pokemon": "Weavile",
+        "level": 80,
+        "item": "Focus Sash",
+        "moves": [
+          "Night Slash",
+          "Ice Punch",
+          "Fake Out",
+          "Swords Dance"
+        ]
+      },
+      {
+        "pokemon": "Honchkrow",
+        "level": 80,
+        "item": "Life Orb",
+        "moves": [
+          "Brave Bird",
+          "Night Slash",
+          "Heat Wave",
+          "Superpower"
+        ]
+      },
+      {
+        "pokemon": "Crobat",
+        "level": 80,
+        "item": "Black Sludge",
+        "moves": [
+          "Cross Poison",
+          "Brave Bird",
+          "U-turn",
+          "Roost"
+        ]
+      },
+      {
+        "pokemon": "Gyarados",
+        "level": 82,
+        "item": "Wacan Berry",
+        "moves": [
+          "Waterfall",
+          "Stone Edge",
+          "Earthquake",
+          "Dragon Dance"
+        ]
+      },
+      {
+        "pokemon": "Houndoom",
+        "level": 82,
+        "item": "Focus Sash",
+        "moves": [
+          "Fire Blast",
+          "Dark Pulse",
+          "Nasty Plot",
+          "Hidden Power"
+        ]
+      },
+      {
+        "pokemon": "Tyranitar",
+        "level": 84,
+        "item": "Lum Berry",
+        "moves": [
+          "Stone Edge",
+          "Crunch",
+          "Earthquake",
+          "Fire Punch"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Saturn",
+    "title": "Galactic Superboss",
+    "location": "Galactic HQ",
+    "stage": "Post-Stark Superboss",
+    "team": [
+      {
+        "pokemon": "Bronzong",
+        "level": 78,
+        "item": "Light Clay",
+        "moves": [
+          "Reflect",
+          "Light Screen",
+          "Gyro Ball",
+          "Earthquake"
+        ]
+      },
+      {
+        "pokemon": "Toxicroak",
+        "level": 78,
+        "item": "Life Orb",
+        "moves": [
+          "Cross Chop",
+          "Gunk Shot",
+          "Sucker Punch",
+          "Swords Dance"
+        ]
+      },
+      {
+        "pokemon": "Golbat",
+        "level": 77,
+        "item": "Eviolite",
+        "moves": [
+          "Brave Bird",
+          "Poison Fang",
+          "Roost",
+          "U-turn"
+        ]
+      },
+      {
+        "pokemon": "Octillery",
+        "level": 77,
+        "item": "Expert Belt",
+        "moves": [
+          "Octazooka",
+          "Ice Beam",
+          "Energy Ball",
+          "Flamethrower"
+        ]
+      },
+      {
+        "pokemon": "Electivire",
+        "level": 79,
+        "item": "Expert Belt",
+        "moves": [
+          "ThunderPunch",
+          "Ice Punch",
+          "Cross Chop",
+          "Earthquake"
+        ]
+      },
+      {
+        "pokemon": "Alakazam",
+        "level": 80,
+        "item": "Focus Sash",
+        "moves": [
+          "Psychic",
+          "Focus Blast",
+          "Shadow Ball",
+          "Signal Beam"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mars",
+    "title": "Galactic Superboss",
+    "location": "Global Terminal",
+    "stage": "Post-Stark Superboss",
+    "team": [
+      {
+        "pokemon": "Purugly",
+        "level": 76,
+        "item": "Silk Scarf",
+        "moves": [
+          "Fake Out",
+          "Body Slam",
+          "Shadow Claw",
+          "Hypnosis"
+        ]
+      },
+      {
+        "pokemon": "Bronzong",
+        "level": 75,
+        "item": "Leftovers",
+        "moves": [
+          "Gyro Ball",
+          "Earthquake",
+          "Payback",
+          "Confuse Ray"
+        ]
+      },
+      {
+        "pokemon": "Golbat",
+        "level": 75,
+        "item": "Black Sludge",
+        "moves": [
+          "Brave Bird",
+          "Poison Fang",
+          "Confuse Ray",
+          "U-turn"
+        ]
+      },
+      {
+        "pokemon": "Yanmega",
+        "level": 76,
+        "item": "Choice Specs",
+        "moves": [
+          "Bug Buzz",
+          "Air Slash",
+          "Ancient Power",
+          "Shadow Ball"
+        ]
+      },
+      {
+        "pokemon": "Electivire",
+        "level": 77,
+        "item": "Life Orb",
+        "moves": [
+          "ThunderPunch",
+          "Fire Punch",
+          "Ice Punch",
+          "Cross Chop"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "title": "Galactic Superboss",
+    "location": "Ravaged Path",
+    "stage": "Post-Stark Superboss",
+    "team": [
+      {
+        "pokemon": "Skuntank",
+        "level": 76,
+        "item": "Black Glasses",
+        "moves": [
+          "Night Slash",
+          "Poison Jab",
+          "Flamethrower",
+          "Explosion"
+        ]
+      },
+      {
+        "pokemon": "Bronzong",
+        "level": 75,
+        "item": "Light Clay",
+        "moves": [
+          "Reflect",
+          "Light Screen",
+          "Gyro Ball",
+          "Earthquake"
+        ]
+      },
+      {
+        "pokemon": "Golbat",
+        "level": 75,
+        "item": "Black Sludge",
+        "moves": [
+          "Brave Bird",
+          "Poison Fang",
+          "U-turn",
+          "Roost"
+        ]
+      },
+      {
+        "pokemon": "Gastrodon",
+        "level": 76,
+        "item": "Rindo Berry",
+        "moves": [
+          "Earth Power",
+          "Surf",
+          "Ice Beam",
+          "Recover"
+        ]
+      },
+      {
+        "pokemon": "Magmortar",
+        "level": 77,
+        "item": "Life Orb",
+        "moves": [
+          "Fire Blast",
+          "Thunderbolt",
+          "Focus Blast",
+          "Hidden Power"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tower Tycoon Palmer",
+    "title": "Frontier Brain Superboss",
+    "location": "Barry's House (Twinleaf)",
+    "stage": "Silver Print Superboss",
+    "team": [
+      {
+        "pokemon": "Rhyperior",
+        "level": 74,
+        "item": "Passho Berry",
+        "moves": [
+          "Rock Wrecker",
+          "Earthquake",
+          "Megahorn",
+          "Avalanche"
+        ]
+      },
+      {
+        "pokemon": "Milotic",
+        "level": 74,
+        "item": "Leftovers",
+        "moves": [
+          "Surf",
+          "Ice Beam",
+          "Recover",
+          "Hypnosis"
+        ]
+      },
+      {
+        "pokemon": "Dragonite",
+        "level": 74,
+        "item": "Lum Berry",
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Fire Punch",
+          "Dragon Dance"
+        ]
+      },
+      {
+        "pokemon": "Cresselia",
+        "level": 75,
+        "item": "Chesto Berry",
+        "moves": [
+          "Psychic",
+          "Moonlight",
+          "Calm Mind",
+          "Ice Beam"
+        ]
+      },
+      {
+        "pokemon": "Regigigas",
+        "level": 76,
+        "item": "Sitrus Berry",
+        "moves": [
+          "Crush Grip",
+          "Zen Headbutt",
+          "Fire Punch",
+          "Earthquake"
+        ]
+      },
+      {
+        "pokemon": "Heatran",
+        "level": 75,
+        "item": "Shuca Berry",
+        "moves": [
+          "Magma Storm",
+          "Earth Power",
+          "Flash Cannon",
+          "Dragon Pulse"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1485 @@
+{
+  "id": 119,
+  "sinnohId": 79,
+  "name": "Seaking",
+  "genus": "Goldfish Pokémon",
+  "flavorText": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+  "types": [
+    "Water"
+  ],
+  "height": {
+    "meters": 1.3,
+    "inches": 51
+  },
+  "weight": {
+    "kg": 39,
+    "lbs": 86
+  },
+  "abilities": [
+    "Swift Swim",
+    "Water Veil"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 60,
+  "genderRatio": "female_50",
+  "eggGroups": [
+    "water 2",
+    "water 2"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 92,
+    "defense": 65,
+    "specialAttack": 65,
+    "specialDefense": 80,
+    "speed": 68,
+    "bst": 450
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 0.5,
+    "Water": 0.5,
+    "Electric": 2,
+    "Grass": 2,
+    "Ice": 0.5,
+    "Fighting": 1,
+    "Poison": 1,
+    "Ground": 1,
+    "Flying": 1,
+    "Psychic": 1,
+    "Bug": 1,
+    "Rock": 1,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 0.5,
+    "Dark": 1
+  },
+  "evolutions": [],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Sendoff Spring",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Sendoff Spring",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "good rod",
+        "rate": 4,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "good rod",
+        "rate": 1,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "good rod",
+        "rate": 4,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "good rod",
+        "rate": 1,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Verity",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "good rod",
+        "rate": 4,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "good rod",
+        "rate": 1,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Valor",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "good rod",
+        "rate": 4,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "good rod",
+        "rate": 1,
+        "minLevel": 25,
+        "maxLevel": 35,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Lake Acuity",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 203",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 204",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 229",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Twinleaf Town",
+        "method": "super rod",
+        "rate": 40,
+        "minLevel": 30,
+        "maxLevel": 40,
+        "source": "vanilla"
+      },
+      {
+        "location": "Twinleaf Town",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Twinleaf Town",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Celestic Town",
+        "method": "super rod",
+        "rate": 4,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      },
+      {
+        "location": "Celestic Town",
+        "method": "super rod",
+        "rate": 1,
+        "minLevel": 40,
+        "maxLevel": 55,
+        "source": "vanilla"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Lansat Berry",
+      "chance": 5
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+          "level": 1
+        },
+        {
+          "name": "Peck",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is jabbed with a sharply pointed beak or horn.",
+          "level": 1
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user wags its tail cutely, making the foe less wary. The target’s Defense stat is lowered.",
+          "level": 1
+        },
+        {
+          "name": "Water Sport",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.",
+          "level": 1
+        },
+        {
+          "name": "Horn Drill",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The foe is stabbed with a horn rotating like a drill. The foe instantly faints if it hits.",
+          "level": 1
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 7
+        },
+        {
+          "name": "Horn Attack",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is jabbed with a sharply pointed horn to inflict damage.",
+          "level": 11
+        },
+        {
+          "name": "Water Pulse",
+          "type": "Water",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user attacks the foe with a pulsing blast of water. It may also confuse the foe.",
+          "level": 17
+        },
+        {
+          "name": "Flail",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.",
+          "level": 21
+        },
+        {
+          "name": "Aqua Ring",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user envelops itself in a veil made of water. It regains some HP on every turn.",
+          "level": 27
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "The foe is jabbed repeatedly with a horn or beak two to five times in a row.",
+          "level": 31
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user charges the foe at an awesome speed. It can also be used to climb a waterfall.",
+          "level": 40
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user drops onto the foe with its full body weight. It may leave the foe paralyzed.",
+          "level": 41
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.",
+          "level": 56
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "Utilizing its tough and impressive horn, the user rams into the foe  with no letup.",
+          "level": 63
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM84",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM84"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fury Cutter",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 10,
+          "accuracy": 95,
+          "pp": 20,
+          "description": "The foe is slashed with scythes or claws. Its power increases if it hits in succession."
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user slaps down the foe’s held item, preventing the item from being used during the battle."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+          "level": 1
+        },
+        {
+          "name": "Peck",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 35,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "The foe is jabbed with a sharply pointed beak or horn.",
+          "level": 1
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30,
+          "description": "The user wags its tail cutely, making the foe less wary. The target’s Defense stat is lowered.",
+          "level": 1
+        },
+        {
+          "name": "Water Sport",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "description": "The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.",
+          "level": 1
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 1
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20,
+          "description": "The user generates odd sound waves from its body. It may confuse the target.",
+          "level": 7
+        },
+        {
+          "name": "Horn Attack",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 25,
+          "description": "The foe is jabbed with a sharply pointed horn to inflict damage.",
+          "level": 11
+        },
+        {
+          "name": "Water Pulse",
+          "type": "Water",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user attacks the foe with a pulsing blast of water. It may also confuse the foe.",
+          "level": 17
+        },
+        {
+          "name": "Flail",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.",
+          "level": 21
+        },
+        {
+          "name": "Aqua Ring",
+          "type": "Water",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "description": "The user envelops itself in a veil made of water. It regains some HP on every turn.",
+          "level": 27
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 15,
+          "accuracy": 85,
+          "pp": 20,
+          "description": "The foe is jabbed repeatedly with a horn or beak two to five times in a row.",
+          "level": 31
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "The user charges the foe at an awesome speed. It can also be used to climb a waterfall.",
+          "level": 40
+        },
+        {
+          "name": "Horn Drill",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 30,
+          "pp": 5,
+          "description": "The foe is stabbed with a horn rotating like a drill. The foe instantly faints if it hits.",
+          "level": 47
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "description": "The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.",
+          "level": 56
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 120,
+          "accuracy": 85,
+          "pp": 10,
+          "description": "Utilizing its tough and impressive horn, the user rams into the foe  with no letup.",
+          "level": 63
+        }
+      ],
+      "tmHm": [
+        {
+          "name": "TM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM03"
+        },
+        {
+          "name": "TM06",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM06"
+        },
+        {
+          "name": "TM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM07"
+        },
+        {
+          "name": "TM10",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM10"
+        },
+        {
+          "name": "TM13",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM13"
+        },
+        {
+          "name": "TM14",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM14"
+        },
+        {
+          "name": "TM15",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM15"
+        },
+        {
+          "name": "TM17",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM17"
+        },
+        {
+          "name": "TM18",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM18"
+        },
+        {
+          "name": "TM21",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM21"
+        },
+        {
+          "name": "TM27",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM27"
+        },
+        {
+          "name": "TM32",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM32"
+        },
+        {
+          "name": "TM42",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM42"
+        },
+        {
+          "name": "TM43",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM43"
+        },
+        {
+          "name": "TM44",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM44"
+        },
+        {
+          "name": "TM45",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM45"
+        },
+        {
+          "name": "TM58",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM58"
+        },
+        {
+          "name": "TM68",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM68"
+        },
+        {
+          "name": "TM78",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM78"
+        },
+        {
+          "name": "TM82",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM82"
+        },
+        {
+          "name": "TM83",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM83"
+        },
+        {
+          "name": "TM84",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM84"
+        },
+        {
+          "name": "TM87",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM87"
+        },
+        {
+          "name": "TM90",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "TM90"
+        },
+        {
+          "name": "HM03",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM03"
+        },
+        {
+          "name": "HM07",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": "",
+          "machine": "HM07"
+        }
+      ],
+      "tutor": [
+        {
+          "name": "Dive",
+          "type": "Water",
+          "category": "Physical",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "description": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn."
+        },
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Fury Cutter",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 10,
+          "accuracy": 95,
+          "pp": 20,
+          "description": "The foe is slashed with scythes or claws. Its power increases if it hits in succession."
+        },
+        {
+          "name": "Icy Wind",
+          "type": "Ice",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15,
+          "description": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat."
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water",
+          "category": "Physical",
+          "power": 90,
+          "accuracy": 90,
+          "pp": 10,
+          "description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying",
+          "category": "Physical",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5,
+          "description": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe."
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "category": "Physical",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user slaps down the foe’s held item, preventing the item from being used during the battle."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    }
+  }
+}

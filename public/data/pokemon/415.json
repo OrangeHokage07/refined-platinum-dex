@@ -1,0 +1,649 @@
+{
+  "id": 415,
+  "sinnohId": 53,
+  "name": "Combee",
+  "genus": "Tiny Bee Pokémon",
+  "flavorText": "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": {
+    "meters": 0.3,
+    "inches": 12
+  },
+  "weight": {
+    "kg": 5.5,
+    "lbs": 12.1
+  },
+  "abilities": [
+    "Honey Gather"
+  ],
+  "trainerAbilityNote": null,
+  "catchRate": 120,
+  "genderRatio": "female_12_5",
+  "eggGroups": [
+    "bug",
+    "bug"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "specialAttack": 30,
+    "specialDefense": 42,
+    "speed": 70,
+    "bst": 244
+  },
+  "typeMatchups": {
+    "Normal": 1,
+    "Fire": 2,
+    "Water": 1,
+    "Electric": 2,
+    "Grass": 0.25,
+    "Ice": 2,
+    "Fighting": 0.25,
+    "Poison": 1,
+    "Ground": 0,
+    "Flying": 2,
+    "Psychic": 1,
+    "Bug": 0.5,
+    "Rock": 4,
+    "Ghost": 1,
+    "Dragon": 1,
+    "Steel": 1,
+    "Dark": 1
+  },
+  "evolutions": [
+    {
+      "method": "level_female",
+      "level": 21,
+      "target": "Vespiquen"
+    }
+  ],
+  "whereToFind": {
+    "encounters": [
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 206",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 207",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 211",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 215",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Fuego Ironworks",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Floaroma Meadow",
+        "method": "honey tree",
+        "rate": 40,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 205",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 206",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 207",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 208",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 209",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 210",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 211",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 212",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 213",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 214",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 215",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 218",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 221",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Route 222",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Eterna Forest",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Fuego Ironworks",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Floaroma Meadow",
+        "method": "honey tree",
+        "rate": 20,
+        "minLevel": 5,
+        "maxLevel": 15,
+        "source": "vanilla"
+      },
+      {
+        "location": "Valley Windworks",
+        "method": "walk",
+        "pokemon": "Combee",
+        "rate": 5,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 204 South",
+        "method": "walk",
+        "pokemon": "Combee",
+        "rate": 5,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 204 North",
+        "method": "walk",
+        "pokemon": "Combee",
+        "rate": 10,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 205 South",
+        "method": "walk",
+        "pokemon": "Combee",
+        "rate": 20,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 205 North",
+        "method": "walk",
+        "pokemon": "Combee",
+        "rate": 4,
+        "timeOfDay": "Any",
+        "notes": "Pre-E4",
+        "source": "refined"
+      },
+      {
+        "location": "Route 205 North",
+        "method": "walk",
+        "pokemon": "Combee",
+        "rate": 10,
+        "timeOfDay": "Day",
+        "notes": "Pre-E4",
+        "source": "refined"
+      }
+    ],
+    "legendary": null
+  },
+  "heldItems": [
+    {
+      "item": "Honey",
+      "chance": 100
+    }
+  ],
+  "moves": {
+    "trainer": {
+      "levelUp": [
+        {
+          "name": "Sweet Scent",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A sweet scent that lowers the foe’s evasiveness. It also lures wild Pokémon if used in grass, etc.",
+          "level": 1
+        },
+        {
+          "name": "Gust",
+          "type": "Flying",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "A gust of wind is whipped up by wings and launched at the foe to inflict damage.",
+          "level": 1
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 13
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "Endeavor",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "An attack move that cuts down the foe’s HP to equal the user’s HP."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    },
+    "base": {
+      "levelUp": [
+        {
+          "name": "Sweet Scent",
+          "type": "Normal",
+          "category": "Status",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "A sweet scent that lowers the foe’s evasiveness. It also lures wild Pokémon if used in grass, etc.",
+          "level": 1
+        },
+        {
+          "name": "Gust",
+          "type": "Flying",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35,
+          "description": "A gust of wind is whipped up by wings and launched at the foe to inflict damage.",
+          "level": 1
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "category": "Physical",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "description": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
+          "level": 13
+        }
+      ],
+      "tmHm": [],
+      "tutor": [
+        {
+          "name": "MUD SLAP",
+          "type": "Normal",
+          "category": "Physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 0,
+          "description": ""
+        },
+        {
+          "name": "Ominous Wind",
+          "type": "Ghost",
+          "category": "Special",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once."
+        },
+        {
+          "name": "Snore",
+          "type": "Normal",
+          "category": "Special",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15,
+          "description": "An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch."
+        },
+        {
+          "name": "Air Cutter",
+          "type": "Flying",
+          "category": "Special",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 25,
+          "description": "The user launches razorlike wind to slash the foe. It has a high critical-hit ratio."
+        },
+        {
+          "name": "Endeavor",
+          "type": "Normal",
+          "category": "Physical",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 5,
+          "description": "An attack move that cuts down the foe’s HP to equal the user’s HP."
+        },
+        {
+          "name": "Swift",
+          "type": "Normal",
+          "category": "Special",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "description": "Star-shaped rays are shot at the foe. This attack never misses."
+        }
+      ]
+    }
+  }
+}
